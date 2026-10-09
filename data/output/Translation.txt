@@ -1,7 +1,7 @@
 # ========================================================
 # BẢN DỊCH VIỆT HÓA PLANTS VS. ZOMBIES FUSION (v4.0.5)
 # Dự án cộng tác mã nguồn mở giữa các AI Agents
-# Tổng số chuỗi đã dịch: 149
+# Tổng số chuỗi đã dịch: 962
 # ========================================================
 
 \n\n点击上方“节点说明”查看端口与连接例子。=\n\nNhấp vào "Mô tả Node" ở trên để xem cổng và ví dụ kết nối.
@@ -137,19 +137,832 @@ up刷新倒计时：\n{0}=Đếm ngược làm mới UP:\n{0}
 创建存档路径：=Tạo đường dẫn bản lưu: 
 删除关卡失败: {0}=Xóa màn chơi thất bại: {0}
 删除关卡时发生错误: =Lỗi khi xóa màn chơi: 
+删除存档出现错误：{0}\n路径：{1}=Lỗi khi xóa bản lưu: {0}\nĐường dẫn: {1}
+删除存档失败：=Xóa bản lưu thất bại:
+删除用户关卡异常: =Lỗi khi xóa màn chơi của người dùng: 
+刷新({0})=Làm mới ({0})
+刷新({0})(+{1})=Làm mới ({0}) (+{1})
+刷新存档列表时出错：=Lỗi khi làm mới danh sách bản lưu:
+刷新时有45%概率获得一次额外刷新次数=Khi làm mới có 45% tỉ lệ nhận thêm 1 lần làm mới
+刷新时触发=Kích hoạt khi làm mới
+刷新本行({0})=Làm mới dòng này ({0})
+刷新机会已用完=Đã hết lượt làm mới
+刷新次数=Số lần làm mới
+刷新次数不足=Không đủ số lần làm mới
+刷新次数已用完=Đã hết số lần làm mới
+刷新，消耗金币{0}=Làm mới, tốn {0} Vàng
+剩余金币：{0}=Vàng còn lại: {0}
+加10次刷新=Thêm 10 lần làm mới
+加载关卡类型 =Đang tải loại màn chơi 
+加载在线关卡列表时发生错误: =Lỗi khi tải danh sách màn chơi online: 
+加载存档：=Tải bản lưu:
+加载统一存档失败: =Tải bản lưu thống nhất thất bại: 
+加载自动存档失败: =Tải bản lưu tự động thất bại: 
+升级需要{0}金币=Nâng cấp cần {0} Vàng
+发现重复关卡：{0}-{1}，已覆盖=Phát hiện màn chơi trùng lặp: {0}-{1}, đã ghi đè
+取消=Hủy
+取消合并=Hủy hợp nhất
+取消收藏=Bỏ yêu thích
+只修改当前关卡的该类型数值；重新生成的实体使用新值。=Chỉ sửa giá trị số thuộc loại này của màn chơi hiện tại; thực thể tạo lại sẽ dùng giá trị mới.
+只备份事件节点。整关仍用底部“保存并生成关卡”。=Chỉ sao lưu Node sự kiện. Cả màn vẫn dùng "Lưu và tạo màn chơi" ở phía dưới.
+可刷新=Có thể làm mới
+可取消=Có thể hủy
+商店=Cửa Hàng Dave
+困难模式=Chế Độ Khó
+图中有无法恢复的节点，请保留原关卡文件，不要覆盖保存=Trong sơ đồ có Node không thể khôi phục, hãy giữ file màn chơi gốc, đừng lưu đè
+图检查（点击问题定位节点）=Kiểm tra sơ đồ (nhấp vào vấn đề để định vị Node)
+在5个队伍中选择1个你认为最强的队伍=Chọn 1 đội mạnh nhất theo bạn trong 5 đội
+在关卡开始时触发=Kích hoạt khi màn chơi bắt đầu
+在注册表中更新了关卡：{0}，总计{1}关=Đã cập nhật màn chơi trong registry: {0}, tổng cộng {1} màn
+在注册表中添加了新的关卡：{0}，总计{1}关=Đã thêm màn chơi mới vào registry: {0}, tổng cộng {1} màn
+在线关卡\nid：=Màn chơi Online\nID:
+在该模式中，=Trong chế độ này, 
+场景切换已取消=Đã hủy chuyển bối cảnh
+塔防冒险：第{0}关，关卡用时：{1}分{2:D2}秒=Phiêu Lưu Thủ Tháp: Màn {0}, thời gian qua màn: {1} phút {2:D2} giây
+塔防冒险：第{0}关，关卡用时：{1}秒=Phiêu Lưu Thủ Tháp: Màn {0}, thời gian qua màn: {1} giây
+备份现有统一存档: =Sao lưu bản lưu thống nhất hiện có: 
+多余的卡牌将在关卡胜利后返回仓库\n失败后不会退回！=Thẻ dư sẽ được trả về kho sau khi thắng màn chơi\nThua sẽ không được trả lại!
+大富翁：攒到30000金币=Cờ Tỷ Phú: tích đủ 30000 Vàng
+大帝抽到了白银奖：刷新次数+1=Đại Đế rút được giải Bạc: số lần làm mới +1
+大招需要{0}金币=Tuyệt chiêu cần {0} Vàng
+奖励选择=Chọn phần thưởng
+存档 =Bản lưu 
+存档{0}=Bản lưu {0}
+存档不存在=Bản lưu không tồn tại
+存档名称不能为空=Tên bản lưu không được để trống
+存档名称已存在=Tên bản lưu đã tồn tại
+存档失败: =Lưu thất bại: 
+存档已重命名为 =Đã đổi tên bản lưu thành 
+存档数量已达上限=Số lượng bản lưu đã đạt giới hạn
+存档文件夹: =Thư mục bản lưu: 
+存货不足，是否以{0}的价格购买{1}？=Kho không đủ hàng, có mua {1} với giá {0} không?
+定制模式=Chế Độ Tùy Chỉnh
+小松炉批发：关卡结束时场上至少有10个小松炉=Lò Tùng bán sỉ: khi kết thúc màn chơi, trên sân có ít nhất 10 Lò Tùng
+小松炉的价格降低至0=Giá của Lò Tùng giảm còn 0
+已全部抽完，按任意键返回=Đã rút hết, nhấn phím bất kỳ để quay lại
+已切换到存档：=Đã chuyển sang bản lưu:
+已删除关卡，请手动刷新关卡列表=Đã xóa màn chơi, hãy làm mới danh sách màn chơi thủ công
+已删除制作的关卡=Đã xóa màn chơi đã tạo
+已加载 {0} 个在线关卡列表=Đã tải {0} danh sách màn chơi online
+已更新：{0} \= {1}（当前关卡）=Đã cập nhật: {0} = {1} (màn chơi hiện tại)
+已生成关卡文件: {0}=Đã tạo file màn chơi: {0}
+已经有该路线了，点击“查询路线”操作=Đã có lộ trình này, nhấp "Tra cứu lộ trình" để thao tác
+已经选择路线：=Đã chọn lộ trình:
+已购买=Đã mua
+已达关卡卡牌数量上限=Đã đạt giới hạn số lượng thẻ của màn chơi
+已选择另一分支=Đã chọn nhánh khác
+已选择存档：=Đã chọn bản lưu:
+已选择第{0}路=Đã chọn hàng {0}
+带触发，将变量的值设置为指定布尔值=Kèm kích hoạt: đặt giá trị của biến thành boolean chỉ định
+带触发，将变量的值设置为指定整数=Kèm kích hoạt: đặt giá trị của biến thành số nguyên chỉ định
+带触发，将变量的值设置为指定浮点数=Kèm kích hoạt: đặt giá trị của biến thành số thực chỉ định
+开始Hold音符 (轨道{0})=Bắt đầu nốt giữ (Hold) (Làn {0})
+开始过场发生错误, =Lỗi khi bắt đầu chuyển cảnh, 
+当前密钥正确，将加载待审核关卡=Khóa hiện tại đúng, sẽ tải màn chơi chờ duyệt
+当前密钥错误，将加载已过审关卡=Khóa hiện tại sai, sẽ tải màn chơi đã duyệt
+当前无法读取本局奖励对应的诸神存档。=Hiện không đọc được bản lưu Chư Thần ứng với phần thưởng ván này.
+当前未使用本局的诸神存档，奖励等待切回原存档后发放。=Hiện chưa dùng bản lưu Chư Thần của ván này, phần thưởng sẽ phát sau khi chuyển về bản lưu gốc.
+当前没有任何路线，点击“新建路线”来创建=Hiện không có lộ trình nào, nhấp "Tạo lộ trình mới" để tạo
+当前诸神存档与开局存档不一致，无法保存奖励。=Bản lưu Chư Thần hiện tại không khớp bản lưu đầu ván, không thể lưu phần thưởng.
+当前诸神存档无法保存。=Không lưu được bản lưu Chư Thần hiện tại.
+恢复本关卡上次保存的事件草稿，可用撤销返回当前内容。=Khôi phục bản nháp sự kiện đã lưu lần trước của màn này, có thể dùng hoàn tác để quay về nội dung hiện tại.
+成功获取 {0} 个在线关卡=Lấy thành công {0} màn chơi online
+我方小队获得10%积分获取加成，每轮开始获得1次免费刷新=Đội của bạn được cộng thêm 10% điểm, mỗi vòng bắt đầu nhận 1 lần làm mới miễn phí
+抽象模式=Chế Độ Trừu Tượng
+按下鼠标左键返回=Nhấn chuột trái để quay lại
+挑战开始，坚持到第{0}波以获取奖励=Thử thách bắt đầu, trụ đến đợt {0} để nhận thưởng
+挑战模式=Chế Độ Thử Thách
+新的存档=Bản lưu mới
+无法从注册表获取关卡名称=Không lấy được tên màn chơi từ registry
+无法删除默认存档=Không thể xóa bản lưu mặc định
+无法重命名默认存档=Không thể đổi tên bản lưu mặc định
+旧关卡保持原设置即可。这里决定等待后读取哪次事件的数据。=Màn chơi cũ giữ nguyên cài đặt là được. Chỗ này quyết định sau khi chờ sẽ đọc dữ liệu sự kiện của lần nào.
+旧关卡兼容设置=Cài đặt tương thích màn chơi cũ
+是否以{0}的价格升级？=Nâng cấp với giá {0} chứ?
+显示一个多选菜单供玩家选择=Hiển thị menu đa chọn để người chơi lựa chọn
+显示奖励选择=Hiển thị lựa chọn phần thưởng
+普通模式=Chế Độ Thường
+暂停=Tạm dừng
+暂停或恢复波次倒计时=Tạm dừng hoặc tiếp tục đếm ngược đợt
+有效输入自动保存到关卡草稿；无效输入保留原值。=Dữ liệu nhập hợp lệ tự lưu vào bản nháp màn chơi; dữ liệu không hợp lệ giữ nguyên giá trị cũ.
+未命名关卡=Màn chơi chưa đặt tên
+未知原因购买失败=Mua thất bại vì lý do không xác định
+未设置=Chưa thiết lập
+本地关卡=Màn chơi cục bộ
+极速出售模式=Chế Độ Bán Siêu Tốc
+极难模式=Chế Độ Cực Khó
+标准模式=Chế Độ Tiêu Chuẩn
+根据BGM节奏点击下落的音符\n连击越高，子弹越多！=Nhấp vào nốt nhạc rơi theo nhịp BGM\nCombo càng cao, đạn càng nhiều!
+棋盘坐标从0开始：第一行/第一列填0，第二行/第二列填1。=Tọa độ bàn cờ bắt đầu từ 0: hàng 1/cột 1 điền 0, hàng 2/cột 2 điền 1.
+欢迎来到旅行模式\n请选择一项初始祝福=Chào mừng đến với Chế Độ Lữ Hành\nHãy chọn một phước lành khởi đầu
+正在下载关卡: =Đang tải xuống màn chơi: 
+正常出售模式=Chế Độ Bán Thường
+正常模式=Chế Độ Bình Thường
+每一轮开始时，获得2000积分=Mỗi vòng bắt đầu, nhận 2000 điểm
+每局开始的第一次融合，都会奖励50阳光=Lần dung hợp đầu tiên của mỗi ván đều thưởng 50 nắng
+每局开始给予75点初始阳光=Mỗi ván bắt đầu cho 75 nắng khởi đầu
+每次刷新消耗的钱币数量-5=Lượng Vàng tốn cho mỗi lần làm mới -5
+每次刷新，获得500积分=Mỗi lần làm mới, nhận 500 điểm
+每次刷新，阳光+10%=Mỗi lần làm mới, nắng +10%
+水芦荟的价格降低50=Giá của Nha Đam Nước giảm 50
+没有可用的选项供队伍{0}选择=Không có lựa chọn khả dụng cho đội {0}
+没有找到关卡数据=Không tìm thấy dữ liệu màn chơi
+没有找到在线关卡=Không tìm thấy màn chơi online
+没有行动次数了，请选择继续砸罐子或者按下回车键结束回合=Hết lượt hành động, hãy chọn tiếp tục đập lọ hoặc nhấn Enter để kết thúc lượt
+治疗范围增加到全屏=Phạm vi hồi máu tăng thành toàn màn hình
+消耗玩家指定数量的金币（如金币不足则触发失败端口）=Tiêu hao lượng Vàng chỉ định của người chơi (kích hoạt cổng thất bại nếu không đủ Vàng)
+消耗金币=Tiêu hao Vàng
+消耗金币：{0}=Tiêu hao Vàng: {0}
+混池模式（已选0个场景）=Chế độ Bể Hỗn Hợp (Đã chọn 0 bối cảnh)
+满阶已购买=Đã mua tối đa
+点击卡牌时触发=Kích hoạt khi nhấp vào thẻ
+点击屏幕继续=Nhấp màn hình để tiếp tục
+\n获得植物：=\nNhận thực vật:
+\n融合能力最强的10个植物:=\n10 thực vật có khả năng dung hợp mạnh nhất:
 \n豌豆射手可以融合出机枪射手吗？ =\nĐậu Bắn Súng có thể dung hợp ra Đậu Súng Máy không? 
+\n豌豆射手总共可融合出 {0} 种植物（包括间接融合）=\nĐậu Bắn Súng tổng cộng có thể dung hợp ra {0} loại thực vật (bao gồm dung hợp gián tiếp)
+  {0}费植物: {1}个=  Thực vật giá {0}: {1}
+  基础植物数量: {0}=  Số lượng thực vật cơ bản: {0}
+  最多子植物的植物: {0} ({1}个)\n=  Thực vật có nhiều thực vật con nhất: {0} ({1})\n
+  植物类型总数: {0}\n=  Tổng số loại thực vật: {0}\n
   豌豆射手 + {0} \= {1}=  Đậu Bắn Súng + {0} = {1}
  · 专家植物= · Thực vật Chuyên gia
  · 先解锁基础植物= · Hãy mở khóa thực vật cơ bản trước
  清除植物（U）= Dọn dẹp thực vật (U)
+ 缺少数据或植物类型无效= Thiếu dữ liệu hoặc loại thực vật không hợp lệ
+1-1被占用了，请先清空该格子的植物=Ô 1-1 đã bị chiếm, vui lòng dọn thực vật ở ô này trước
+<color\=#800080>魔力升级</color>：魔法寒冰射手魔力提升为2级=<color=#800080>Nâng Cấp Ma Lực</color>: Đậu Băng Ma Thuật tăng ma lực lên cấp 2
+<nobr>强敌-旗展千军：</nobr>\n黑橄榄高坚果武士团长将会出现=<nobr>Cường Địch - Kỳ Triển Thiên Quân:</nobr>\nTrưởng Đoàn Võ Sĩ Quả Óc Chó Khổng Lồ Ô Liu Đen sẽ xuất hiện
+\=\=\= 植物融合树统计 \=\=\===== Thống Kê Cây Dung Hợp Thực Vật ===
+\=\=\= 示例1：查询豌豆射手可融合植物 \=\=\===== Ví dụ 1: Tra cứu thực vật Đậu Bắn Súng có thể dung hợp ===
+IZ 植物创建失败：{0}，格子 ({1}, {2})。=Tạo thực vật IZ thất bại: {0}, ô ({1}, {2}).
+IZ 植物资源缺失：{0}（种子 {1}）=Thiếu tài nguyên thực vật IZ: {0} (hạt giống {1})
+IZ 植物阵型生成失败（种子 {0}）：{1}=Tạo đội hình thực vật IZ thất bại (hạt giống {0}): {1}
 Tips：右键植物可以查看全部融合=Mẹo: Nhấp chuột phải vào thực vật để xem toàn bộ dung hợp
 Tips：左键植物可以查看经典融合=Mẹo: Nhấp chuột trái vào thực vật để xem dung hợp kinh điển
 Tips：试试在游戏中把鼠标放在植物上然后按下C键=Mẹo: Hãy thử di chuột lên thực vật và nhấn phím C trong khi chơi
 WASD控制植物移动，Q植物显血，R僵尸显血\n植物碰撞道具箱视为拾取道具=WASD điều khiển thực vật di chuyển, Q hiện máu thực vật, R hiện máu Zombie\nThực vật chạm vào hòm đạo cụ tính là nhặt đạo cụ
+[AddPlantCardNode] 种植回调：植物对象为空，节点ID: =[AddPlantCardNode] Callback trồng: đối tượng thực vật trống, Node ID: 
+[BejeweledManager] 单次匹配植物数量异常: {0}，可能存在位置错误=[BejeweledManager] Số lượng thực vật khớp một lần bất thường: {0}, có thể có lỗi vị trí
+[BejeweledManager] 植物位置越界: ({0}, {1})=[BejeweledManager] Vị trí thực vật vượt giới hạn: ({0}, {1})
+[DiePlantNode] 植物对象为 null，无法执行死亡，节点ID: =[DiePlantNode] Đối tượng thực vật null, không thể xử lý chết, Node ID: 
+[DiePlantNode] 植物已经在死亡过程中，节点ID: =[DiePlantNode] Thực vật đang trong quá trình chết, Node ID: 
+[EconomyManager] 植物费用必须大于0: {0}=[EconomyManager] Phí thực vật phải lớn hơn 0: {0}
+[ForEachPlantNode] 植物列表为空或null，节点ID: =[ForEachPlantNode] Danh sách thực vật trống hoặc null, Node ID: 
+[ForEachPlantTypeNode] 植物类型列表为空或null，节点ID: =[ForEachPlantTypeNode] Danh sách loại thực vật trống hoặc null, Node ID: 
+[GivePlantShieldNode] 植物对象为空，无法增加护盾，节点ID: =[GivePlantShieldNode] Đối tượng thực vật trống, không thể tăng khiên, Node ID: 
+[HealPlantNode] 植物对象为空，无法回血，节点ID: =[HealPlantNode] Đối tượng thực vật trống, không thể hồi máu, Node ID: 
+[ModifyPlantAttackNode] 植物对象为空，无法修改攻击力，节点ID: =[ModifyPlantAttackNode] Đối tượng thực vật trống, không thể chỉnh sửa lực tấn công, Node ID: 
+[ModifyPlantHealthNode] 植物对象为空，无法修改血量，节点ID: =[ModifyPlantHealthNode] Đối tượng thực vật trống, không thể chỉnh sửa máu, Node ID: 
+[MovePlantNode] 植物对象为 null，无法移动，节点ID: =[MovePlantNode] Đối tượng thực vật null, không thể di chuyển, Node ID: 
+[OnPlantClickNode] clickedPlant 为 null，无法触发植物点击事件，节点ID: =[OnPlantClickNode] clickedPlant null, không thể kích hoạt sự kiện nhấp thực vật, Node ID: 
+[OnPlantCreateNode] currentPlant 为 null，无法触发植物种植事件，节点ID: =[OnPlantCreateNode] currentPlant null, không thể kích hoạt sự kiện trồng thực vật, Node ID: 
+[OnPlantDeathCompleteNode] currentPlant 为 null，无法触发植物死亡完成事件，节点ID: =[OnPlantDeathCompleteNode] currentPlant null, không thể kích hoạt sự kiện thực vật chết hoàn tất, Node ID: 
+[OnPlantDieNode] currentPlant 为 null，无法触发植物死亡事件，节点ID: =[OnPlantDieNode] currentPlant null, không thể kích hoạt sự kiện thực vật chết, Node ID: 
+[PlantMixTreeManager] 未找到植物 {0} 的融合树=[PlantMixTreeManager] Không tìm thấy cây dung hợp của thực vật {0}
+[PlantSplitNode] 植物对象为空，返回默认值，节点ID: =[PlantSplitNode] Đối tượng thực vật trống, trả về giá trị mặc định, Node ID: 
+[ShopManager] 无法生成{0}费植物，池子为空=[ShopManager] Không thể tạo thực vật giá {0}, bể chứa trống
+[ShopManager] 植物池初始化完成:=[ShopManager] Khởi tạo bể thực vật hoàn tất:
+[ShopManager] 植物费用异常: {0} - {1}费=[ShopManager] Phí thực vật bất thường: {0} - giá {1}
+[SynergyManager] 尝试添加空植物=[SynergyManager] Thử thêm thực vật trống
+[SynergyManager] 添加植物: =[SynergyManager] Thêm thực vật: 
+[神笔马良] 没有有效的植物候选，请重新鉴定。=[Thần Bút Mã Lương] Không có ứng viên thực vật hợp lệ, vui lòng giám định lại.
+{0}. {1}: {2} 种可融合植物={0}. {1}: {2} loại thực vật có thể dung hợp
+{0}: 可融合出 {1} 种植物={0}: Có thể dung hợp ra {1} loại thực vật
+一次性消除4个及以上植物会有额外效果=Loại bỏ một lần 4 thực vật trở lên sẽ có hiệu ứng cộng thêm
+三叶草的风力效果提高20%，并且可动铁气球=Hiệu quả gió của Cỏ Ba Lá tăng 20%, đồng thời có thể thổi bay khinh khí cầu sắt
+三线射手 + 火爆辣椒x3\n使用三叶草、铲子进行亚种切换=Đậu Ba Tuyến + Ớt Nổ x3\nDùng Cỏ Ba Lá, Xẻng để chuyển á chủng
+三线射手的价格降低75=Giá của Đậu Ba Tuyến giảm 75
+三线火炬 + 吸金磁\n使用路灯花、火炬树桩进行亚种切换=Đuốc Ba Tuyến + Nam Châm Hút Vàng\nDùng Hoa Đèn Đường, Gốc Cây Đuốc để chuyển á chủng
+不存在该类型的植物=Không tồn tại thực vật loại này
+专家植物可直接使用，无需购买。=Thực vật Chuyên gia có thể dùng trực tiếp, không cần mua.
+为指定植物增加护盾值（浮点数）=Tăng giá trị khiên cho thực vật chỉ định (số thực)
+为指定植物恢复生命值=Hồi máu cho thực vật chỉ định
+从 JSON 加载了 {0} 个植物的进化数据=Đã tải dữ liệu tiến hóa của {0} thực vật từ JSON
+从卡槽中删除所有指定类型的植物卡牌=Xóa mọi thẻ thực vật loại chỉ định khỏi khay thẻ
+从多个选项中自选一株专家植物=Tự chọn một Thực vật Chuyên gia từ nhiều lựa chọn
+从已购买的植物中任选一个\n更多植物可前往「图鉴 → 诸神图鉴」购买解锁=Chọn một thực vật bất kỳ từ các thực vật đã mua\nThêm thực vật có thể đến 「Sách Tra Cứu → Sách Tra Cứu Chư Thần」 để mua mở khóa
+从植物类型列表中删除指定的植物类型，输出结果列表和是否成功=Xóa loại thực vật chỉ định khỏi danh sách loại thực vật, xuất danh sách kết quả và trạng thái thành công
+从植物类型列表中随机获取一个植物类型=Lấy ngẫu nhiên một loại thực vật từ danh sách loại thực vật
+从豌豆射手到机枪射手有 {0} 条融合路径:=Từ Đậu Bắn Súng đến Đậu Súng Máy có {0} đường dung hợp:
+仙人掌+南瓜+三叶草=Xương Rồng + Bí Ngô + Cỏ Ba Lá
+令植物受伤=Khiến thực vật bị thương
+令植物死亡=Khiến thực vật chết
+以你画出的植物代替植物的贴图=Dùng thực vật bạn vẽ để thay thế texture của thực vật
+伤情恶化：被黑橄榄高坚果僵尸攻击的植物在1秒内无法回血=Vết Thương Nặng Thêm: Thực vật bị Zombie Quả Óc Chó Khổng Lồ Ô Liu Đen tấn công không thể hồi máu trong 1 giây
+位置限制、总数限制、每行数量限制或左侧植物依赖相互冲突，无法生成完整阵型。=Giới hạn vị trí, giới hạn tổng số, giới hạn số lượng mỗi hàng hoặc phụ thuộc thực vật bên trái xung đột nhau, không thể tạo đội hình đầy đủ.
+作战植物已达上限{0}/{1}=Thực vật chiến đấu đã đạt giới hạn {0}/{1}
+你为你的花园找到了一株植物=Bạn đã tìm được một thực vật cho khu vườn của mình
+你只能在红线左侧放置植物=Bạn chỉ có thể đặt thực vật ở bên trái vạch đỏ
+你可以在中间补充一些植物将两个系统连起来=Bạn có thể bổ sung một số thực vật ở giữa để nối hai hệ thống lại
+你已拥有该植物=Bạn đã sở hữu thực vật này
+你已经学会使用手套了！种植更多的植物，抵御僵尸的入侵吧！=Bạn đã học được cách dùng Găng Tay! Hãy trồng thêm thực vật để chống lại cuộc xâm lược của Zombie nào!
+你开到了南瓜箱子，爆出了5000阳光=Bạn đã mở Rương Bí Ngô, nhận được 5000 nắng
+你开到了南瓜箱子，爆出了一个好运礼盒=Bạn đã mở Rương Bí Ngô, nhận được một Hộp Quà May Mắn
+你开到了南瓜箱子，爆出了一株三级植物=Bạn đã mở Rương Bí Ngô, nhận được một thực vật cấp 3
+你是否想过把僵尸的装备放到植物身上？=Bạn đã bao giờ nghĩ đến việc gắn trang bị của Zombie lên thực vật chưa?
+你有植物死了，他会在{0:F2}秒后复活=Thực vật của bạn đã chết, nó sẽ hồi sinh sau {0:F2} giây
+你的星星进化为更强大的追踪星星=Ngôi sao của bạn tiến hóa thành sao truy đuổi mạnh hơn
+你的豌豆进化为更强大的超级樱桃=Đậu của bạn tiến hóa thành Siêu Cherry mạnh hơn
+使我方植物死亡时掉落阳光=Khiến thực vật phe ta rơi nắng khi chết
+使用手套可以挪动植物，也可以使用手套挪动植物进行融合=Dùng Găng Tay có thể di chuyển thực vật, cũng có thể dùng Găng Tay di chuyển thực vật để dung hợp
+使用手套可以融合植物，但只能融合长大以后的植物\r\n快捷键123456等为对应左上角的道具=Dùng Găng Tay có thể dung hợp thực vật, nhưng chỉ dung hợp được thực vật đã trưởng thành\r\nCác phím tắt 123456... tương ứng với vật phẩm ở góc trên bên trái
+使用手推车购买植物=Dùng xe đẩy tay để mua thực vật
+使用花园中2~4行植物参战，相同类型的植物只能使用一株=Dùng thực vật ở hàng 2~4 trong vườn tham chiến, mỗi loại thực vật chỉ được dùng một
+保护IV：提交6个原版南瓜头=Bảo Vệ IV: Nộp 6 Đầu Bí Ngô nguyên bản
+保护你的超级保龄球坚果=Bảo vệ Óc Chó Bowling Siêu Cấp của bạn
+信息封锁I：永久关闭植物显血=Phong Tỏa Thông Tin I: Tắt vĩnh viễn hiển thị máu thực vật
+修改植物攻击力=Chỉnh sửa lực tấn công thực vật
+修改植物攻击间隔=Chỉnh sửa khoảng cách tấn công của thực vật
+修改植物的攻击力（倍率%）=Chỉnh sửa lực tấn công thực vật (tỉ lệ %)
+修改植物的最大血量（倍率%）=Chỉnh sửa máu tối đa của thực vật (tỉ lệ %)
+修改植物血量=Chỉnh sửa máu thực vật
+光照越高，植物就越强，一般的光系植物在3点光照等级达到最强状态=Độ chiếu sáng càng cao, thực vật càng mạnh; thực vật hệ quang thông thường đạt trạng thái mạnh nhất ở cấp chiếu sáng 3
+光系植物在路灯花的影响下会变得更加强大，种植更多的植物，抵御僵尸的入侵吧！=Thực vật hệ quang sẽ trở nên mạnh mẽ hơn dưới ảnh hưởng của Hoa Đèn Đường, hãy trồng thêm thực vật để chống lại cuộc xâm lược của Zombie nào!
+全体植物获得{0}护盾，复活后依然生效=Toàn bộ thực vật nhận {0} khiên, vẫn có hiệu lực sau khi hồi sinh
+全体植物获得抵御碾压的能力，复活后依然生效，并立即获得3000护盾=Toàn bộ thực vật nhận khả năng chống nghiền nát, vẫn hiệu lực sau hồi sinh, đồng thời nhận ngay 3000 khiên
+全副武装：游戏过程中可以在背包选择你的植物=Vũ Trang Tận Răng: Trong lúc chơi có thể chọn thực vật của bạn từ ba lô
+全线研究：提交3株特种三线射手=Nghiên Cứu Toàn Tuyến: Nộp 3 Đậu Ba Tuyến Đặc Chủng
+全部植物=Tất cả thực vật
+共生之礼：当你首次获得两个一样的植物时，额外获得一个该植物卡牌=Quà Cộng Sinh: Khi lần đầu nhận hai thực vật giống nhau, nhận thêm một thẻ thực vật đó
+内讯不达：植物显血功能将被禁用=Nội Bộ Mất Liên Lạc: Tính năng hiển thị máu thực vật sẽ bị vô hiệu hóa
+冒险植物=Thực vật Phiêu Lưu
+冬笋植物的血量翻倍=Máu của thực vật Măng Đông tăng gấp đôi
+冰地刺王 + 火地刺王\n使用坚果墙、地刺王进行亚种切换=Vua Gai Đất Băng + Vua Gai Đất Lửa\nDùng Tường Óc Chó, Vua Gai Đất để chuyển á chủng
+冰封千里：\n◆<color\=red>冷寂寒冰菇</color>：索敌半径翻倍\n◆<color\=red>寂灭寒冰菇</color>：协同攻击间隔减半=Băng Phong Thiên Lý:\n◆<color=red>Nấm Băng Tịch Lãnh</color>: Bán kính tìm địch tăng gấp đôi\n◆<color=red>Nấm Băng Tịch Diệt</color>: Khoảng cách tấn công phối hợp giảm một nửa
+冷冻冬眠：植物复活后被强制冻结3秒=Ngủ Đông Lạnh Giá: Thực vật sau khi hồi sinh bị cưỡng chế đóng băng 3 giây
+冻住的植物=Thực vật bị đóng băng
+出售植物：=Bán thực vật:
+击败1路这个铁桶坚果僵尸！注意不要使用樱桃炸弹和大嘴花！=Đánh bại Zombie Thùng Sắt Óc Chó ở hàng 1 này! Chú ý đừng dùng Bom Cherry và Hoa Nuốt Chửng!
+分裂数量+1，分裂的西瓜掉出屏幕不会扣除分数=Số lần tách +1, dưa hấu tách ra rơi khỏi màn hình sẽ không bị trừ điểm
+创建包含单个植物类型的列表=Tạo danh sách chứa một loại thực vật
+创建包含多个植物类型的列表=Tạo danh sách chứa nhiều loại thực vật
+创建墓碑=Tạo Bia Mộ
+创建寒冰菇效果=Tạo hiệu ứng Nấm Băng
+创建植物=Tạo thực vật
+创建植物卡牌=Tạo thẻ thực vật
+创建樱桃爆炸效果=Tạo hiệu ứng nổ Cherry
+创建毁灭菇效果=Tạo hiệu ứng Nấm Hủy Diệt
+创建由当前关卡事件图管理的空对象，可选植物图标作装饰。=Tạo đối tượng trống do đồ thị sự kiện màn chơi hiện tại quản lý, có thể chọn biểu tượng thực vật để trang trí.
+删除卡槽植物卡牌=Xóa thẻ thực vật trong khay thẻ
+删除指定格子的墓碑、弹坑、梯子或冰块。=Xóa bia mộ, hố đạn, thang hoặc khối băng ở ô chỉ định.
+删除植物=Xóa thực vật
+删除植物类型=Xóa loại thực vật
+前台植物攻击力+10%/20%/35%=Lực tấn công thực vật tuyến đầu +10%/20%/35%
+前线作战：不在第3列及以左放置植物（从左到右开始一共10列）=Tác Chiến Tiền Tuyến: Không đặt thực vật từ cột 3 trở sang trái (tổng cộng 10 cột tính từ trái sang phải)
+力场护盾：全场植物每秒获得50+2%最大生命值的护盾=Khiên Lực Trường: Thực vật toàn sân mỗi giây nhận khiên bằng 50 + 2% máu tối đa
+力挽狂澜：僵尸进家时不再立即失败，改为场上的植物有1/3概率死亡\n进家时，若场上植物数量小于20株则立即失败=Lực Vãn Cuồng Lan: Khi Zombie vào nhà không còn thua ngay, thay vào đó thực vật trên sân có 1/3 tỉ lệ chết\nKhi vào nhà, nếu số thực vật trên sân ít hơn 20 thì thua ngay
+加载第{0}页数据，植物数量: {1}=Đang tải dữ liệu trang {0}, số lượng thực vật: {1}
+十旗挑战：植物僵尸=Thử Thách Mười Cờ: Thực vật Zombie
+十旗挑战：随机植物=Thử Thách Mười Cờ: Thực vật ngẫu nhiên
+十旗挑战：随机植物VS随机僵尸=Thử Thách Mười Cờ: Thực vật ngẫu nhiên VS Zombie ngẫu nhiên
+升级时植物会释放一次大招，给予金植物也可以释放大招\n同时每次花钱都能赠送阳光！=Khi nâng cấp, thực vật sẽ tung một đại chiêu; cho thực vật vàng ăn cũng tung được đại chiêu\nĐồng thời mỗi lần tiêu tiền đều được tặng nắng!
+升级植物需要消耗{0}阳光=Nâng cấp thực vật cần tiêu tốn {0} nắng
+单植物类型列表=Danh sách một loại thực vật
+参战植物数量增加到{0}=Số thực vật tham chiến tăng lên {0}
+及时雨：提交3个寒冰机枪射手=Mưa Kịp Thời: Nộp 3 Đậu Súng Máy Băng
+发射植物或僵尸子弹=Bắn đạn thực vật hoặc đạn Zombie
+变为五线射手，子弹可无限穿透=Biến thành Đậu Năm Tuyến, đạn xuyên thấu vô hạn
+只会随机出白天的植物和僵尸=Chỉ xuất ngẫu nhiên thực vật và Zombie ban ngày
+可以使用金咖啡豆释放大招，为我方植物积攒能力，并使其攻击力提高=Có thể dùng Hạt Cà Phê Vàng để tung tuyệt chiêu, tích lũy năng lượng cho thực vật phe ta và tăng lực tấn công của chúng
+可以按F1隐藏菜单，照着植物画=Có thể nhấn F1 để ẩn menu, vẽ theo mẫu thực vật
+可以让大嘴花立即吞咽=Có thể khiến Hoa Nuốt Chửng nuốt ngay lập tức
+可控核聚变：\n<nobr>·解锁<color\=red>贪欲菇</color></nobr>\n◆所有毁灭菇爆炸不留坑洞=Nhiệt Hạch Kiểm Soát:\n<nobr>·Mở khóa <color=red>Nấm Tham Lam</color></nobr>\n◆Mọi vụ nổ Nấm Hủy Diệt không để lại hố
+叹息之墙\n黑曜之力：开局解锁黑曜石高坚果\n增生之种：植物死亡后为3x3的其他植物回复10%最大生命值=Bức Tường Thở Dài\nHắc Diệu Chi Lực: Mở khóa Quả Óc Chó Khổng Lồ Hắc Diện Thạch ngay đầu trận\nHạt Tăng Sinh: Khi thực vật chết, hồi 10% máu tối đa cho các thực vật khác trong phạm vi 3x3
+合并植物类型列表=Hợp nhất danh sách loại thực vật
+同一个磁力系统中的植物是可以无限多的\n只需任意一株植物满足要求都可以纳入系统中=Số thực vật trong cùng một hệ từ tính có thể là vô hạn\nChỉ cần bất kỳ một thực vật nào đáp ứng yêu cầu là có thể đưa vào hệ thống
+同步治疗：植物回复生命值时，使随机一个僵尸回复25%最大生命值，可过充=Đồng Bộ Trị Liệu: Khi thực vật hồi máu, khiến một Zombie ngẫu nhiên hồi 25% máu tối đa, có thể nạp quá mức
+名称与植物不一致=Tên không khớp với thực vật
+后勤补给：不在第5列及以右放置植物（从左到右开始一共10列）=Tiếp Tế Hậu Cần: Không đặt thực vật từ cột 5 trở sang phải (tổng cộng 10 cột tính từ trái sang phải)
+向卡槽添加一张豌豆射手=Thêm một Đậu Bắn Súng vào khay thẻ
+向日葵是很重要的生产植物，未来的阳光资源都靠她了！\n现在，试着把豌豆种到向日葵上=Hoa Hướng Dương là thực vật sản xuất rất quan trọng, tài nguyên nắng trong tương lai đều nhờ vào cô ấy!\nBây giờ, thử trồng Đậu lên Hoa Hướng Dương xem
+'内讯不达：植物显血功能将被禁用'='Bặt Vô Âm Tín: tính năng hiển thị máu thực vật sẽ bị tắt'
+\n但也开到了一些僵尸=\nNhưng cũng mở được một ít Zombie
  清除僵尸（Y）= Dọn dẹp Zombie (Y)
+ 缺少数据或僵尸类型无效= Thiếu dữ liệu hoặc loại Zombie không hợp lệ
 <nobr>强敌-冰河覆疆：</nobr>\n冰封三叉戟僵尸将会出现=<nobr>Cường Địch - Băng Hà Phủ Lãnh:</nobr>\nZombie Đinh Ba Băng Giá sẽ xuất hiện
 <nobr>强敌-末日裁决：</nobr>\n毁灭机枪读报僵尸将会出现=<nobr>Cường Địch - Phán Quyết Ngày Tận Thế:</nobr>\nZombie Đọc Báo Súng Máy Hủy Diệt sẽ xuất hiện
 <nobr>强敌-横扫千军：</nobr>\n机枪黑橄榄骑兵团长将会出现=<nobr>Cường Địch - Quét Sạch Muôn Quân:</nobr>\nĐoàn Trưởng Kỵ Binh Súng Máy Ô Liu Đen sẽ xuất hiện
 <nobr>强敌-特战金铠：</nobr>\n特种黄金巨人将会出现=<nobr>Cường Địch - Giáp Vàng Tác Chiến:</nobr>\nZombie Khổng Lồ Hoàng Kim Đặc Chủng sẽ xuất hiện
+[CreateZombieNode] 创建僵尸失败，类型：{0}，行：{1}，节点ID: {2}=[CreateZombieNode] Tạo Zombie thất bại, Loại: {0}, Hàng: {1}, Node ID: {2}
+[ModifyZombieHealthNode] 僵尸对象为空，无法修改血量，节点ID: =[ModifyZombieHealthNode] Đối tượng Zombie rỗng, không thể chỉnh máu, Node ID: 
+[MoveZombieNode] 僵尸对象为 null，无法移动，节点ID: =[MoveZombieNode] Đối tượng Zombie là null, không thể di chuyển, Node ID: 
+[OnZombieDieNode] currentZombie 为 null，无法触发僵尸死亡事件，节点ID: =[OnZombieDieNode] currentZombie là null, không thể kích hoạt sự kiện Zombie chết, Node ID: 
+[OnZombieSpawnNode] currentZombie 为 null，无法触发僵尸生成事件，节点ID: =[OnZombieSpawnNode] currentZombie là null, không thể kích hoạt sự kiện Zombie xuất hiện, Node ID: 
+[PlayZombieAnimNode] 僵尸 =[PlayZombieAnimNode] Zombie 
+[PlayZombieAnimNode] 僵尸对象为空，无法播放动画，节点ID: =[PlayZombieAnimNode] Đối tượng Zombie rỗng, không thể phát hoạt ảnh, Node ID: 
+[SetZombieMindControlledNode] 僵尸对象为空，无法魅惑，节点ID: =[SetZombieMindControlledNode] Đối tượng Zombie rỗng, không thể mê hoặc, Node ID: 
+[ZombieSplitNode] 僵尸对象为空，返回默认值，节点ID: =[ZombieSplitNode] Đối tượng Zombie rỗng, trả về giá trị mặc định, Node ID: 
+{0}给你放了{1}个僵尸={0} đã thả {1} Zombie cho bạn
+万年尸皇\n僵尸等级：3\n韧性：高\n攻击力：中\n特点：定期穿梭\n=Vạn Niên Thi Hoàng\nCấp Zombie: 3\nĐộ cứng: Cao\nLực tấn công: Trung bình\nĐặc điểm: Dịch chuyển định kỳ\n
+下界合金矿镐僵尸\n僵尸等级：1\n韧性：低\n攻击力：高\n特点：正面进攻\n弱点：击退\n=Zombie Cuốc Chim Hợp Kim Địa Ngục\nCấp Zombie: 1\nĐộ cứng: Thấp\nLực tấn công: Cao\nĐặc điểm: Tấn công trực diện\nĐiểm yếu: Đánh bật\n
+下界合金钻僵尸\n僵尸等级：2\n韧性：中\n攻击力：很高\n特点：地下进攻\n弱点：击退\n=Zombie Khoan Hợp Kim Địa Ngục\nCấp Zombie: 2\nĐộ cứng: Trung bình\nLực tấn công: Rất cao\nĐặc điểm: Tấn công dưới lòng đất\nĐiểm yếu: Đánh bật\n
+不屈：阿尔法僵尸小队能无限次从濒死中复苏=Bất Khuất: Tiểu đội Zombie Alpha có thể hồi sinh vô hạn lần từ trạng thái hấp hối
+不死图腾：下一次僵尸进家时，无视僵尸进家，持续3秒，并强制击退全场僵尸至底线=Đồ Đằng Bất Tử: Lần Zombie vào nhà kế tiếp sẽ bị bỏ qua, kéo dài 3 giây, đồng thời cưỡng chế đánh bật toàn bộ Zombie về vạch cuối
+不能吹走非僵尸=Không thể thổi bay mục tiêu không phải Zombie
 不让僵尸越过红线=Không để Zombie vượt qua vạch đỏ
+中型战象\n僵尸等级：2\n韧性：很高\n攻击力：低\n特点：会把僵尸往前顶\n=Chiến Tượng Cỡ Trung\nCấp Zombie: 2\nĐộ cứng: Rất cao\nLực tấn công: Thấp\nĐặc điểm: Húc Zombie về phía trước\n
+乘胜追击：黑橄榄武士及武士团长翻滚后，攻击力翻倍=Thừa Thắng Truy Kích: Võ Sĩ Ô Liu Đen và Trưởng Đoàn Võ Sĩ sau khi lộn nhào sẽ tăng gấp đôi lực tấn công
+人多势众：\n<color\=red>幻灭菇</color>：爆炸时召唤3个魅惑武装巨人和额外的魅惑雪橇车僵尸=Đông Đảo Thế Mạnh:\n<color=red>Nấm Huyễn Diệt</color>: Khi nổ sẽ triệu hồi 3 Khổng Lồ Vũ Trang bị mê hoặc và thêm Zombie Xe Trượt Tuyết bị mê hoặc
+人工智能：\n<nobr>·解锁<color\=red>红宝石伞</color></nobr>\n◆<color\=red>绿宝石伞</color>：僵尸靠近时会免费释放大招\n◆<color\=red>红宝石伞</color>：共享以上效果=Trí Tuệ Nhân Tạo:\n<nobr>·Mở khóa <color=red>Dù Hồng Ngọc</color></nobr>\n◆<color=red>Dù Lục Bảo</color>: Khi Zombie đến gần sẽ được miễn phí tung tuyệt chiêu\n◆<color=red>Dù Hồng Ngọc</color>: Chia sẻ hiệu ứng trên
+人才下沉：从第51波开始，每一波开始时会随机刷新5只第1波至50波才会出现的僵尸，但他获得10倍血量加成和1倍独立速度增幅=Nhân Tài Hạ Trầm: Từ đợt 51 trở đi, mỗi đợt bắt đầu sẽ ngẫu nhiên xuất hiện 5 Zombie vốn chỉ có từ đợt 1 đến đợt 50, nhưng chúng được tăng 10 lần máu và 1 lần tốc độ độc lập
+人才引进：从第8波开始，在关卡的前50波中，每一波开始时会随机刷新一只第38波至88波才会出现的僵尸=Nhân Tài Tiến Cử: Từ đợt 8, trong 50 đợt đầu của màn chơi, mỗi đợt bắt đầu sẽ ngẫu nhiên xuất hiện 1 Zombie vốn chỉ có từ đợt 38 đến đợt 88
+令僵尸受伤=Khiến Zombie bị thương
+令僵尸被魅惑=Khiến Zombie bị mê hoặc
+传说有些僵尸被刺红温了更容易受伤=Nghe đồn có những Zombie bị châm đến đỏ nhiệt sẽ dễ bị thương hơn
+你可以用箭头引导僵尸走对路线=Bạn có thể dùng mũi tên để dẫn Zombie đi đúng đường
+你失去了你的僵尸，将在10秒后复活=Bạn đã mất Zombie của mình, nó sẽ hồi sinh sau 10 giây
+你开到了僵尸礼盒=Bạn đã mở được Hộp Quà Zombie
+你的僵尸复活了！=Zombie của bạn đã hồi sinh!
+你被僵尸撞死了=Bạn bị Zombie đâm chết
+使用锤子击杀僵尸，点击鼠标右键可以放下锤子=Dùng búa tiêu diệt Zombie, nhấp chuột phải để đặt búa xuống
+使用锤子击杀僵尸，点击鼠标右键可以放下锤子\n点击0费卡可以切换锤子效果，或者按键盘1、2、E切换=Dùng búa tiêu diệt Zombie, nhấp chuột phải để đặt búa xuống\nNhấp vào thẻ 0 phí để đổi hiệu ứng búa, hoặc nhấn phím 1, 2, E để chuyển
+依次输出列表中的每只存活僵尸，遍历结束后触发完成。=Lần lượt xuất từng Zombie còn sống trong danh sách, kích hoạt hoàn thành khi duyệt xong.
+保存成功，前往我是僵尸的自定义关卡游玩\n自定义允许使用的僵尸为当前卡槽上的僵尸，初始阳光数为当前阳光，推荐难度为当前难度\n自定义关卡信息在存档文件夹下的CustomIZ.json=Lưu thành công, hãy đến màn chơi tùy chỉnh "Tôi Là Zombie" để chơi\nZombie được phép dùng trong tùy chỉnh là Zombie trên khay thẻ hiện tại, số nắng ban đầu là số nắng hiện tại, độ khó đề xuất là độ khó hiện tại\nThông tin màn chơi tùy chỉnh nằm trong CustomIZ.json ở thư mục bản lưu
+信息封锁II：永久关闭僵尸显血=Phong Tỏa Thông Tin II: Tắt vĩnh viễn hiển thị máu Zombie
+修改僵尸的血量（倍率）=Chỉnh máu của Zombie (hệ số)
+修改僵尸血量=Chỉnh máu Zombie
+僵尸=Zombie
+僵尸军团前来助阵！=Quân Đoàn Zombie đến trợ chiến!
+僵尸分拣大挑战=Đại Thử Thách Phân Loại Zombie
+僵尸分类资源 =Tài nguyên phân loại Zombie 
+僵尸分类资源 {0} 的水中形态无效或反向映射重复：{1}=Dạng dưới nước của tài nguyên phân loại Zombie {0} không hợp lệ hoặc ánh xạ ngược bị trùng: {1}
+僵尸分类资源 {0} 的类型无效或重复：{1}=Loại của tài nguyên phân loại Zombie {0} không hợp lệ hoặc bị trùng: {1}
+僵尸列表=Danh sách Zombie
+僵尸对战=Zombie Đối Chiến
+僵尸对战2=Zombie Đối Chiến 2
+僵尸对战3=Zombie Đối Chiến 3
+僵尸对象=Đối tượng Zombie
+僵尸快跑=Zombie Chạy Nhanh
+僵尸摇摆！=Zombie Lắc Lư!
+僵尸操作=Thao tác Zombie
+僵尸数值资源 =Tài nguyên chỉ số Zombie 
+僵尸数值资源存在重复类型 {0}，请检查 {1}=Tài nguyên chỉ số Zombie có loại trùng lặp {0}, vui lòng kiểm tra {1}
+僵尸死亡时=Khi Zombie chết
+僵尸死亡时掉落水果概率+10%=Tỉ lệ rơi hoa quả khi Zombie chết +10%
+僵尸死亡时有概率复活成随机僵尸=Khi chết, Zombie có tỉ lệ hồi sinh thành Zombie ngẫu nhiên
+僵尸生成时=Khi Zombie xuất hiện
+僵尸的冻结值上限会随着冻结次数的增加而增加=Giới hạn đóng băng của Zombie sẽ tăng theo số lần bị đóng băng
+僵尸的基础速度降低10%=Tốc độ cơ bản của Zombie giảm 10%
+僵尸种类=Chủng loại Zombie
+僵尸种类列表=Danh sách chủng loại Zombie
+僵尸类型=Loại Zombie
+僵尸类型A=Loại Zombie A
+僵尸类型B=Loại Zombie B
+僵尸类型列表插入=Chèn danh sách loại Zombie
+僵尸类型列表替换=Thay thế danh sách loại Zombie
+僵尸类型列表查找=Tìm kiếm danh sách loại Zombie
+僵尸类型列表获取项=Lấy mục danh sách loại Zombie
+僵尸类型列表追加=Thêm vào danh sách loại Zombie
+僵尸类型常量=Hằng số loại Zombie
+僵尸类型比较=So sánh loại Zombie
+僵尸类型转字符串=Chuyển loại Zombie thành chuỗi
+僵尸血量达到阈值时=Khi máu Zombie đạt ngưỡng
+僵尸血量首次低于50%时，获得0.5点固定速度加成=Khi máu Zombie lần đầu xuống dưới 50%, nhận 0.5 điểm tăng tốc cố định
+僵尸转对象=Chuyển Zombie thành đối tượng
+僵尸进入第五列后，获得0.5点固定速度加成=Sau khi Zombie vào cột thứ 5, nhận 0.5 điểm tăng tốc cố định
+僵尸进家失败=Zombie vào nhà thất bại
+僵尸进家时视为直接通关本轮，并获得10000点积分=Khi Zombie vào nhà, coi như qua thẳng vòng này và nhận 10000 điểm
+僵尸阵营=Phe Zombie
+先声夺魁：黑橄榄武士及武士团长出场时立即翻滚一次=Tiên Thanh Đoạt Khôi: Võ Sĩ Ô Liu Đen và Trưởng Đoàn Võ Sĩ khi xuất hiện sẽ lộn nhào ngay một lần
+全屏冻结所有僵尸（可设置冻结时间）=Đóng băng toàn màn hình mọi Zombie (có thể đặt thời gian đóng băng)
+全部僵尸=Tất cả Zombie
+关卡开始300秒后，僵尸逐步获得速度加成和血量加成，到达360秒后达到100%=Sau 300 giây từ khi màn chơi bắt đầu, Zombie dần nhận thêm tốc độ và máu, đạt 100% khi đến 360 giây
+关卡开始时僵尸获得100%速度加成和100%血量加成，该加成在120秒内会逐步衰减=Khi màn chơi bắt đầu, Zombie nhận 100% tăng tốc và 100% tăng máu, hiệu ứng này sẽ giảm dần trong 120 giây
+冰天雪地：同时冻结50个僵尸=Băng Thiên Tuyết Địa: Đóng băng cùng lúc 50 Zombie
+冲锋机械舰艇僵尸\n僵尸等级：2\n韧性：低\n攻击力：碾压\n特点：超快速\n=Zombie Tàu Chiến Cơ Khí Xung Phong\nCấp Zombie: 2\nĐộ cứng: Thấp\nLực tấn công: Nghiền nát\nĐặc điểm: Siêu nhanh\n
+冻结僵尸的时长+10%=Thời gian đóng băng Zombie +10%
+击杀僵尸：{0}=Tiêu diệt Zombie: {0}
+击败僵尸以获取阳光=Đánh bại Zombie để nhận nắng
+切换指定僵尸的动画，站立：idle，移动：walk=Chuyển hoạt ảnh của Zombie chỉ định, đứng yên: idle, di chuyển: walk
+创建僵尸=Tạo Zombie
+创建小丑爆炸=Tạo vụ nổ hề
+创建梯子=Tạo thang
+删除僵尸卡牌=Xóa thẻ Zombie
+删除当前卡槽里指定类型的所有僵尸卡牌。=Xóa mọi thẻ Zombie thuộc loại chỉ định trong khay thẻ hiện tại.
+别踩红线：不让僵尸越过红线=Đừng Giẫm Vạch Đỏ: Không để Zombie vượt qua vạch đỏ
+十旗挑战：随机僵尸=Thử Thách Mười Cờ: Zombie ngẫu nhiên
+千年飞僵\n僵尸等级：2\n韧性：中\n攻击力：低\n特点：定期突进\n=Phi Cương Ngàn Năm\nCấp Zombie: 2\nĐộ cứng: Trung bình\nLực tấn công: Thấp\nĐặc điểm: Đột tiến định kỳ\n
+危机四伏：每一波僵尸刷新时，额外刷新随机路线的僵尸，数量随波次增加=Nguy Cơ Tứ Phía: Mỗi đợt Zombie xuất hiện sẽ có thêm Zombie ở tuyến đường ngẫu nhiên, số lượng tăng theo đợt
+吞噬僵尸可时战神行动提前=Nuốt chửng Zombie giúp Chiến Thần hành động sớm hơn
+命名僵尸=Đặt tên Zombie
+回收错误太多，回收站已关闭\n打不过试试调低难度，减少僵尸数量=Quá nhiều lỗi thu hồi, thùng rác đã đóng\nĐánh không lại hãy thử giảm độ khó, bớt số lượng Zombie
+在<color\=red>{0:F2}</color>秒内击杀进家僵尸！=Tiêu diệt Zombie vào nhà trong <color=red>{0:F2}</color> giây!
+在僵尸身边破坏水果，注意不要让你左下角的分数低于0\n鼠标右键可以切换刀的状态=Phá hoa quả bên cạnh Zombie, chú ý đừng để điểm ở góc dưới trái của bạn xuống dưới 0\nChuột phải để đổi trạng thái dao
+在前方生成一束天网攻击僵尸=Tạo một chùm thiên võng phía trước để tấn công Zombie
+在战场左键点击存活僵尸时触发。=Kích hoạt khi nhấp chuột trái vào Zombie còn sống trên chiến trường.
+在指定行列创建僵尸=Tạo Zombie tại hàng/cột chỉ định
+场上僵尸的速度大幅降低=Tốc độ Zombie trên sân giảm mạnh
+场地上不能有僵尸=Trên sân không được có Zombie
+基洛夫母舰飞艇\n僵尸等级：2\n韧性：中\n攻击力：极高\n特点：持续召唤轰炸机\n=Phi Thuyền Mẫu Hạm Kirov\nCấp Zombie: 2\nĐộ cứng: Trung bình\nLực tấn công: Cực cao\nĐặc điểm: Liên tục triệu hồi máy bay ném bom\n
+基洛夫轰炸飞艇\n僵尸等级：1\n韧性：低\n攻击力：极高\n特点：近程投弹\n=Phi Thuyền Ném Bom Kirov\nCấp Zombie: 1\nĐộ cứng: Thấp\nLực tấn công: Cực cao\nĐặc điểm: Ném bom tầm gần\n
+大变活尸：黑袍小丑王的投掷物不会被保护伞弹走，且落地时召唤一个黑袍小丑王=Đại Biến Hoạt Thi: Vật ném của Vua Hề Áo Đen không bị dù bảo vệ hất văng, và khi chạm đất sẽ triệu hồi một Vua Hề Áo Đen
+字符串转僵尸类型=Chuyển chuỗi thành loại Zombie
+寒冰豌豆命中僵尸时有概率直接令僵尸冻结=Khi Đậu Băng trúng Zombie có tỉ lệ khiến Zombie đóng băng ngay
+对象转僵尸=Chuyển đối tượng thành Zombie
+导弹机械舰艇僵尸\n僵尸等级：2\n韧性：低\n攻击力：极高\n特点：近程爆破\n=Zombie Tàu Chiến Cơ Khí Tên Lửa\nCấp Zombie: 2\nĐộ cứng: Thấp\nLực tấn công: Cực cao\nĐặc điểm: Kích nổ tầm gần\n
+将僵尸移动到指定行列（传入僵尸对象、目标行列）=Di chuyển Zombie đến hàng/cột chỉ định (truyền đối tượng Zombie, hàng/cột mục tiêu)
+将僵尸类型值插入到共享列表中。=Chèn giá trị loại Zombie vào danh sách dùng chung.
+将僵尸类型值替换到共享列表中。=Thay giá trị loại Zombie vào danh sách dùng chung.
+将僵尸类型值追加到共享列表中。=Thêm giá trị loại Zombie vào danh sách dùng chung.
+将僵尸转换为场景对象引用。=Chuyển Zombie thành tham chiếu đối tượng cảnh.
+将指定僵尸变为玩家方=Biến Zombie chỉ định thành phe người chơi
+小丑派对：僵尸血量低于5%时受击则立即自爆（对领袖和boss无效）=Tiệc Hề: Khi máu Zombie dưới 5% mà bị đánh sẽ tự nổ ngay (không có tác dụng với thủ lĩnh và boss)
+小僵尸大麻烦=Zombie Nhỏ, Rắc Rối Lớn
+小局逆转：魅惑10个僵尸=Lội Ngược Dòng: Mê hoặc 10 Zombie
+小心你没见过的僵尸！=Coi chừng những Zombie bạn chưa từng thấy!
+小鬼当家：非boss僵尸的生命值和体型降低30%，但速度提高100%=Tiểu Quỷ Đương Gia: Zombie không phải boss giảm 30% máu và kích thước, nhưng tăng 100% tốc độ
+尝试地图外面放置僵尸=Thử đặt Zombie ngoài bản đồ
+巡游车队：每轮都会出现舞王冰车，且死亡时额外召唤一个舞王指挥官=Đoàn Xe Diễu Hành: Mỗi vòng đều xuất hiện Xe Đè Băng Vũ Vương, và khi chết còn triệu hồi thêm một Chỉ Huy Vũ Vương
+巨人之怒=Cơn Thịnh Nộ Của Khổng Lồ
+巨人之怒2=Cơn Thịnh Nộ Của Khổng Lồ 2
+帅令加身：机枪黑橄榄僵尸将发射诅咒铁豌豆=Soái Lệnh Gia Thân: Zombie Ô Liu Đen Súng Máy sẽ bắn Đậu Sắt Nguyền Rủa
+应急装填：堡垒巨人填充三叉戟的速度x3=Nạp Đạn Khẩn Cấp: Tốc độ nạp đinh ba của Khổng Lồ Pháo Đài x3
+强健体魄III：全体僵尸血量增加400%=Thể Phách Cường Kiện III: Toàn bộ Zombie tăng 400% máu
+强健体魄II：全体僵尸血量增加200%=Thể Phách Cường Kiện II: Toàn bộ Zombie tăng 200% máu
+强健体魄I：全体僵尸血量增加100%=Thể Phách Cường Kiện I: Toàn bộ Zombie tăng 100% máu
+强尸健体：僵尸每轮的韧性成长倍率由20%增加至30%=Cường Thi Kiện Thể: Hệ số tăng trưởng độ cứng mỗi vòng của Zombie tăng từ 20% lên 30%
+当僵尸死亡时触发=Kích hoạt khi Zombie chết
+当僵尸生成时触发=Kích hoạt khi Zombie xuất hiện
+当前僵尸=Zombie hiện tại
+御驾亲征：黑曜石巨人死亡时会召唤僵王博士=Ngự Giá Thân Chinh: Khi Khổng Lồ Hắc Diện Thạch chết sẽ triệu hồi Tiến Sĩ Zomboss
+忍无可忍：僵尸被同一种控制异常连续停止行动5秒后，在3秒内免疫任何控制异常=Nhẫn Vô Khả Nhẫn: Sau khi Zombie bị cùng một hiệu ứng khống chế làm ngừng hành động liên tục 5 giây, sẽ miễn nhiễm mọi hiệu ứng khống chế trong 3 giây
+怒不可遏III：全体僵尸攻击增加400%=Nộ Bất Khả Át III: Toàn bộ Zombie tăng 400% tấn công
+怒不可遏II：全体僵尸攻击增加200%=Nộ Bất Khả Át II: Toàn bộ Zombie tăng 200% tấn công
+怒不可遏I：全体僵尸攻击增加100%=Nộ Bất Khả Át I: Toàn bộ Zombie tăng 100% tấn công
+怒火攻心：使僵尸一共产生100次红温爆炸=Nộ Hỏa Công Tâm: Khiến Zombie tạo ra tổng cộng 100 vụ nổ đỏ nhiệt
+急行军：第一波僵尸到达时间降低至5秒，僵尸刷新间隔降低至15秒=Hành Quân Thần Tốc: Thời gian đợt Zombie đầu tiên đến nơi giảm còn 5 giây, khoảng cách xuất hiện giữa các đợt Zombie giảm còn 15 giây
+急行军：第一波僵尸刷新时间降低至5秒，僵尸刷新间隔降低至15秒=Hành Quân Thần Tốc: Thời gian xuất hiện đợt Zombie đầu tiên giảm còn 5 giây, khoảng cách xuất hiện giữa các đợt Zombie giảm còn 15 giây
+\n\n伤害占比：{0:F2}%\n总词条数：{1}=\n\nTỉ lệ sát thương: {0:F2}%\nTổng số thuộc tính: {1}
+\n\n尚未拥有这个词条=\n\nChưa sở hữu thuộc tính này
+\n\n当前武器词条上限：\n{0}/{1}=\n\nGiới hạn thuộc tính vũ khí hiện tại:\n{0}/{1}
+\n\n该词条已拥有{0}个=\n\nĐã sở hữu {0} thuộc tính này
+\n\n难度积分：{0}=\n\nĐiểm khó: {0}
+\n<size\=85%>本局获得：{0}诸神币=\n<size=85%>Ván này nhận: {0} Xu Chư Thần
+\n\=\=\= 所有羁绊统计 \=\=\=\n=\n=== Thống Kê Tất Cả Liên Kết ===\n
+\n\=\=\= 激活的羁绊 \=\=\=\n=\n=== Liên Kết Đã Kích Hoạt ===\n
+\n\=\=\= 示例2：查询融合配方 \=\=\==\n=== Ví Dụ 2: Tra Cứu Công Thức Dung Hợp ===
+\n冷却：{0}秒=\nHồi chiêu: {0} giây
+\n敌方护甲：{0:F0}=\nGiáp địch: {0:F0}
+\n植物品质：{0}=\nPhẩm chất cây: {0}
+\n点击中栏此词条，可永久解锁该组的满阶战术。=\nNhấp vào thuộc tính này ở cột giữa để mở khóa vĩnh viễn chiến thuật max cấp của nhóm.
+\n难度积分：{0}=\nĐiểm khó: {0}
+\n📊 测试1：品质权重计算=\n📊 Kiểm Thử 1: Tính Trọng Số Phẩm Chất
+  - 词条: {0}, 次数: {1}=  - Thuộc tính: {0}, số lần: {1}
+  融合配方总数: {0}\n=  Tổng số công thức dung hợp: {0}\n
+ · 50诸神币= · 50 Xu Chư Thần
+ · 未购买 · {0}诸神币= · Chưa mua · {0} Xu Chư Thần
+ 个词条 · 前三级免费\n= thuộc tính · 3 cấp đầu miễn phí\n
+10%伤害减免=Giảm 10% sát thương
+100%独立伤害增幅，200%基础伤害=Tăng 100% sát thương độc lập, 200% sát thương cơ bản
+10000%伤害，冷却0.01秒=10000% sát thương, hồi chiêu 0.01 giây
+100冻结值，300%伤害=100 điểm đóng băng, 300% sát thương
+100击杀，2000%基础伤害=100 lần hạ gục, 2000% sát thương cơ bản
+120%独立伤害增幅=Tăng 120% sát thương độc lập
+15%伤害减免=Giảm 15% sát thương
+1500%伤害，冷却0.05秒=1500% sát thương, hồi chiêu 0.05 giây
+160%基础伤害=160% sát thương cơ bản
+1600%基础伤害=1600% sát thương cơ bản
+1次轮回，最终面临僵王的挑战\n通关获得75诸神币\n\n=1 vòng luân hồi, cuối cùng đối mặt thử thách Vua Zombie\nVượt ải nhận 75 Xu Chư Thần\n\n
+20%独立伤害增幅，80%伤害增幅=Tăng 20% sát thương độc lập, tăng 80% sát thương
+200%伤害，冷却0.5秒=200% sát thương, hồi chiêu 0.5 giây
+200%基础伤害，60%攻击力，2层=200% sát thương cơ bản, 60% lực tấn công, 2 cộng dồn
+200%独立伤害增幅=Tăng 200% sát thương độc lập
+200击杀，1200%基础伤害=200 lần hạ gục, 1200% sát thương cơ bản
+20冻结值，150%伤害=20 điểm đóng băng, 150% sát thương
+24%幸运一击率，120%基础伤害=Tỉ lệ đòn may mắn 24%, 120% sát thương cơ bản
+240%基础伤害=240% sát thương cơ bản
+2次轮回，最终面临黄金僵王的挑战\n通关获得100诸神币\n\n=2 vòng luân hồi, cuối cùng đối mặt thử thách Vua Zombie Hoàng Kim\nVượt ải nhận 100 Xu Chư Thần\n\n
+30%独立伤害增幅，120%伤害增幅=Tăng 30% sát thương độc lập, tăng 120% sát thương
+300%伤害，冷却0.3秒=300% sát thương, hồi chiêu 0.3 giây
+300%独立伤害增幅=Tăng 300% sát thương độc lập
+300击杀，900%基础伤害=300 lần hạ gục, 900% sát thương cơ bản
+36%幸运一击率，180%基础伤害=Tỉ lệ đòn may mắn 36%, 180% sát thương cơ bản
+40%独立伤害增幅，100%基础伤害=Tăng 40% sát thương độc lập, 100% sát thương cơ bản
+400%基础伤害=400% sát thương cơ bản
+400%基础伤害，80%攻击力，3层=400% sát thương cơ bản, 80% lực tấn công, 3 cộng dồn
+400击杀，600%基础伤害=400 lần hạ gục, 600% sát thương cơ bản
+48%幸运一击率，240%基础伤害=Tỉ lệ đòn may mắn 48%, 240% sát thương cơ bản
+50%独立伤害增幅，200%伤害增幅=Tăng 50% sát thương độc lập, tăng 200% sát thương
+500%基础伤害=500% sát thương cơ bản
+500击杀，300%基础伤害=500 lần hạ gục, 300% sát thương cơ bản
+50冻结值，200%伤害=50 điểm đóng băng, 200% sát thương
+60%幸运一击率，600%基础伤害=Tỉ lệ đòn may mắn 60%, 600% sát thương cơ bản
+80%独立伤害增幅=Tăng 80% sát thương độc lập
+800%伤害，冷却0.1秒=800% sát thương, hồi chiêu 0.1 giây
+800%基础伤害=800% sát thương cơ bản
+800%基础伤害，120%攻击力，4层=800% sát thương cơ bản, 120% lực tấn công, 4 cộng dồn
+: 求解器判定为【不可解】=: Bộ giải kết luận 【Không Thể Giải】
+: 求解器判定为【可解】=: Bộ giải kết luận 【Có Thể Giải】
+<color\=#800080>【SP进化】</color>：\n<nobr>解锁<color\=red>究极寒冰小喷菇</color>\n寒冰机枪小喷菇+豌豆射手</nobr>\n<nobr>解锁<color\=red>究极阳光小喷菇</color>\n阳光机枪小喷菇+豌豆射手</nobr>\n继承原转换配方=<color=#800080>【Tiến Hóa SP】</color>：\n<nobr>Mở khóa <color=red>Nấm Phun Nhỏ Băng Giá Tối Thượng</color>\nNấm Phun Nhỏ Súng Máy Băng Giá+Đậu Bắn Súng</nobr>\n<nobr>Mở khóa <color=red>Nấm Phun Nhỏ Nắng Tối Thượng</color>\nNấm Phun Nhỏ Súng Máy Nắng+Đậu Bắn Súng</nobr>\nKế thừa công thức chuyển đổi gốc
+<color\=#800080>【SP进化】</color>：\n<nobr>解锁<color\=red>究极毁灭菇射手</color>\n毁灭菇机枪射手+毁灭菇</nobr>\n<nobr>解锁<color\=red>究极毁灭胆小菇</color>\n毁灭机枪胆小菇+毁灭菇</nobr>\n继承原转换配方=<color=#800080>【Tiến Hóa SP】</color>：\n<nobr>Mở khóa <color=red>Xạ Thủ Nấm Hủy Diệt Tối Thượng</color>\nXạ Thủ Súng Máy Nấm Hủy Diệt+Nấm Hủy Diệt</nobr>\n<nobr>Mở khóa <color=red>Nấm Nhát Gan Hủy Diệt Tối Thượng</color>\nNấm Nhát Gan Súng Máy Hủy Diệt+Nấm Hủy Diệt</nobr>\nKế thừa công thức chuyển đổi gốc
+<color\=#800080>【SP进化】</color>：\n<nobr>解锁<color\=red>究极浴火射手</color>\n浴火三线射手+火爆辣椒</nobr>\n<nobr>解锁<color\=red>究极飞火射手</color></nobr>\n继承原转换配方=<color=#800080>【Tiến Hóa SP】</color>：\n<nobr>Mở khóa <color=red>Xạ Thủ Dục Hỏa Tối Thượng</color>\nXạ Thủ Ba Tia Dục Hỏa+Ớt Cay Nổ</nobr>\n<nobr>Mở khóa <color=red>Xạ Thủ Phi Hỏa Tối Thượng</color></nobr>\nKế thừa công thức chuyển đổi gốc
+<color\=#800080>【SP进化】</color>：\n<nobr>解锁<color\=red>究极阳光帝果</color>\n阳光帝果+坚果</nobr>\n<nobr>解锁<color\=red>究极火焰帝果</color>\n火焰帝果+坚果</nobr>\n继承原转换配方=<color=#800080>【Tiến Hóa SP】</color>：\n<nobr>Mở khóa <color=red>Đế Quả Nắng Tối Thượng</color>\nĐế Quả Nắng+Quả Óc Chó</nobr>\n<nobr>Mở khóa <color=red>Đế Quả Hỏa Diệm Tối Thượng</color>\nĐế Quả Hỏa Diệm+Quả Óc Chó</nobr>\nKế thừa công thức chuyển đổi gốc
+<color\=#800080>【元素反应】</color>：\n<color\=red>究极大喷菇</color>能生成黑曜石雪爪僵尸；<color\=red>究极火神弹弹菇</color>主子弹额外分裂一个伤害受冰火植物数量增幅的黑曜石瓜；寒冷和红温状态相遇时会产生黑曜爆炸=<color=#800080>【Phản Ứng Nguyên Tố】</color>：\n<color=red>Nấm Phun To Tối Thượng</color> có thể tạo ra Zombie Vuốt Tuyết Hắc Diện Thạch; đạn chính của <color=red>Nấm Nảy Hỏa Thần Tối Thượng</color> sẽ tách thêm một quả Dưa Hắc Diện Thạch có sát thương tăng theo số lượng cây Băng Hỏa; khi trạng thái Giá Lạnh gặp trạng thái Đỏ Nhiệt sẽ gây ra vụ nổ Hắc Diện
+<color\=#800080>【力量会给予希望】</color>：\n手套抓取<color\=red>究极火焰帝果</color>给予<color\=red>究极爆破加农炮</color>时，全场的后者会进行连携攻击，每8发炮弹形成一颗爆破陨石降落，对全场僵尸造成毁灭性打击=<color=#800080>【Sức Mạnh Trao Hy Vọng】</color>：\nKhi Găng Tay chụp <color=red>Đế Quả Hỏa Diệm Tối Thượng</color> ban cho <color=red>Đại Bác Phá Nổ Tối Thượng</color>, toàn bộ cây sau trên sân sẽ tấn công liên kết, mỗi 8 viên đạn tạo thành một thiên thạch nổ rơi xuống, gây đòn hủy diệt lên toàn bộ zombie trên sân
+<color\=#800080>【小小作战】</color>：\n<color\=red>究极小投手</color>与<color\=red>究极寒冰小喷菇</color>被密植在同一格时。前者的子弹会额外分裂一次；二者的普通子弹和特殊子弹将会获得对方子弹的部分特点=<color=#800080>【Chiến Dịch Tí Hon】</color>：\nKhi <color=red>Ném Thủ Nhỏ Tối Thượng</color> và <color=red>Nấm Phun Nhỏ Băng Giá Tối Thượng</color> được trồng dày cùng một ô: đạn của cây trước sẽ tách thêm một lần; đạn thường và đạn đặc biệt của cả hai sẽ mang một phần đặc điểm đạn của nhau
+<color\=#800080>【我是传奇】</color>：\n<color\=red>究极樱桃战神</color>和<color\=red>究极黑曜石高坚果</color>同时在场时：前者不再有血量上限，后者额外获得90%减伤\n<color\=red>究极毒蒜战神、究极黑曜石土豆坚果</color>共享以上效果=<color=#800080>【Ta Là Huyền Thoại】</color>：\nKhi <color=red>Chiến Thần Cherry Tối Thượng</color> và <color=red>Quả Óc Chó Khổng Lồ Hắc Diện Thạch Tối Thượng</color> cùng có mặt: cây trước không còn giới hạn máu, cây sau được giảm thêm 90% sát thương\n<color=red>Chiến Thần Tỏi Độc Tối Thượng, Quả Óc Chó Khoai Tây Hắc Diện Thạch Tối Thượng</color> cùng hưởng hiệu quả trên
+<color\=#800080>【无限火力】</color>：\n<color\=red>究极浮空樱桃射手</color>与<color\=red>究极毁灭胆小菇</color>协同攻击时，发射的子弹数会疯狂增长。停止攻击后该增幅会逐渐衰减=<color=#800080>【Hỏa Lực Vô Hạn】</color>：\nKhi <color=red>Xạ Thủ Cherry Bay Tối Thượng</color> và <color=red>Nấm Nhát Gan Hủy Diệt Tối Thượng</color> tấn công phối hợp, số đạn bắn ra sẽ tăng điên cuồng. Sau khi ngừng tấn công, mức tăng sẽ dần suy giảm
+<color\=#800080>【星月护符】</color>：\n场上<color\=red>究极杨桃大帝</color>和<color\=red>究极月亮神卷心菜</color>数量均不小于6时：前者的子弹会额外伤害场上韧性最高的僵尸；后者会大量提升全场光照，且召唤的月亮恒存=<color=#800080>【Bùa Hộ Tinh Nguyệt】</color>：\nKhi số lượng <color=red>Khế Đại Đế Tối Thượng</color> và <color=red>Bắp Cải Nguyệt Thần Tối Thượng</color> trên sân đều không dưới 6: đạn của cây trước gây thêm sát thương lên zombie có độ cứng cao nhất trên sân; cây sau tăng mạnh ánh sáng toàn sân, và mặt trăng triệu hồi tồn tại vĩnh viễn
+<color\=#800080>【星火燎原】</color>：\n<color\=red>究极火爆星炬</color>释放一行辣椒火焰升级为每行释放；<color\=red>究极浴火射手、究极飞火射手</color>的子弹被前者影响后会分裂为每行各一发=<color=#800080>【Tinh Hỏa Liệu Nguyên】</color>：\n<color=red>Đuốc Sao Nổ Tối Thượng</color> phóng lửa ớt một hàng nâng cấp thành phóng mỗi hàng; đạn của <color=red>Xạ Thủ Dục Hỏa Tối Thượng, Xạ Thủ Phi Hỏa Tối Thượng</color> sau khi chịu ảnh hưởng sẽ tách thành mỗi hàng một viên
+<color\=#800080>【星神合一】</color>：\n场上<color\=red>究极杨桃大帝</color>和<color\=red>究极太阳神卷心菜</color>数量均不小于6时：前者的子弹将如后者般金光闪闪；后者召唤的太阳恒存；且二者会合力召唤太阳神流星=<color=#800080>【Tinh Thần Hợp Nhất】</color>：\nKhi số lượng <color=red>Khế Đại Đế Tối Thượng</color> và <color=red>Bắp Cải Thái Dương Thần Tối Thượng</color> trên sân đều không dưới 6: đạn của cây trước sẽ lấp lánh ánh vàng như cây sau; mặt trời do cây sau triệu hồi tồn tại vĩnh viễn; và cả hai sẽ hợp lực triệu hồi sao băng Thái Dương Thần
+<color\=#800080>【永寂新星】</color>：\n<color\=red>究极冰神西瓜</color>的星云的子弹伤害x6，且会生成黑洞扭曲；<color\=red>究极超时空玉米</color>一定投出究极黑洞；究极黑洞坍缩时会引爆所有黑洞扭曲以增加自身坍缩伤害=<color=#800080>【Tân Tinh Vĩnh Tịch】</color>：\nSát thương đạn tinh vân của <color=red>Dưa Hấu Băng Thần Tối Thượng</color> x6, và tạo ra dị biến hố đen; <color=red>Ngô Siêu Thời Không Tối Thượng</color> nhất định ném ra hố đen tối thượng; khi hố đen tối thượng sụp đổ sẽ kích nổ mọi dị biến hố đen để tăng sát thương sụp đổ của bản thân
+<color\=#800080>【火力全开】</color>：\n<color\=red>究极樱桃射手</color>攻击时上下两行会有爆炸樱桃子弹协同射击；<color\=red>究极火爆窝炬</color>的辣椒火焰将附带樱桃爆炸的属性；爆炸樱桃子弹会促进且按前者数量增伤后者的火焰=<color=#800080>【Hỏa Lực Toàn Khai】</color>：\nKhi <color=red>Xạ Thủ Cherry Tối Thượng</color> tấn công, hai hàng trên dưới sẽ có đạn cherry nổ phối hợp bắn; lửa ớt của <color=red>Đuốc Bí Nổ Tối Thượng</color> sẽ mang thuộc tính nổ cherry; đạn cherry nổ sẽ thúc đẩy và tăng sát thương lửa của cây sau theo số lượng cây trước
+<color\=#800080>【超新星爆发】</color>：\n<color\=red>究极流光射手</color>可为任意行的<color\=red>究极路灯花</color>输送光能。后者光能较高时进入超频攻击状态，最终在耀眼的光芒中爆发，对全场僵尸造成毁灭性打击=<color=#800080>【Siêu Tân Tinh Bộc Phát】</color>：\n<color=red>Xạ Thủ Lưu Quang Tối Thượng</color> có thể truyền quang năng cho <color=red>Hoa Đèn Đường Tối Thượng</color> ở bất kỳ hàng nào. Khi quang năng của cây sau cao sẽ tiến vào trạng thái tấn công siêu tần, cuối cùng bộc phát trong ánh sáng chói lọi, gây đòn hủy diệt lên toàn bộ zombie trên sân
+<color\=red>旅行羁绊：=<color=red>Liên Kết Du Hành:
+<nobr>危机-不朽缚灵：</nobr>\n究极万年不化骨将会出现=<nobr>Khủng Hoảng - Linh Phược Bất Hủ:</nobr>\nBất Hóa Cốt Vạn Năm Tối Thượng sẽ xuất hiện
+<nobr>危机-世纪之花：</nobr>\n究极僵尸火红莲将会出现=<nobr>Khủng Hoảng - Hoa Thế Kỷ:</nobr>\nHồng Liên Hỏa Zombie Tối Thượng sẽ xuất hiện
+<nobr>危机-乌云压境：</nobr>\n究极鱼型裂空机甲将会出现=<nobr>Khủng Hoảng - Mây Đen Áp Cảnh:</nobr>\nCơ Giáp Cá Liệt Không Tối Thượng sẽ xuất hiện
+<nobr>危机-军团集结：</nobr>\n究极阿尔法小队将会出现=<nobr>Khủng Hoảng - Quân Đoàn Tập Kết:</nobr>\nTiểu Đội Alpha Tối Thượng sẽ xuất hiện
+<nobr>危机-将旗招展：</nobr>\n究极黑橄榄将军将会出现=<nobr>Khủng Hoảng - Tướng Kỳ Chiêu Triển:</nobr>\nTướng Quân Ô Liu Đen Tối Thượng sẽ xuất hiện
+<nobr>危机-巡演终站：</nobr>\n究极舞台巡演车将会出现=<nobr>Khủng Hoảng - Trạm Cuối Lưu Diễn:</nobr>\nXe Sân Khấu Lưu Diễn Tối Thượng sẽ xuất hiện
+<nobr>危机-巨鲸之怒：</nobr>\n究极古鲸骑士将会出现=<nobr>Khủng Hoảng - Cự Kình Chi Nộ:</nobr>\nKỵ Sĩ Cổ Kình Tối Thượng sẽ xuất hiện
+<nobr>危机-怒海狂涛：</nobr>\n究极渊海三叉戟将会出现=<nobr>Khủng Hoảng - Nộ Hải Cuồng Đào:</nobr>\nĐinh Ba Uyên Hải Tối Thượng sẽ xuất hiện
+<nobr>危机-惊魂派对：</nobr>\n究极玩偶匣皇后将会出现=<nobr>Khủng Hoảng - Kinh Hồn Phái Đối:</nobr>\nHoàng Hậu Hộp Búp Bê Tối Thượng sẽ xuất hiện
+<nobr>危机-玄铠护军：</nobr>\n究极黑曜石巨人将会出现=<nobr>Khủng Hoảng - Huyền Khải Hộ Quân:</nobr>\nKhổng Lồ Hắc Diện Thạch Tối Thượng sẽ xuất hiện
+<nobr>危机-紧急授课：</nobr>\n究极Z教授将会出现=<nobr>Khủng Hoảng - Khẩn Cấp Thụ Khóa:</nobr>\nGiáo Sư Z Tối Thượng sẽ xuất hiện
+<nobr>危机-铁幕推进：</nobr>\n究极机械保龄球将会出现=<nobr>Khủng Hoảng - Thiết Mạc Thôi Tiến:</nobr>\nBowling Cơ Khí Tối Thượng sẽ xuất hiện
+<nobr>危机-铁骑纵横：</nobr>\n究极黑橄榄大帅将会出现=<nobr>Khủng Hoảng - Thiết Kỵ Tung Hoành:</nobr>\nĐại Soái Ô Liu Đen Tối Thượng sẽ xuất hiện
+<nobr>危机-鬼影王座：</nobr>\n究极小鬼国王将会出现=<nobr>Khủng Hoảng - Quỷ Ảnh Vương Tọa:</nobr>\nVua Tiểu Quỷ Tối Thượng sẽ xuất hiện
+<nobr>解锁<color\=red>究极云杉</color>\n超级云杉+莲花云杉</nobr>\n<nobr>解锁<color\=red>究极冬笋路障</color></nobr>\n<nobr>云杉弓手←→冬笋路障</nobr>=<nobr>Mở khóa <color=red>Vân Sam Tối Thượng</color>\nVân Sam Siêu Cấp+Vân Sam Sen</nobr>\n<nobr>Mở khóa <color=red>Măng Mùa Đông Nón Giao Thông Tối Thượng</color></nobr>\n<nobr>Xạ Thủ Vân Sam←→Măng Mùa Đông Nón Giao Thông</nobr>
+<nobr>解锁<color\=red>究极冰神西瓜</color>\n冰瓜+超时空西瓜投手</nobr>\n<nobr>解锁<color\=red>究极冰神毁灭菇</color></nobr>\n西瓜投手←→毁灭菇=<nobr>Mở khóa <color=red>Dưa Hấu Băng Thần Tối Thượng</color>\nDưa Băng+Dưa Hấu Ném Siêu Thời Không</nobr>\n<nobr>Mở khóa <color=red>Nấm Hủy Diệt Băng Thần Tối Thượng</color></nobr>\nDưa Hấu Ném←→Nấm Hủy Diệt
+<nobr>解锁<color\=red>究极冷寂加农炮</color>\n寒冰加农炮+寒冰毁灭菇</nobr>\n<nobr>解锁<color\=red>究极冷寂榴弹炮</color></nobr>\n玉米投手←→西瓜投手=<nobr>Mở khóa <color=red>Đại Bác Lãnh Tịch Tối Thượng</color>\nĐại Bác Băng Giá+Nấm Hủy Diệt Băng Giá</nobr>\n<nobr>Mở khóa <color=red>Lựu Đạn Pháo Lãnh Tịch Tối Thượng</color></nobr>\nNgô Ném Bơ←→Dưa Hấu Ném
 <nobr>解锁<color\=red>究极向日葵</color>\n火炬向日葵+金向日葵</nobr>=<nobr>Mở khóa <color=red>Hoa Hướng Dương Tối Thượng</color>\nHướng Dương Đuốc + Hướng Dương Vàng</nobr>
+<nobr>解锁<color\=red>究极堡垒坚果</color>\n堡垒坚果+黑曜石辣椒菇</nobr>=<nobr>Mở khóa <color=red>Quả Óc Chó Pháo Đài Tối Thượng</color>\nQuả Óc Chó Pháo Đài+Nấm Ớt Hắc Diện Thạch</nobr>
+<nobr>解锁<color\=red>究极大喷菇</color>\n超级大喷菇+寒冰魅惑菇</nobr>\n<nobr>解锁<color\=red>究极仙人掌</color></nobr>\n大喷菇←→仙人掌=<nobr>Mở khóa <color=red>Nấm Phun To Tối Thượng</color>\nNấm Phun To Siêu Cấp+Nấm Mê Hoặc Băng Giá</nobr>\n<nobr>Mở khóa <color=red>Xương Rồng Tối Thượng</color></nobr>\nNấm Phun To←→Xương Rồng
+<nobr>解锁<color\=red>究极太阳神卷心菜</color>\n阳光卷心菜+金卷心菜</nobr>\n<nobr>解锁<color\=red>究极月亮神卷心菜</color></nobr>\n向日葵←→路灯花=<nobr>Mở khóa <color=red>Bắp Cải Thái Dương Thần Tối Thượng</color>\nBắp Cải Nắng+Bắp Cải Vàng</nobr>\n<nobr>Mở khóa <color=red>Bắp Cải Nguyệt Thần Tối Thượng</color></nobr>\nHoa Hướng Dương←→Hoa Đèn Đường
+<nobr>解锁<color\=red>究极小松炉</color>\n超级小松炉+雪棘芦荟</nobr>=<nobr>Mở khóa <color=red>Lò Tùng Tối Thượng</color>\nLò Tùng Siêu Cấp+Lô Hội Gai Tuyết</nobr>
+<nobr>解锁<color\=red>究极忧郁菇</color>\n超级大喷菇+寒冰忧郁菇</nobr>\n<nobr>解锁<color\=red>究极路灯花</color></nobr>\n忧郁菇←→路灯花=<nobr>Mở khóa <color=red>Nấm U Buồn Tối Thượng</color>\nNấm Phun To Siêu Cấp+Nấm U Buồn Băng Giá</nobr>\n<nobr>Mở khóa <color=red>Hoa Đèn Đường Tối Thượng</color></nobr>\nNấm U Buồn←→Hoa Đèn Đường
+<nobr>解锁<color\=red>究极投手</color>\n超级投手+蒜西瓜投手</nobr>\n<nobr>解锁<color\=red>究极小投手</color></nobr>\n西瓜投手←→小喷菇=<nobr>Mở khóa <color=red>Ném Thủ Tối Thượng</color>\nNém Thủ Siêu Cấp+Dưa Hấu Ném Tỏi</nobr>\n<nobr>Mở khóa <color=red>Ném Thủ Nhỏ Tối Thượng</color></nobr>\nDưa Hấu Ném←→Nấm Phun Nhỏ
+<nobr>解锁<color\=red>究极机枪炮台</color></nobr>\n机枪豌豆炮台+黑曜石辣椒菇\n<nobr>解锁<color\=red>究极激光炮台</color></nobr>\n豌豆射手←→狙击射手=<nobr>Mở khóa <color=red>Pháo Đài Súng Máy Tối Thượng</color></nobr>\nPháo Đài Đậu Súng Máy+Nấm Ớt Hắc Diện Thạch\n<nobr>Mở khóa <color=red>Pháo Đài Laser Tối Thượng</color></nobr>\nĐậu Bắn Súng←→Xạ Thủ Bắn Tỉa
+<nobr>解锁<color\=red>究极杨桃大帝</color>\n超级杨桃+磁力仙人掌</nobr>\n<nobr>解锁<color\=red>究极五叶草</color></nobr>\n杨桃←→三叶草=<nobr>Mở khóa <color=red>Khế Đại Đế Tối Thượng</color>\nKhế Ngũ Giác Siêu Cấp+Xương Rồng Từ Lực</nobr>\n<nobr>Mở khóa <color=red>Cỏ Năm Lá Tối Thượng</color></nobr>\nKhế Ngũ Giác←→Cỏ Ba Lá
+<nobr>解锁<color\=red>究极樱桃射手</color></nobr>\n樱桃机枪射手+超级樱桃射手\n<nobr>解锁<color\=red>究极浮空樱桃射手</color></nobr>\n铲除←→三叶草=<nobr>Mở khóa <color=red>Xạ Thủ Cherry Tối Thượng</color></nobr>\nXạ Thủ Súng Máy Cherry+Xạ Thủ Cherry Siêu Cấp\n<nobr>Mở khóa <color=red>Xạ Thủ Cherry Bay Tối Thượng</color></nobr>\nXúc←→Cỏ Ba Lá
+<nobr>解锁<color\=red>究极樱桃战神</color>\n超级大嘴花+樱桃大嘴花</nobr>\n<nobr>解锁<color\=red>究极毒蒜战神</color></nobr>\n樱桃炸弹←→大蒜=<nobr>Mở khóa <color=red>Chiến Thần Cherry Tối Thượng</color>\nHoa Nuốt Chửng Siêu Cấp+Hoa Nuốt Chửng Cherry</nobr>\n<nobr>Mở khóa <color=red>Chiến Thần Tỏi Độc Tối Thượng</color></nobr>\nBom Cherry←→Tỏi
+<nobr>解锁<color\=red>究极流光射手   </color></nobr>\n流光中继射手+超时空豌豆射手\n<nobr>解锁<color\=red>究极影蚀射手   </color></nobr>\n路灯花←→大蒜=<nobr>Mở khóa <color=red>Xạ Thủ Lưu Quang Tối Thượng </color></nobr>\nXạ Thủ Kế Tiếp Lưu Quang+Đậu Bắn Súng Siêu Thời Không\n<nobr>Mở khóa <color=red>Xạ Thủ Ảnh Thực Tối Thượng </color></nobr>\nHoa Đèn Đường←→Tỏi
+<nobr>解锁<color\=red>究极海妖菇</color>\n海妖菇+海蘑菇群</nobr>=<nobr>Mở khóa <color=red>Nấm Hải Yêu Tối Thượng</color>\nNấm Hải Yêu+Đám Nấm Biển</nobr>
+<nobr>解锁<color\=red>究极激光南瓜</color>\n超级南瓜+磁力三叶草</nobr>\n<nobr>解锁<color\=red>究极磁爆南瓜</color></nobr>\n仙人掌←→樱桃炸弹=<nobr>Mở khóa <color=red>Bí Ngô Laser Tối Thượng</color>\nBí Ngô Siêu Cấp+Cỏ Ba Lá Từ Lực</nobr>\n<nobr>Mở khóa <color=red>Bí Ngô Từ Bạo Tối Thượng</color></nobr>\nXương Rồng←→Bom Cherry
+<nobr>解锁<color\=red>究极火爆窝炬</color>\n超级火炬树桩+火爆窝瓜</nobr>\n<nobr>解锁<color\=red>究极火爆星炬</color></nobr>\n窝瓜←→杨桃=<nobr>Mở khóa <color=red>Đuốc Bí Nổ Tối Thượng</color>\nGốc Cây Đuốc Siêu Cấp+Bí Đao Nổ</nobr>\n<nobr>Mở khóa <color=red>Đuốc Sao Nổ Tối Thượng</color></nobr>\nBí Đao←→Khế Ngũ Giác
+<nobr>解锁<color\=red>究极火神弹弹菇</color>\n火瓜+橄榄大喷菇</nobr>\n<nobr>解锁<color\=red>究极火神黏黏菇</color></nobr>\n<nobr>西瓜投手←→玉米投手</nobr>=<nobr>Mở khóa <color=red>Nấm Nảy Hỏa Thần Tối Thượng</color>\nDưa Lửa+Nấm Phun To Ô Liu</nobr>\n<nobr>Mở khóa <color=red>Nấm Dính Hỏa Thần Tối Thượng</color></nobr>\n<nobr>Dưa Hấu Ném←→Ngô Ném Bơ</nobr>
+<nobr>解锁<color\=red>究极灯笼巨嘴花</color>\n巨嘴花+灯笼大嘴花</nobr>=<nobr>Mở khóa <color=red>Hoa Miệng Rộng Đèn Lồng Tối Thượng</color>\nHoa Miệng Rộng+Hoa Nuốt Chửng Đèn Lồng</nobr>
+<nobr>解锁<color\=red>究极爆焱猫尾草</color>\n火焰猫尾草+樱桃辣椒</nobr>\n<nobr>解锁<color\=red>究极爆焱海蘑菇</color></nobr>\n猫尾草←→海蘑菇=<nobr>Mở khóa <color=red>Cỏ Đuôi Mèo Bạo Diệm Tối Thượng</color>\nCỏ Đuôi Mèo Hỏa Diệm+Ớt Cherry</nobr>\n<nobr>Mở khóa <color=red>Nấm Biển Bạo Diệm Tối Thượng</color></nobr>\nCỏ Đuôi Mèo←→Nấm Biển
+<nobr>解锁<color\=red>究极爆破加农炮</color>\n火焰加农炮+樱桃辣椒</nobr>\n<nobr>解锁<color\=red>究极爆破迫击炮</color></nobr>\n玉米投手←→卷心菜投手=<nobr>Mở khóa <color=red>Đại Bác Phá Nổ Tối Thượng</color>\nĐại Bác Hỏa Diệm+Ớt Cherry</nobr>\n<nobr>Mở khóa <color=red>Đại Bác Cối Phá Nổ Tối Thượng</color></nobr>\nNgô Ném Bơ←→Bắp Cải Ném Đá
+<nobr>解锁<color\=red>究极贪欲水草</color>\n超级水草+双子金盏花</nobr>\n<nobr>解锁<color\=red>究极贪欲盒草</color></nobr>\n惊喜礼盒←→僵尸盲盒=<nobr>Mở khóa <color=red>Rong Nước Tham Lam Tối Thượng</color>\nRong Nước Siêu Cấp+Cúc Vạn Thọ Song Sinh</nobr>\n<nobr>Mở khóa <color=red>Cỏ Hộp Tham Lam Tối Thượng</color></nobr>\nHộp Quà Bất Ngờ←→Hộp Mù Zombie
+<nobr>解锁<color\=red>究极超时空玉米</color></nobr>\n玉米小投手×3+超时空玉米投手\n<nobr>解锁<color\=red>究极超时空坚果</color></nobr>\n玉米投手←→坚果=<nobr>Mở khóa <color=red>Ngô Siêu Thời Không Tối Thượng</color></nobr>\nNgô Ném Bơ Nhỏ×3+Ngô Ném Bơ Siêu Thời Không\n<nobr>Mở khóa <color=red>Quả Óc Chó Siêu Thời Không Tối Thượng</color></nobr>\nNgô Ném Bơ←→Quả Óc Chó
+<nobr>解锁<color\=red>究极魅惑菇</color>\n超级魅惑菇+魅惑磁力菇</nobr>\n<nobr>解锁<color\=red>究极魅惑南瓜</color></nobr>\n铲除←→南瓜=<nobr>Mở khóa <color=red>Nấm Mê Hoặc Tối Thượng</color>\nNấm Mê Hoặc Siêu Cấp+Nấm Từ Lực Mê Hoặc</nobr>\n<nobr>Mở khóa <color=red>Bí Ngô Mê Hoặc Tối Thượng</color></nobr>\nXúc←→Bí Ngô
+<nobr>解锁<color\=red>究极黑曜石辣椒菇</color>\n黑曜石辣椒菇x2</nobr>\n<nobr>解锁<color\=red>究极黑曜石小辣椒菇</color></nobr>\n融合洋芋←→小喷菇=<nobr>Mở khóa <color=red>Nấm Ớt Hắc Diện Thạch Tối Thượng</color>\nNấm Ớt Hắc Diện Thạchx2</nobr>\n<nobr>Mở khóa <color=red>Nấm Ớt Nhỏ Hắc Diện Thạch Tối Thượng</color></nobr>\nKhoai Tây Dung Hợp←→Nấm Phun Nhỏ
+<nobr>解锁<color\=red>究极黑曜石高坚果</color>\n寒冰高坚果+火焰高坚果</nobr>\n<nobr>解锁<color\=red>究极黑曜石土豆坚果</color></nobr>\n高坚果←→土豆雷=<nobr>Mở khóa <color=red>Quả Óc Chó Khổng Lồ Hắc Diện Thạch Tối Thượng</color>\nQuả Óc Chó Khổng Lồ Băng Giá+Quả Óc Chó Khổng Lồ Hỏa Diệm</nobr>\n<nobr>Mở khóa <color=red>Quả Óc Chó Khoai Tây Hắc Diện Thạch Tối Thượng</color></nobr>\nQuả Óc Chó Khổng Lồ←→Mìn Khoai Tây
+<nobr>解锁<color\=red>究极黑橄榄机枪射手</color></nobr>\n橄榄机枪射手+铁桶豌豆射手\n<nobr>解锁<color\=red>究极超时空狙击射手</color></nobr>\n橄榄帽←→时空碎片=<nobr>Mở khóa <color=red>Xạ Thủ Súng Máy Ô Liu Đen Tối Thượng</color></nobr>\nXạ Thủ Súng Máy Ô Liu+Đậu Bắn Súng Thùng Sắt\n<nobr>Mở khóa <color=red>Xạ Thủ Bắn Tỉa Siêu Thời Không Tối Thượng</color></nobr>\nMũ Ô Liu←→Mảnh Thời Không
+<nobr>领袖特质-大帅：</nobr>\n究极黑橄榄大帅在场时额外为全场僵尸提供400点护甲=<nobr>Đặc Chất Thủ Lĩnh - Đại Soái:</nobr>\nĐại Soái Ô Liu Đen Tối Thượng khi có mặt sẽ cộng thêm 400 điểm giáp cho toàn bộ zombie trên sân
+<nobr>领袖特质-将旗：</nobr>\n究极黑橄榄将军在场时额外为全场僵尸提供400点护甲=<nobr>Đặc Chất Thủ Lĩnh - Tướng Kỳ:</nobr>\nTướng Quân Ô Liu Đen Tối Thượng khi có mặt sẽ cộng thêm 400 điểm giáp cho toàn bộ zombie trên sân
+<nobr>领袖特质-巨星：</nobr>\n究极舞台巡演车在场时额外为全场僵尸提供400点护甲=<nobr>Đặc Chất Thủ Lĩnh - Cự Tinh:</nobr>\nXe Sân Khấu Lưu Diễn Tối Thượng khi có mặt sẽ cộng thêm 400 điểm giáp cho toàn bộ zombie trên sân
+<nobr>领袖特质-王座：</nobr>\n究极小鬼国王在场时额外为全场僵尸提供400点护甲=<nobr>Đặc Chất Thủ Lĩnh - Vương Tọa:</nobr>\nVua Tiểu Quỷ Tối Thượng khi có mặt sẽ cộng thêm 400 điểm giáp cho toàn bộ zombie trên sân
+<nobr>领袖特质-禁卫：</nobr>\n究极黑曜石巨人在场时额外为全场僵尸提供400点护甲=<nobr>Đặc Chất Thủ Lĩnh - Cấm Vệ:</nobr>\nKhổng Lồ Hắc Diện Thạch Tối Thượng khi có mặt sẽ cộng thêm 400 điểm giáp cho toàn bộ zombie trên sân
+\=\=\= 植物词条选择记录 \=\=\===== Lịch Sử Chọn Thuộc Tính Cây ===
+\=\=\= 羁绊系统信息 \=\=\=\n=\n=== Thông Tin Hệ Thống Liên Kết ===\n
+[AutoChessLevel] 3/6 - 添加羁绊系统...=[AutoChessLevel] 3/6 - Thêm hệ thống Liên Kết...
+[BuffRecord] {0} 选择了词条 {1}，累计 {2} 次=[BuffRecord] {0} đã chọn thuộc tính {1}, tổng cộng {2} lần
+[DamagePlantNode] 植物对象为空，无法造成伤害，节点ID: =[DamagePlantNode] Đối tượng cây trống, không thể gây sát thương, Node ID: 
+[DamageZombieNode] 僵尸对象为空，无法造成伤害，节点ID: =[DamageZombieNode] Đối tượng zombie trống, không thể gây sát thương, Node ID: 
+[DynamicPlantEvolutionData] 解析了 {0} 个阶段的属性配置=[DynamicPlantEvolutionData] Đã phân tích cấu hình thuộc tính của {0} giai đoạn
+[EconomyManager] 伤害值必须大于0: {0}=[EconomyManager] Giá trị sát thương phải lớn hơn 0: {0}
+[EconomyManager] 受到伤害: -{0}, 当前血量: {1}/{2}=[EconomyManager] Chịu sát thương: -{0}, máu hiện tại: {1}/{2}
+[GetTravelBuffNode] 词条未设置，节点ID:=[GetTravelBuffNode] Chưa thiết lập thuộc tính, Node ID:
+[ReinforcePlant] 应用 JSON 配置属性: {0} - HP:{1} DMG:{2}=[ReinforcePlant] Áp dụng thuộc tính cấu hình JSON: {0} - HP:{1} DMG:{2}
+[ReinforcePlant] 未找到植物 {0} 的属性配置=[ReinforcePlant] Không tìm thấy cấu hình thuộc tính của cây {0}
+[SynergyManager] 所有羁绊已重新计算=[SynergyManager] Đã tính lại toàn bộ Liên Kết
+[SynergyManager] 羁绊失效: =[SynergyManager] Liên Kết mất hiệu lực: 
+[SynergyManager] 羁绊激活: {0} {1}级 ({2}个植物)=[SynergyManager] Kích hoạt Liên Kết: {0} cấp {1} ({2} cây)
+[SynergyManager] 羁绊系统初始化完成=[SynergyManager] Khởi tạo hệ thống Liên Kết hoàn tất
+[SynergyManager] 羁绊配置初始化完成，共{0}种羁绊=[SynergyManager] Khởi tạo cấu hình Liên Kết hoàn tất, tổng {0} loại Liên Kết
+[SynergyManager] 羁绊降级: {0} {1}级 → {2}级=[SynergyManager] Hạ cấp Liên Kết: {0} cấp {1} → cấp {2}
+{0} · {1}诸神币={0} · {1} Xu Chư Thần
+{0} · 可选词条 {1} 项\n{2}={0} · {1} thuộc tính tùy chọn\n{2}
+{0} 条进化路线 · 点击卡牌查看词条={0} tuyến tiến hóa · Nhấp vào thẻ để xem thuộc tính
+{0}获得{1:F0}%独立伤害增幅\n当前增幅：{2:F0}%={0} nhận {1:F0}% tăng sát thương độc lập\nMức tăng hiện tại: {2:F0}%
+{0}获得随机独立伤害增幅\n当前增幅：{1:F0}%={0} nhận tăng sát thương độc lập ngẫu nhiên\nMức tăng hiện tại: {1:F0}%
+【<nobr>真正的毁灭菇</nobr>】：毁灭菇子弹会在命中时释放毁灭菇爆炸（不留坑洞）=【<nobr>Nấm Hủy Diệt Chân Chính</nobr>】： Đạn Nấm Hủy Diệt khi trúng đích sẽ gây vụ nổ hủy diệt (không để lại hố)
+【任务一】已失败=【Nhiệm Vụ 1】Thất Bại
+【任务二】已失败=【Nhiệm Vụ 2】Thất Bại
+【倒反天罡】：究极系列植物的攻击与韧性减少90%，其他植物的攻击与韧性增加39倍，速度增加2倍=【Đảo Phản Thiên Cương】: Cây dòng Tối Thượng giảm 90% tấn công và độ cứng, các cây khác tăng 39 lần tấn công và độ cứng, tốc độ tăng 2 lần
+\n<color\=red>请确认是否启动了最新版神笔马良识图AI，可前往融合wiki下载</color>=\n<color=red>Vui lòng xác nhận đã bật AI Thần Bút Mã Lương bản mới nhất, có thể tải tại wiki Dung Hợp</color>
+  校验:   总权重应该 \= 100 + 150 × {0:F1} \= {1:F1}=  Kiểm tra:   Tổng trọng số phải = 100 + 150 × {0:F1} = {1:F1}
+  金色概率 / 钻石概率 \= {0:F1}% / {1:F1}% \= {2:F1}=  Tỉ lệ vàng / Tỉ lệ kim cương = {0:F1}% / {1:F1}% = {2:F1}
+<b>填写数值</b>\n节点本身的文本框和下拉框可以直接编辑。未连接的基础输入，可选中节点后点“填写输入值”。连线值优先；清除填写值后沿用节点原设置。\n=<b>Điền giá trị</b>\nÔ văn bản và hộp thả xuống của chính Node có thể sửa trực tiếp. Với đầu vào cơ bản chưa nối, hãy chọn Node rồi nhấn "Điền giá trị đầu vào". Giá trị đường nối được ưu tiên; sau khi xóa giá trị đã điền sẽ dùng tiếp thiết lập gốc của Node.\n
+<b>试玩验证</b>\n保存并生成关卡后再进入关卡。先只测试这一条规则，确认触发时机、执行次数与目标，再连接其他规则。\n=<b>Chơi thử kiểm chứng</b>\nHãy lưu và tạo màn chơi rồi mới vào màn chơi. Trước tiên chỉ thử quy tắc này, xác nhận thời điểm kích hoạt, số lần thực thi và mục tiêu, rồi mới nối các quy tắc khác.\n
+<color\=#3D1400>出怪权重：</color><color\=red>{0}</color>=<color=#3D1400>Trọng số quái xuất hiện:</color><color=red>{0}</color>
+<color\=#3D1400>出怪等级：</color><color\=red>{0}</color>\n=<color=#3D1400>Cấp quái xuất hiện:</color><color=red>{0}</color>\n
+FirePoint: next或fireWallPrefab为空，无法生成FireWall=FirePoint: next hoặc fireWallPrefab đang trống, không thể tạo FireWall
+Hold音符完成: trackIndex\={0}, duration\={1:F2}s=Nốt giữ (Hold) hoàn thành: trackIndex={0}, duration={1:F2}s
+Hold音符等待点击: trackIndex\={0}, currentTime\={1:F2}, targetTime\={2:F2}=Nốt giữ (Hold) đang chờ nhấn: trackIndex={0}, currentTime={1:F2}, targetTime={2:F2}
+Hold音符错过: trackIndex\={0}, currentTime\={1:F2}, targetTime\={2:F2}=Nốt giữ (Hold) bị lỡ: trackIndex={0}, currentTime={1:F2}, targetTime={2:F2}
+[AddPlantCardNode] 添加卡牌到卡槽失败（卡槽已满）: {0}，节点ID: {1}=[AddPlantCardNode] Thêm thẻ vào khay thẻ thất bại (khay thẻ đã đầy): {0}, Node ID: {1}
+[AutoChessLevel] \=\=\=\=\=\=\=\=\=\= 手动启动自走棋系统 \=\=\=\=\=\=\=\=\=\==[AutoChessLevel] ========== Khởi động thủ công hệ thống cờ tự động ==========
+[AutoChessLevel] \=\=\=\=\=\=\=\=\=\= 自走棋系统启动完成！\=\=\=\=\=\=\=\=\=\=\==[AutoChessLevel] ========== Khởi động hệ thống cờ tự động hoàn tất!===========
+[AutoChessSaveSystem] 存档数据应用完成 - 回合{0} 等级{1}=[AutoChessSaveSystem] Áp dụng dữ liệu bản lưu hoàn tất - Hiệp {0} Cấp {1}
+[BejeweledManager] plantToMatch数量异常: {0}，可能是死循环前兆=[BejeweledManager] Số lượng plantToMatch bất thường: {0}, có thể là dấu hiệu vòng lặp vô hạn
+[BoolVariableNode] Asset类型错误：期望BoolVariableAsset，实际是=[BoolVariableNode] Lỗi loại Asset: mong đợi BoolVariableAsset, thực tế là
+[BoolVariableNode] 变量Asset未设置，返回false，节点ID: =[BoolVariableNode] Asset biến chưa được thiết lập, trả về false, Node ID: 
+[CreateIceBlockNode] 创建冰块失败在 ({0}, {1})，节点ID: {2}=[CreateIceBlockNode] Tạo khối băng thất bại tại ({0}, {1}), Node ID: {2}
+[CreateParticleNode] ParticleManager实例不存在，节点ID: =[CreateParticleNode] Instance ParticleManager không tồn tại, Node ID: 
+[CustomMenuPage_event] 已保存节点图: {0} 个节点, {1} 条连接=[CustomMenuPage_event] Đã lưu sơ đồ Node: {0} Node, {1} kết nối
+[EconomyManager] 游戏初始化完成 - 金币:{0} 等级:{1} 血量:{2}=[EconomyManager] Khởi tạo game hoàn tất - Vàng:{0} Cấp:{1} Máu:{2}
+[EventNodeCanvasInputHandler] 创建的节点不是VariableNode类型: =[EventNodeCanvasInputHandler] Node được tạo không phải loại VariableNode: 
+[EventNodeCanvasInputHandler] 未知的Asset类型: =[EventNodeCanvasInputHandler] Loại Asset không xác định: 
+[EventNodeManager] OnMouseClick事件收到的数据不是MouseClickData对象，而是: =[EventNodeManager] Dữ liệu nhận từ sự kiện OnMouseClick không phải đối tượng MouseClickData, mà là: 
+[EventNodeManager] OnPlantClick事件收到的数据不是Plant对象，而是: =[EventNodeManager] Dữ liệu nhận từ sự kiện OnPlantClick không phải đối tượng Plant, mà là: 
+[EventNodeManager] OnPlantCreate事件收到的数据不是Plant对象，而是: =[EventNodeManager] Dữ liệu nhận từ sự kiện OnPlantCreate không phải đối tượng Plant, mà là: 
+[EventNodeManager] OnPlantDeath事件收到的数据不是Plant对象，而是: =[EventNodeManager] Dữ liệu nhận từ sự kiện OnPlantDeath không phải đối tượng Plant, mà là: 
+[EventNodeManager] OnZombieDeath事件收到的数据不是Zombie对象，而是: =[EventNodeManager] Dữ liệu nhận từ sự kiện OnZombieDeath không phải đối tượng Zombie, mà là: 
+[EventNodeManager] OnZombieSpawn事件收到的数据不是Zombie对象，而是: =[EventNodeManager] Dữ liệu nhận từ sự kiện OnZombieSpawn không phải đối tượng Zombie, mà là: 
+[FloatVariableNode] Asset类型错误：期望FloatVariableAsset，实际是=[FloatVariableNode] Lỗi loại Asset: mong đợi FloatVariableAsset, thực tế là
+[FloatVariableNode] 变量Asset未设置，返回0，节点ID: =[FloatVariableNode] Asset biến chưa được thiết lập, trả về 0, Node ID: 
+[GameAPP] 未找到音效 {0} (ID: {1})，请确保文件存在于 Resources/Audio/Sound/=[GameAPP] Không tìm thấy âm thanh {0} (ID: {1}), hãy đảm bảo tệp tồn tại trong Resources/Audio/Sound/
+[GetBoolVariableValueNode] 变量节点未连接或获取失败，返回默认值，节点ID: =[GetBoolVariableValueNode] Node biến chưa kết nối hoặc lấy giá trị thất bại, trả về giá trị mặc định, Node ID: 
+[GetFloatVariableValueNode] 变量节点未连接或获取失败，返回默认值，节点ID: =[GetFloatVariableValueNode] Node biến chưa kết nối hoặc lấy giá trị thất bại, trả về giá trị mặc định, Node ID: 
+[GetIntVariableValueNode] 变量节点未连接或获取失败，返回默认值，节点ID: =[GetIntVariableValueNode] Node biến chưa kết nối hoặc lấy giá trị thất bại, trả về giá trị mặc định, Node ID: 
+[GetRandomPlantTypeNode] 列表为空，返回默认值 Nothing，节点ID: =[GetRandomPlantTypeNode] Danh sách trống, trả về giá trị mặc định Nothing, Node ID: 
+[IntVariableNode] Asset类型错误：期望IntVariableAsset，实际是=[IntVariableNode] Lỗi loại Asset: mong đợi IntVariableAsset, thực tế là
+[OnBoardStartNode] Board.Instance 为 null，无法触发关卡开始事件，节点ID: =[OnBoardStartNode] Board.Instance là null, không thể kích hoạt sự kiện bắt đầu màn chơi, Node ID: 
+[OnGameStartNode] Board.Instance 为 null，无法触发关卡开始事件，节点ID: =[OnGameStartNode] Board.Instance là null, không thể kích hoạt sự kiện bắt đầu màn chơi, Node ID: 
+[OnKeyPressNode] targetKey 为 None，无法触发按键事件，节点ID: =[OnKeyPressNode] targetKey là None, không thể kích hoạt sự kiện nhấn phím, Node ID: 
+[OnMouseClickNode] clickData 为 null，无法触发鼠标点击事件，节点ID: =[OnMouseClickNode] clickData là null, không thể kích hoạt sự kiện nhấp chuột, Node ID: 
+[RuntimeEventNodeEditor] 画布或目标Transform未设置，无法跳转=[RuntimeEventNodeEditor] Canvas hoặc Transform đích chưa được thiết lập, không thể chuyển tới
+[SetBoolVariableValueNode] 变量节点未连接，节点ID: =[SetBoolVariableValueNode] Node biến chưa kết nối, Node ID: 
+[SetFloatVariableValueNode] 变量节点未连接，节点ID: =[SetFloatVariableValueNode] Node biến chưa kết nối, Node ID: 
+[WaveEventNode] Board.Instance 为 null，无法触发波次事件，节点ID: =[WaveEventNode] Board.Instance là null, không thể kích hoạt sự kiện đợt quái, Node ID: 
+] EventNodeManager.Instance 或 CurrentGraph 为 null=] EventNodeManager.Instance hoặc CurrentGraph là null
+{0} 的 {1} 规则值必须是位置判断函数 Func<int, int, bool>。=Giá trị quy tắc {1} của {0} phải là hàm kiểm tra vị trí Func<int, int, bool>.
+下一阶段：{0}分{1}秒\r\n当前水分：{2}/100\r\n当前成长阶段：{3}/2\r\n成长值：{4}/100=Giai đoạn tiếp theo: {0} phút {1} giây\\r\\nĐộ ẩm hiện tại: {2}/100\\r\\nGiai đoạn phát triển hiện tại: {3}/2\\r\\nĐiểm phát triển: {4}/100
+从相同类型的输出口连到输入口。带触发输入的节点需要执行连线才能工作。只有数据连线不会执行动作。=Nối từ cổng ra cùng loại tới cổng vào. Node có ngõ vào kích hoạt cần chạy đường nối mới hoạt động. Chỉ đường nối dữ liệu thì không thực thi hành động.
+你获得了一块拼图！左键放下拼图\n紫色：增伤 绿色：减伤 淡蓝色：增加射速\n红色：治疗加成 黄色：3x3替伤 灰色：防压=Bạn nhận được một mảnh ghép! Nhấp chuột trái để đặt mảnh ghép\nTím: tăng sát thương  Xanh lá: giảm sát thương  Xanh nhạt: tăng tốc bắn\nĐỏ: tăng hồi máu  Vàng: 3x3 chịu đòn thay  Xám: chống đè
+元素反应：究喷生成的雪爪改为黑曜石雪爪，火神攻击时还会附带黑曜石瓜，同时解锁冰火连携反应=Phản Ứng Nguyên Tố: Vuốt Tuyết do Nấm Phun Tối Thượng tạo ra đổi thành Vuốt Tuyết Hắc Diện Thạch, khi Hỏa Thần tấn công còn kèm Dưa Hắc Diện Thạch, đồng thời mở khóa Phản Ứng Liên Kết Băng Hỏa
+势如破竹：\n◆<color\=red>寒冰机枪小喷菇</color>：子弹能无限穿透，横向子弹前5次命中时会上下斜向分裂\n◆<color\=red>阳光机枪小喷菇</color>：共享以上效果\n◆进阶形态共享以上效果=Thế Như Chẻ Tre:\n◆<color=red>Nấm Phun Nhỏ Súng Máy Băng Giá</color>: đạn xuyên thấu vô hạn, 5 phát trúng đầu của đạn bay ngang sẽ tách chéo lên xuống\n◆<color=red>Nấm Phun Nhỏ Súng Máy Ánh Dương</color>: hưởng hiệu ứng trên\n◆Dạng tiến cấp hưởng hiệu ứng trên
+可以使用 Graphviz 或在线工具（如 http://viz-js.com/）查看=Có thể xem bằng Graphviz hoặc công cụ trực tuyến (như http://viz-js.com/)
+可带小数的数值，例如0.5、5。整数口需要先经“整数转浮点数”；具体单位见用法和注意事项。=Giá trị số có thể kèm thập phân, ví dụ 0.5, 5. Cổng số nguyên cần qua "Chuyển số nguyên thành số thực" trước; đơn vị cụ thể xem phần cách dùng và lưu ý.
+回收计划：立即获得10个超级黄金罐子卡牌，然后每一小波都获得1个，每一大波获得5个=Kế Hoạch Thu Hồi: nhận ngay 10 thẻ Hũ Vàng Siêu Cấp, sau đó mỗi đợt nhỏ nhận 1 thẻ, mỗi đợt lớn nhận 5 thẻ
+妙手回春：\n◆<color\=red>阳光帝果</color>：点击消耗的阳光降低至200\n◆<color\=red>火焰帝果</color>：回血量翻倍\n◆进阶形态共享以上效果=Diệu Thủ Hồi Xuân:\n◆<color=red>Đế Quả Ánh Dương</color>: lượng nắng tiêu hao khi nhấn giảm còn 200\n◆<color=red>Đế Quả Hỏa Diễm</color>: lượng máu hồi tăng gấp đôi\n◆Dạng tiến cấp hưởng hiệu ứng trên
+宝藏-双倍幸运：立即使你当前幸运与幸运值上限翻倍\n若为负数则取绝对值后再翻倍，如-50幸运时：-50→100=Kho Báu - May Mắn Nhân Đôi: lập tức nhân đôi điểm may mắn hiện tại và giới hạn may mắn của bạn\nNếu là số âm thì lấy giá trị tuyệt đối rồi nhân đôi, ví dụ khi -50 may mắn: -50→100
+射速：<color\={0}>{1:F2}</color><color\={2}>(+{3:F0}%)</color>\n=Tốc bắn:<color={0}>{1:F2}</color><color={2}>(+{3:F0}%)</color>\n
+尸稠之路：\n<nobr>·解锁<color\=red>窝油帝盆</color></nobr>\n◆<color\=red>窝油帝刺</color>：攻击的定身时间x3\n◆<color\=red>窝油帝盆</color>：共享以上效果=Đường Xác Ken Đặc:\n<nobr>·Mở khóa <color=red>Chậu Đế Oa Du</color></nobr>\n◆<color=red>Gai Đế Oa Du</color>: thời gian trói chân khi tấn công x3\n◆<color=red>Chậu Đế Oa Du</color>: hưởng hiệu ứng trên
+左键放下拼图\n紫色：增伤 绿色：减伤 淡蓝色：增加射速\n红色：治疗加成 黄色：3x3替伤 灰色：防压=Nhấp chuột trái để đặt mảnh ghép\nTím: tăng sát thương  Xanh lá: giảm sát thương  Xanh nhạt: tăng tốc bắn\nĐỏ: tăng hồi máu  Vàng: 3x3 chịu đòn thay  Xám: chống đè
+当前：沿用旧关卡方式，等待结束后读取最近发生的事件。\n例如：先点第2行，等待时又点第4行，第一条规则结束等待后也读取第4行。\n改为保留触发数据后，第一条规则仍读取第2行；切换玩法阶段会停止上一阶段的等待和周期。修改后请试玩。=Hiện tại: giữ cách làm màn cũ, sau khi chờ xong sẽ đọc sự kiện xảy ra gần nhất.\nVí dụ: nhấn hàng 2 trước, lúc chờ lại nhấn hàng 4, thì quy tắc đầu sau khi chờ xong cũng đọc hàng 4.\nSau khi đổi sang giữ dữ liệu kích hoạt, quy tắc đầu vẫn đọc hàng 2; chuyển giai đoạn chơi sẽ dừng chờ và chu kỳ của giai đoạn trước. Sau khi sửa hãy chơi thử.
+撒豆成兵：\n<nobr>·解锁<color\=red>魅后菇</color></nobr>\n◆<color\=red>魅帝菇</color>：召唤间隔从30秒降至10秒\n◆<color\=red>魅后菇</color>：共享以上效果=Rắc Đậu Thành Binh:\n<nobr>·Mở khóa <color=red>Nấm Mị Hậu</color></nobr>\n◆<color=red>Nấm Mị Đế</color>: giãn cách triệu hồi giảm từ 30 giây còn 10 giây\n◆<color=red>Nấm Mị Hậu</color>: hưởng hiệu ứng trên
+攻击力：<color\={0}>{1}</color><color\={2}>(+{3:F0}%)</color>\n=Công:<color={0}>{1}</color><color={2}>(+{3:F0}%)</color>\n
+无关痛痒：\n<nobr>·解锁<color\=red>火焰帝果</color></nobr>\n◆<color\=red>阳光帝果</color>：固定受伤降低至10点\n◆<color\=red>火焰帝果</color>：点击消耗的血量降低至200\n◆进阶形态共享以上效果=Chẳng Đau Chẳng Ngứa:\n<nobr>·Mở khóa <color=red>Đế Quả Hỏa Diễm</color></nobr>\n◆<color=red>Đế Quả Ánh Dương</color>: sát thương cố định phải chịu giảm còn 10 điểm\n◆<color=red>Đế Quả Hỏa Diễm</color>: lượng máu tiêu hao khi nhấn giảm còn 200\n◆Dạng tiến cấp hưởng hiệu ứng trên
+普通出怪流程SpawnOver之后，全场敌人清空时，每波触发一次；不适用于未发布SpawnOver的自定义出怪器=Sau quy trình ra quái thường SpawnOver, mỗi đợt kích hoạt một lần khi đã dọn sạch toàn bộ kẻ địch; không áp dụng cho bộ tạo quái tùy chỉnh chưa phát SpawnOver
+点击画布上的节点，查看用途。\n\n上方“节点说明”提供端口解释和连接例子。\n\n第一次制作？打开右上角“制作指南”。=Nhấp vào Node trên Canvas để xem công dụng.\n\n"Mô tả Node" phía trên giải thích cổng và ví dụ kết nối.\n\nLần đầu chế tạo? Mở "Hướng dẫn chế tạo" ở góc trên bên phải.
+爆裂连珠：\n<nobr>·解锁<color\=red>烈焰盘龙盆</color></nobr>\n◆<color\=red>烈焰竹龙</color>：吐息的爆炸频率翻倍\n◆<color\=red>烈焰盘龙盆</color>：提供的速度加成时间翻倍=Bạo Liệt Liên Châu:\n<nobr>·Mở khóa <color=red>Bồn Liệt Diệm Bàn Long</color></nobr>\n◆<color=red>Trúc Long Liệt Diệm</color>: tần suất phát nổ của hơi thở tăng gấp đôi\n◆<color=red>Bồn Liệt Diệm Bàn Long</color>: thời gian hiệu lực của tăng tốc được tăng gấp đôi
+自动切换场景失败：场景对象不完整，需要 main、night、morning 都存在=Tự động chuyển cảnh thất bại: đối tượng cảnh chưa đầy đủ, cần có đủ main, night, morning
+质变-反弹：铁豆小队的狙击不再能爆头，但弹道触碰场地边缘后会反弹，反弹数为穿透数+2=Biến Chất - Nảy Đạn: bắn tỉa của Tiểu Đội Đậu Sắt không còn headshot được nữa, nhưng khi đường đạn chạm rìa sân sẽ nảy lại, số lần nảy = số lần xuyên + 2
+质变-饱和弹射：火菜炮索敌范围上下额外拓展1行，同时向所有目标发射子弹。若索敌目标数小于最大散射数，将剩余弹药平均分配给索敌目标。子弹飞行时间降低50%=Biến Chất - Tán Xạ Bão Hòa: tầm tìm địch của Pháo Hỏa Thái mở rộng thêm 1 hàng về phía trên và dưới, đồng thời bắn đạn vào tất cả mục tiêu. Nếu số mục tiêu tìm được ít hơn số tia tán xạ tối đa, đạn còn lại sẽ chia đều cho các mục tiêu đã tìm. Thời gian đạn bay giảm 50%
+这份说明对应选中的节点。\n\n向下滚动查看：\n\n用途与操作\n输入输出\n当前连接与填写值\n连接例子\n常见错误=Hướng dẫn này ứng với Node đang được chọn.\n\nCuộn xuống để xem:\n\nCông dụng và thao tác\nĐầu vào - đầu ra\nKết nối và giá trị đã điền hiện tại\nVí dụ kết nối\nLỗi thường gặp
+\n\n<b>怎么用</b>\n=\n\n<b>Cách dùng</b>\n
+\n\n但=\n\nNhưng
+\n\n定位：=\n\nĐịnh vị:
+\n--- 测试 =\n--- Kiểm thử 
+\n<color\=red>需要完成前置关卡：{0}</color>=\n<color=red>Cần hoàn thành màn chơi tiền đề: {0}</color>
+\n<color\=yellow>奖励：=\n<color=yellow>Phần thưởng:
+\n\=\=\= 扫雷求解器测试结束 \=\=\==\n=== Kết thúc kiểm thử trình giải dò mìn ===
+\n\=\=\= 示例10：导出 {0} 融合树可视化 \=\=\==\n=== Ví dụ 10: Xuất trực quan hóa cây dung hợp {0} ===
+\n\=\=\= 示例3：查询父节点 \=\=\==\n=== Ví dụ 3: Truy vấn Node cha ===
+\n\=\=\= 示例4：尝试融合 \=\=\==\n=== Ví dụ 4: Thử dung hợp ===
+\n\=\=\= 示例5：打印融合树 \=\=\==\n=== Ví dụ 5: In cây dung hợp ===
+\n\=\=\= 示例6：查询融合路径 \=\=\==\n=== Ví dụ 6: Truy vấn đường dung hợp ===
+\n\=\=\= 示例7：查找从 {0} 到 {1} 的最佳路径 \=\=\==\n=== Ví dụ 7: Tìm đường tối ưu từ {0} đến {1} ===
+\n\=\=\= 示例8：批量查询融合能力 \=\=\==\n=== Ví dụ 8: Truy vấn hàng loạt khả năng dung hợp ===
+\n\=\=\= 示例9：查找 {0} 最有价值的融合目标 \=\=\==\n=== Ví dụ 9: Tìm mục tiêu dung hợp giá trị nhất của {0} ===
+\n✅ 验证:=\n✅ Kiểm chứng:
+\n不死=\nBất tử
+\n不死：{0}秒=\nBất tử: {0} giây
+\n中心3x3的数字：=\nCác số ở vùng trung tâm 3x3:
+\n中心3x4区域的数字：=\nCác số ở khu vực trung tâm 3x4:
+\n剩余{0}=\nCòn lại {0}
+\n参考价值：{0}=\nGiá trị tham khảo: {0}
+\n同时解锁首条进化路线：\n=\nĐồng thời mở khóa lộ trình tiến hóa đầu tiên:\n
+\n已持有{0}个=\nĐã sở hữu {0}
+\n当前分数：{0}=\nĐiểm hiện tại: {0}
+\n当前版本：=\nPhiên bản hiện tại:
+\n待审核=\nChờ duyệt
+\n成长值：{0}=\nĐiểm tăng trưởng: {0}
+\n概率计算:=\nTính toán xác suất:
+\n版本：=\nPhiên bản:
+\n生效范围：\n{0}x{1}=\nPhạm vi hiệu lực:\n{0}x{1}
+\n生效间隔：\n3秒=\nKhoảng thời gian hiệu lực:\n3 giây
+\n生长阶段：{0}=\nGiai đoạn sinh trưởng: {0}
+\n等级：{0}=\nCấp độ: {0}
+\n耐久：{0}/{1}=\nĐộ bền: {0}/{1}
+\n请检查设备权限是否开启=\nVui lòng kiểm tra xem đã bật quyền thiết bị chưa
+\n路径: =\nĐường dẫn: 
+\n还需{0}=\nCòn cần {0}
+\n追踪：=\nTheo dõi:
+\n🎲 测试3：蒙特卡洛模拟=\n🎲 Kiểm thử 3: Mô phỏng Monte Carlo
+\n📈 测试2：概率分布=\n📈 Kiểm thử 2: Phân phối xác suất
+\n📋 完整概率表格=\n📋 Bảng xác suất đầy đủ
+\n🔍 验证 Lucky \= 1.0=\n🔍 Kiểm chứng Lucky = 1.0
+  // Hold音符结束时间=  // Thời gian kết thúc nốt Hold
+  [{0}] {1} - {2}费=  [{0}] {1} - {2} phí
+  总权重: {0:F1}=  Tổng trọng số: {0:F1}
+  总权重: {0}=  Tổng trọng số: {0}
+  总计:     {0:F1}% (应该\=100%)=  Tổng cộng:     {0:F1}% (phải = 100%)
+  总计: {0} 次=  Tổng cộng: {0} lần
+  普通:   50 × (1 + {0}) \= {1}=  Thường:   50 × (1 + {0}) = {1}
+  普通:   {0:F1} (50 × {1:F1})=  Thường:   {0:F1} (50 × {1:F1})
+  普通: {0} 次 ({1:F1}%)=  Thường: {0} lần ({1:F1}%)
+  普通概率: {0:F1}%=  Xác suất thường: {0:F1}%
+  普通概率: {0} / {1} × 100 \= {2:F1}%=  Xác suất thường: {0} / {1} × 100 = {2:F1}%
+  最大树深度: {0}\n=  Độ sâu tối đa của cây: {0}\n
+  结论: 金色权重和概率都是钻石的3倍 ✅=  Kết luận: Trọng số và xác suất Vàng đều gấp 3 lần Kim Cương ✅
+  路径 {0}: {1}=  Đường đi {0}: {1}
+  金色:   15 × (1 + {0}) \= {1}=  Vàng:   15 × (1 + {0}) = {1}
+  金色:   {0:F1} (15 × {1:F1})=  Vàng:   {0:F1} (15 × {1:F1})
+  金色: {0} 次 ({1:F1}%)=  Vàng: {0} lần ({1:F1}%)
+  金色权重 / 钻石权重 \= {0} / {1} \= {2:F1}=  Trọng số Vàng / Trọng số Kim Cương = {0} / {1} = {2:F1}
+  金色概率: {0:F1}%=  Xác suất Vàng: {0:F1}%
+  金色概率: {0} / {1} × 100 \= {2:F1}%=  Xác suất Vàng: {0} / {1} × 100 = {2:F1}%
+  钻石:   5 × (1 + {0}) \= {1}=  Kim Cương:   5 × (1 + {0}) = {1}
+  钻石:   {0:F1} (5 × {1:F1})=  Kim Cương:   {0:F1} (5 × {1:F1})
+  钻石: {0} 次 ({1:F1}%)=  Kim Cương: {0} lần ({1:F1}%)
+  钻石概率: {0:F1}%=  Xác suất Kim Cương: {0:F1}%
+  钻石概率: {0} / {1} × 100 \= {2:F1}%=  Xác suất Kim Cương: {0} / {1} × 100 = {2:F1}%
+  银色:   30 × (1 + {0}) \= {1}=  Bạc:   30 × (1 + {0}) = {1}
+  银色:   {0:F1} (30 × {1:F1})=  Bạc:   {0:F1} (30 × {1:F1})
+  银色: {0} 次 ({1:F1}%)=  Bạc: {0} lần ({1:F1}%)
+  银色概率: {0:F1}%=  Xác suất Bạc: {0:F1}%
+  银色概率: {0} / {1} × 100 \= {2:F1}%=  Xác suất Bạc: {0} / {1} × 100 = {2:F1}%
+ (找不到映射)= (Không tìm thấy ánh xạ)
+ | 持续: {0:F3}s= | Thời lượng: {0:F3}s
+ | 时间: {0:F3}s ({1}.{2}拍)= | Thời gian: {0:F3}s ({1}.{2} nhịp)
+ | 结束: {0:F3}s ({1}.{2}拍)= | Kết thúc: {0:F3}s ({1}.{2} nhịp)
+ · 免费= · Miễn phí
+ · 已解锁= · Đã mở khóa
+ · 被动= · Bị động
+ 与 = và 
+ 关卡首胜会额外获得10张抽奖券，重复刷单个关卡也能产出抽奖券= Thắng màn chơi lần đầu được thêm 10 vé quay thưởng, cày đi cày lại một màn cũng rơi vé quay thưởng
+ 创建成功= Tạo thành công
+ 右键放罐（I）= Chuột phải đặt lọ (I)
+ 含重复分类：= Bao gồm phân loại trùng lặp:
+ 失败: = Thất bại: 
+ 找不到任何 Dirt= Không tìm thấy Dirt nào
+ 无效：= Không hợp lệ:
+ 时发生错误: = đã xảy ra lỗi: 
+ 的 = của 
+ 的anim组件为空= có component anim bị trống
+ 的位置层无效= có lớp vị trí không hợp lệ
+ 第{0}轮= Vòng {0}
+ 级= cấp
+ 随机卡槽（O）= Khay thẻ ngẫu nhiên (O)
+ 非直线连接，跳过= Đường nối không thẳng, bỏ qua
+(加|扣)(\\d+\\.?\\d*)(幸运)=(cộng|trừ)(\\d+\\.?\\d*)(may mắn)
+) 的瓦片数组不是 16 张=) mảng tile không phải 16 ô
+)，回退纯=), chuyển về bản thuần
++ 列表=+ Danh sách
++ 字符串=+ Chuỗi
++ 小数=+ Số thập phân
++ 布尔=+ Boolean
++ 整数=+ Số nguyên
+// 歌曲: =// Bài hát: 
+// 没有音符数据=// Không có dữ liệu nốt nhạc
+// 生成时间: {0:yyyy-MM-dd HH:mm:ss}=// Thời gian tạo: {0:yyyy-MM-dd HH:mm:ss}
+// 音符数据 - 由踩点编辑器生成=// Dữ liệu nốt nhạc - được tạo bởi trình chỉnh sửa nhịp
+// 音符数量: {0}=// Số lượng nốt nhạc: {0}
+0.002固定速度增幅， 0.6倍上限=Tăng tốc cố định 0.002, giới hạn 0.6 lần
+0.003固定速度增幅，0.9倍上限=Tăng tốc cố định 0.003, giới hạn 0.9 lần
+0.005固定速度增幅，1.5倍上限=Tăng tốc cố định 0.005, giới hạn 1.5 lần
+0.01固定速度增幅，2.25倍上限=Tăng tốc cố định 0.01, giới hạn 2.25 lần
+0为假，其他有限数为真。=0 là sai, mọi số hữu hạn khác là đúng.
+100%速度增幅=Tăng 100% tốc độ
+100币=100 Vàng
+200%速度增幅=Tăng 200% tốc độ
+20000上限，80%效率=Giới hạn 20000, hiệu suất 80%
+25%生命值上限提高=Tăng 25% giới hạn máu
+30%减伤穿透=Xuyên 30% giảm sát thương
+30000上限，120%效率=Giới hạn 30000, hiệu suất 120%
+35%生命值上限提高=Tăng 35% giới hạn máu
+40%速度增幅=Tăng 40% tốc độ
+40000上限，160%效率=Giới hạn 40000, hiệu suất 160%
+50000上限，200%效率=Giới hạn 50000, hiệu suất 200%
+50币=50 Vàng
+60%生命值上限提高=Tăng 60% giới hạn máu
+60%速度增幅=Tăng 60% tốc độ
+6路屋顶=Mái nhà 6 hàng
+6路白天=Ban ngày 6 hàng
+6路黄昏屋顶=Mái nhà hoàng hôn 6 hàng
+6路黑夜=Ban đêm 6 hàng
+6路黑夜屋顶=Mái nhà ban đêm 6 hàng
+<b>右侧输出：可以拿来做什么</b>=<b>Đầu ra bên phải: dùng để làm gì</b>
+<b>容易弄错的地方</b>\n=<b>Chỗ dễ nhầm lẫn</b>\n
+<b>左侧输入：需要接什么</b>=<b>Đầu vào bên trái: cần nối gì</b>
+<b>怎么使用</b>\n=<b>Cách sử dụng</b>\n
+<b>照着连接</b>\n=<b>Kết nối theo mẫu</b>\n
+<b>用来做什么</b>\n=<b>Dùng để làm gì</b>\n
+<nobr>强敌-准心锁定：</nobr>\n阿尔法狙击手将会出现=<nobr>Cường Địch - Khóa Tâm Ngắm:</nobr>\nXạ Thủ Alpha sẽ xuất hiện
+<nobr>强敌-幽浮诅咒：</nobr>\n特种机械飞碟将会出现=<nobr>Cường Địch - Lời Nguyền UFO:</nobr>\nĐĩa Bay Cơ Khí Đặc Chủng sẽ xuất hiện
+<size\=20>排查时可使用节点编号：=<size=20>Khi kiểm tra có thể dùng số hiệu Node:
+\=\=\= {0} 融合树 \=\=\===== Cây dung hợp {0} ===
+\=\=\= 测试局面：211, 101, 311 \=\=\=\n==== Tình huống kiểm thử: 211, 101, 311 ===\n
+\=\=\= 测试局面：2111, 1001, 1123 \=\=\=\n==== Tình huống kiểm thử: 2111, 1001, 1123 ===\n
+ASCII码=Mã ASCII
+ASCII码转字符=Mã ASCII sang ký tự
+AddCard: 尝试添加空卡片=AddCard: Thử thêm thẻ trống
+DPS：{0:F2}万\n=DPS: {0:F2} vạn\n
+DPS：{0:F2}亿\n=DPS: {0:F2} ức\n
