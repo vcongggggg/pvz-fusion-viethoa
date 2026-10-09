@@ -293,3 +293,40 @@ Tên affix/boss/cây mới. Nhóm chính:
 | 末影南瓜箱子 / 镭射幽浮 | Rương Bí Ngô Mạt Ảnh (末影=Ender) / UFO Laser |
 | 刃盾菇 / 水刃菇 / 盾盾菇 / 刃刃菇 | Nấm Nhận Khiên / Nấm Thủy Nhận / Nấm Khiên Khiên / Nấm Nhận Nhận |
 | 超级伞 / 菜伞 | Dù Siêu Cấp / Dù Rau |
+
+### Thuật ngữ batch Plants (vòng 5, hoàn thành module)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 铁豆 / 小玉米 / 金蒜 | Đậu Sắt / Ngô Nhỏ / Tỏi Vàng |
+| 铁幕 / 明月 / 风神 / 浮空仙人球 | Thiết Mạc / Minh Nguyệt / Phong Thần / Xương Rồng Bay |
+| 魅惑西瓜 / 幻灭 / 金伞 | Dưa Hấu Thôi Miên / Huyễn Diệt / Dù Vàng |
+| 阳光坚果 / 超级杨桃 | Óc Chó Nắng / Khế Siêu Cấp |
+| 护体 / 铲除 / 飞艇 | Hộ Thể / Xúc bỏ / Khí Cầu |
+| 铁系 / 飓风 / 相生 / 暴风雪 / 护盾 / 资金 / 碾压 | hệ Sắt / Cuồng Phong / Tương Sinh / bão tuyết / khiên / vốn / Nghiền nát |
+
+### Thuật ngữ batch Misc (vòng 5)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 十旗挑战 / 十连 / 单抽 | Thử Thách Mười Cờ / Rút 10 Lần / Rút 1 Lần |
+| 史诗 / 刮刮乐 / 保底 | Sử Thi / Thẻ Cào / bảo hiểm (gacha) |
+| 聚爆窝瓜 / 狙击豌豆 | Bí Đè Tụ Nổ / Đậu Bắn Tỉa |
+| 合理密植 / 备战席 / 增幅 | Trồng Dày Hợp Lý / Ghế Dự Bị / Tăng Ích |
+| 危机预警 / 塔防 / 塔防冒险 | Cảnh Báo Khủng Hoảng / Thủ Tháp / Phiêu Lưu Thủ Tháp |
+| 变量 / 反序列化 | Biến / Giải tuần tự hóa |
+| 回弹 / 咀嚼 / 地雷分布 / 坚守撤离 / 加速喷雾 | nảy lại / nhai / Phân Bố Mìn / Cố Thủ Rút Lui / Bình Xịt Tăng Tốc |
+| 嗜血战神 / 双子奇兵 / 单枪匹马 | Chiến Thần Thị Huyết / Song Tử Kỳ Binh / Đơn Thương Độc Mã |
+| 博弈论 / 叹息之墙 / 利益交换 / 制作指南 | Lý Thuyết Trò Chơi / Bức Tường Than Thở / Trao Đổi Lợi Ích / Hướng Dẫn Chế Tạo |
+| 命运无常 / 阿尔法军团 | Vận Mệnh Vô Thường / Quân Đoàn Alpha |
+
+### Thuật ngữ batch Plants+Misc+Buffs (vòng 5)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 豌豆坚果 / 影蚀射手 / 究极冰神西瓜 | Đậu Óc Chó / Xạ Thủ Ảnh Thực / Dưa Hấu Băng Thần Tối Thượng |
+| 究极投手 / 究极小投手 / 究极火爆星炬 | Ném Thủ Tối Thượng / Ném Thủ Nhỏ Tối Thượng / Đuốc Sao Nổ Tối Thượng |
+| 究极机枪炮台 / 究极激光炮台 / 究极堡垒坚果 | Ụ Súng Máy Tối Thượng / Ụ Laser Tối Thượng / Óc Chó Pháo Đài Tối Thượng |
+| 祝福 / 诅咒 / 专精 / 至极手速 / 致命一击 | Chúc Phúc / Nguyền Rủa / Chuyên Tinh / Tốc Độ Tay Chí Cực / Đòn Chí Mạng |
+| 不死图腾 / 力挽狂澜 / 冷焰 | Đồ Đằng Bất Tử / Lực Vãn Cuồng Lan / Lãnh Diệm |
+| 光能 / 能量 / 蓄能 / 精华 | quang năng / năng lượng / tích năng / tinh hoa |
+| 无视减伤 / 啃咬伤害 / 散射 | bỏ qua giảm sát thương / sát thương gặm nhấm / tán xạ |
+
+(Chi tiết đầy đủ trong `glossary.json` — tổng 529 mục.)
