@@ -259,3 +259,37 @@
 | 磁力菇 / 磁力菇后 | Nấm Từ Lực / Hoàng Hậu Nấm Từ Lực |
 | 流光仙人掌 / 流光保护伞 / 流光磁力菇 / 樱桃磁力菇 | Xương Rồng Lưu Quang / Dù Bảo Vệ Lưu Quang / Nấm Từ Lực Lưu Quang / Nấm Từ Lực Cherry |
 | 电磁涡轮 / 炸土豆 / 双发射手 | Tua-bin Điện Từ / Khoai Tây Chiên / Xạ Thủ Nòng Đôi |
+
+### Thuật ngữ batch Misc (vòng 4)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 龙灵 / 光照等级 / 分布 | Long Linh / cấp độ chiếu sáng / Phân Bố |
+| 裂荚 / 冰瓜 / 火瓜 / 铁瓜 / 魅惑瓜 | Vỏ Nứt / Dưa Băng / Dưa Lửa / Dưa Sắt / Dưa Mê Hoặc |
+| 冰莲花 / 香蒲 | Hoa Sen Băng / Hương Bồ |
+| 保底 / 倍率 | bảo hiểm (gacha) / Hệ số |
+| 减益 / 增益 | Debuff / Buff |
+| 网格 / 切图 | lưới / cắt ảnh |
+| 三叉戟冲车 / 傲雪残梅 | Xe Xung Kích Đinh Ba / Ngạo Tuyết Tàn Mai |
+
+### Thuật ngữ batch Buffs (vòng 4) — 81 mục
+Tên affix/boss/cây mới. Nhóm chính:
+| Nhóm | Ví dụ |
+| :--- | :--- |
+| Cơ chế chiến đấu | 暴击→chí mạng, 暴击率→tỉ lệ chí mạng, 持续伤害→sát thương duy trì, 范围伤害→sát thương diện rộng, 溅射→sát thương lan, 攻速→tốc đánh, 护甲→giáp |
+| Đơn vị Ô Liu Đen | 黑橄榄将军→Tướng Quân Ô Liu Đen, 黑橄榄巨象→Voi Khổng Lồ Ô Liu Đen, 千年尸王→Thi Vương Ngàn Năm, 大帅→Đại Soái, 木桩僵尸→zombie cọc gỗ |
+| Dòng Siêu Thời Không | 超时空玉米→Ngô Siêu Thời Không, 超时空坚果→Quả Óc Chó Siêu Thời Không, 超时空狙击射手→Xạ Thủ Bắn Tỉa Siêu Thời Không |
+| Tên affix (danh từ riêng) | 无尽贪婪→Tham Lam Vô Tận, 斩将祭旗→Trảm Tướng Tế Kỳ, 斗转星移→Đẩu Chuyển Tinh Di, 普度众生→Phổ Độ Chúng Sinh, 并肩作战→Sát Cánh Chiến Đấu, 草坪主宰→Chúa Tể Bãi Cỏ |
+| Khác | 僚机→drone yểm trợ, 炮台→ụ pháo, 模仿者→Kẻ Bắt Chước, 流星雨→Mưa Sao Băng, 满阶→max cấp |
+
+(Chi tiết đầy đủ 81 mục trong `glossary.json`.)
+
+### Thuật ngữ batch Plants (vòng 4)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 多功能南瓜 / 多功能杨桃 | Bí Ngô Đa Năng / Khế Ngũ Giác Đa Năng |
+| 磁力坚果 / 超级机械坚果 / 西瓜坚果 | Óc Chó Từ Lực / Óc Chó Cơ Khí Siêu Cấp / Óc Chó Dưa Hấu (tên cây dùng "Óc Chó", khác quy ước zombie) |
+| 蒜瓜 / 金瓜 | Dưa Tỏi / Bí Ngô Vàng |
+| 三线土豆雷 / 浴火三线 / 超级黑橄榄机枪射手 | Khoai Tây Mìn Ba Tuyến / Đậu Ba Tuyến Dục Hỏa / Xạ Thủ Súng Máy Ô Liu Đen Siêu Cấp |
+| 末影南瓜箱子 / 镭射幽浮 | Rương Bí Ngô Mạt Ảnh (末影=Ender) / UFO Laser |
+| 刃盾菇 / 水刃菇 / 盾盾菇 / 刃刃菇 | Nấm Nhận Khiên / Nấm Thủy Nhận / Nấm Khiên Khiên / Nấm Nhận Nhận |
+| 超级伞 / 菜伞 | Dù Siêu Cấp / Dù Rau |
