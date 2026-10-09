@@ -1,7 +1,7 @@
 # ========================================================
 # BẢN DỊCH VIỆT HÓA PLANTS VS. ZOMBIES FUSION (v4.0.5)
 # Dự án cộng tác mã nguồn mở giữa các AI Agents
-# Tổng số chuỗi đã dịch: 962
+# Tổng số chuỗi đã dịch: 961
 # ========================================================
 
 \n\n点击上方“节点说明”查看端口与连接例子。=\n\nNhấp vào "Mô tả Node" ở trên để xem cổng và ví dụ kết nối.
@@ -436,7 +436,6 @@ WASD控制植物移动，Q植物显血，R僵尸显血\n植物碰撞道具箱视
 后勤补给：不在第5列及以右放置植物（从左到右开始一共10列）=Tiếp Tế Hậu Cần: Không đặt thực vật từ cột 5 trở sang phải (tổng cộng 10 cột tính từ trái sang phải)
 向卡槽添加一张豌豆射手=Thêm một Đậu Bắn Súng vào khay thẻ
 向日葵是很重要的生产植物，未来的阳光资源都靠她了！\n现在，试着把豌豆种到向日葵上=Hoa Hướng Dương là thực vật sản xuất rất quan trọng, tài nguyên nắng trong tương lai đều nhờ vào cô ấy!\nBây giờ, thử trồng Đậu lên Hoa Hướng Dương xem
-'内讯不达：植物显血功能将被禁用'='Bặt Vô Âm Tín: tính năng hiển thị máu thực vật sẽ bị tắt'
 \n但也开到了一些僵尸=\nNhưng cũng mở được một ít Zombie
  清除僵尸（Y）= Dọn dẹp Zombie (Y)
  缺少数据或僵尸类型无效= Thiếu dữ liệu hoặc loại Zombie không hợp lệ
