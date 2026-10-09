@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
+r"""
 build_translation.py - Hợp nhất toàn bộ các module dịch thành file Translation.txt (chuẩn XUnity.AutoTranslator).
 Dự án Việt Hóa Plants vs. Zombies Fusion v4.0.5.
+
+QUY TẮC BẮT BUỘC: Mỗi entry trong Translation.txt phải nằm trên ĐÚNG 1 DÒNG VĂN BẢN.
+Mọi ký tự xuống dòng (\r, \n) và dấu gạch chéo (\) đều phải được escape cẩn thận.
 """
 
 import os
@@ -19,9 +22,14 @@ TRANS_DIR = ROOT_DIR / "data" / "translated"
 OUTPUT_DIR = ROOT_DIR / "data" / "output"
 DEFAULT_GAME_PATH = Path(r"c:\Mod\PvZ_Fusion")
 
-def escape_translation_line(s):
-    # Chuẩn hóa để tránh lỗi xuống dòng vỡ cấu trúc file từ điển
-    return s.replace("\r\n", "\\r\\n").replace("\n", "\\n")
+def escape_entry(s):
+    """
+    Escape ký tự xuống dòng và dấu gạch chéo để đảm bảo 1 entry = đúng 1 dòng trong Translation.txt.
+    """
+    if not s:
+        return ""
+    # Chuyển đổi escape: \ -> \\, \r -> \r, \n -> \n
+    return s.replace('\\', '\\\\').replace('\r', '\\r').replace('\n', '\\n')
 
 def build(sync_game=False, game_dir=DEFAULT_GAME_PATH):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -38,10 +46,11 @@ def build(sync_game=False, game_dir=DEFAULT_GAME_PATH):
             data = json.load(f)
             for raw, trans in data.items():
                 if trans and trans.strip():
-                    merged_translations[raw] = trans.strip()
+                    merged_translations[raw] = trans
 
     print(f"[+] Tổng hợp được {len(merged_translations)} chuỗi đã dịch.")
 
+    line_count = 0
     with open(out_file, 'w', encoding='utf-8') as f:
         f.write("# ========================================================\n")
         f.write("# BẢN DỊCH VIỆT HÓA PLANTS VS. ZOMBIES FUSION (v4.0.5)\n")
@@ -51,11 +60,13 @@ def build(sync_game=False, game_dir=DEFAULT_GAME_PATH):
 
         for raw, trans in merged_translations.items():
             # XUnity.AutoTranslator format: Original=Translated
-            # Thoát ký tự = nếu nằm trong key
-            safe_raw = raw.replace("=", "\\=")
-            f.write(f"{safe_raw}={trans}\n")
+            # Thoát ký tự \r, \n để không vỡ dòng, thoát dấu = trong key
+            safe_raw = escape_entry(raw).replace("=", "\\=")
+            safe_trans = escape_entry(trans)
+            f.write(f"{safe_raw}={safe_trans}\n")
+            line_count += 1
 
-    print(f"[✓] Đã ghi file dịch hoàn chỉnh vào: {out_file}")
+    print(f"[✓] Đã ghi file dịch hoàn chỉnh vào: {out_file} (Mỗi entry đúng 1 dòng)")
 
     if sync_game:
         # Đường dẫn XUnity.AutoTranslator trong game

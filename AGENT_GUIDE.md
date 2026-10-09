@@ -45,6 +45,7 @@ c:\Mod\pvz-fusion-viethoa\
 └── scripts/
     ├── extract_metadata.py   <- Tool dump chuỗi từ game metadata
     ├── validate.py           <- Tool kiểm tra lỗi cú pháp & báo cáo tiến độ
+    ├── audit.py              <- Tool AUDIT ĐỘC LẬP (kiểm tra glossary, sót Hán tự, độ dài, conflict)
     ├── build_translation.py  <- Tool build Translation.txt (hỗ trợ --sync)
     └── sync_to_game.py       <- Tool đồng bộ vào thư mục game
 ```
@@ -55,10 +56,11 @@ c:\Mod\pvz-fusion-viethoa\
 
 Dự án được chia theo các module độc lập để 2 Agent có thể làm việc song song mà **không bị conflict Git**:
 
-| Phân công | Module phụ trách | File tương ứng | Mô tả công việc |
-| :--- | :--- | :--- | :--- |
-| **Agent A (Host)** | Kiến trúc & Hệ Thống, UI, Cây lai | `ui.json`, `plants.json` | Cài đặt BepInEx, cấu hình Font, dịch toàn bộ UI và hệ thống Cây lai. |
-| **Agent B (Partner)** | Zombie lai, Buffs & Tiến Hóa SP, Lời thoại | `zombies.json`, `buffs_synergies.json`, `dialogues.json` | Dịch toàn bộ Sách tra cứu Zombie, các dòng Buff SP và lời thoại của Dave. |
+| Phân công | Module phụ trách | File tương ứng | Quy mô | Mô tả công việc |
+| :--- | :--- | :--- | :--- | :--- |
+| **Agent A (Host)** | UI, Menu & Cây lai (Plants) | `ui.json`, `plants.json` | 1,053 chuỗi | Cài đặt nạp game, dịch UI, Cài đặt và Sách tra cứu Cây lai. |
+| **Agent B (Partner)** | Zombie lai, Buffs & Lời thoại | `zombies.json`, `buffs_synergies.json`, `dialogues.json` | 1,265 chuỗi | Dịch Sách tra cứu Zombie, Tiến Hóa SP, Liên Kết và Lời thoại của Dave. |
+| **Chia đôi giai đoạn 2** | Chuỗi hỗn hợp & Tooltip | `misc.json` | 2,247 chuỗi | Sau khi hoàn thành các module chính, Agent A nhận 1,120 chuỗi đầu, Agent B nhận 1,127 chuỗi sau. |
 
 ---
 
@@ -98,21 +100,23 @@ Khi bạn nhận việc, hãy làm theo quy trình 4 bước sau:
 1. **Bước 1: Mở file cần dịch trong `data/translated/<module>.json`**  
    * Lấy key từ `data/raw/<module>.json` (Key là tiếng Trung gốc).
    * Điền giá trị dịch tiếng Việt vào value.
-2. **Bước 2: Chạy kiểm tra lỗi cú pháp:**
+2. **Bước 2: Chạy kiểm tra tính toàn vẹn & Audit độc lập:**
    ```bash
    python scripts/validate.py
+   python scripts/audit.py --module <module>
    ```
-   * Công cụ sẽ quét toàn bộ biến `{0}` và thẻ `<color>` xem có bị thiếu sót hay không.
-   * Nếu có lỗi cú pháp, hãy sửa lại cho đến khi `Tổng lỗi: 0`.
-3. **Bước 3: Build và đồng bộ vào game:**
+   * Yêu cầu bắt buộc trước khi commit: **Tổng lỗi: 0** và **ERROR: 0**.
+   * Xem xét các WARNING (cảnh báo độ dài hoặc thuật ngữ chưa chuẩn) và tinh chỉnh nếu hợp lý.
+3. **Bước 3: Build file từ điển:**
    ```bash
-   python scripts/build_translation.py --sync
+   python scripts/build_translation.py
+   # (Thêm --sync nếu bạn đang chạy trực tiếp trên máy có thư mục game)
    ```
-   * File `Translation.txt` sẽ tự động được cập nhật và nạp thẳng vào game `c:\Mod\PvZ_Fusion`.
-4. **Bước 4: Commit lên Git:**
+   * Đảm bảo file `data/output/Translation.txt` build thành công, mỗi entry nằm trên đúng 1 dòng.
+4. **Bước 4: Commit và Push lên Git:**
    ```bash
-   git add data/translated/
-   git commit -m "feat(translate): hoàn thành dịch module <tên module>"
+   git add data/translated/<module>.json data/output/Translation.txt
+   git commit -m "feat(translate): hoàn thành dịch module <module> batch <n>"
    git push origin master
    ```
 
