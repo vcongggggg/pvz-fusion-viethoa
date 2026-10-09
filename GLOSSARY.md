@@ -352,3 +352,24 @@ Tên affix/boss/cây mới. Nhóm chính:
 | 巡海游侠 / 就绪 / 展开 | Hiệp Sĩ Tuần Hải / Sẵn sàng / Mở rộng |
 | 战备 / 强制 / 开关 / 应用 / 底数 / 草稿 | Sẵn Sàng Chiến Đấu / Bắt buộc / Công tắc / Áp dụng / Cơ số / bản nháp |
 | ~~增幅→"Tăng Ích"~~ | **ĐÃ XÓA** — 0 chuỗi dùng; thực tế 61 chuỗi đều dịch theo ngữ cảnh ("tăng"/"Mức tăng") |
+
+### Quy tắc ngữ cảnh: 获取
+| Ngữ cảnh | Tiếng Việt | Ví dụ |
+| :--- | :--- | :--- |
+| Phần thưởng, game (người chơi nhận) | nhận | 获取更多植物→"Nhận thêm thực vật", 在星级奖励中获取→"Nhận trong phần thưởng sao" |
+| Kỹ thuật, getter (code lấy giá trị) | lấy | 获取失败→"lấy thất bại", 从变量中获取→"Lấy giá trị từ biến" |
+
+(Đã xóa 获取 khỏi glossary.json vì không thể gán 1 nghĩa duy nhất; 24 "nhận" + 45 "lấy" hiện tại đều đúng ngữ cảnh.)
+
+### Thuật ngữ batch Misc (vòng 15, cuối)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 飞天爆竹 / 基洛夫飞艇 / 迷你基洛夫 | Pháo Bay / Khinh Khí Cầu Kirov / Mini Kirov |
+| 雪原 / 雪皇 / 雪莲 / 雪夜 / 雪地 / 黑夜 | Tuyết Nguyên / Tuyết Hoàng / Sen Tuyết / Đêm Tuyết / Đất Tuyết / Đêm Tối |
+| 钢叶冬笋 / 钢铁蜂群 / 银河学者 | Măng Đông Lá Thép / Bầy Ong Thép / Học Giả Ngân Hà |
+| 锋雨无阻 / 闪电洋葱 / 四叶草 | Phong Vũ Vô Trở / Hành Tây Tia Chớp / Cỏ Bốn Lá |
+| 首领 / 小铁豆 / 小究级投手 | Thủ Lĩnh / Đậu Sắt Nhỏ / Ném Thủ Tối Thượng Nhỏ |
+| 黑洞领域 / 黄金僵王 / 黄油投手 | Lĩnh Vực Hố Đen / Vua Zombie Vàng / Bơ Ném |
+| 龙灵在天 / 黯淡无光 | Long Linh Tại Thiên / Ám Đạm Vô Quang |
+
+(Glossary cuối: 748 mục.)
