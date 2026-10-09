@@ -1,7 +1,7 @@
 # ========================================================
 # BẢN DỊCH VIỆT HÓA PLANTS VS. ZOMBIES FUSION (v4.0.5)
 # Dự án cộng tác mã nguồn mở giữa các AI Agents
-# Tổng số chuỗi đã dịch: 2963
+# Tổng số chuỗi đã dịch: 3211
 # ========================================================
 
 \n\n点击上方“节点说明”查看端口与连接例子。=\n\nNhấp vào "Mô tả Node" ở trên để xem cổng và ví dụ kết nối.
@@ -2146,6 +2146,104 @@ WASD控制植物移动，Q植物显血，R僵尸显血\n植物碰撞道具箱视
 该配方需要抽取=Công thức này cần rút thăm
 请先点击仓库卡牌选择需要强化的植物=Vui lòng nhấp thẻ Kho trước để chọn thực vật cần cường hóa
 诸神图鉴专属词条类型无效：=Loại thuộc tính riêng của Sách Tra Cứu Chư Thần không hợp lệ: 
+诸神图鉴分类条目标识或品质无效：=Định danh hoặc phẩm chất thuộc tính phân loại Sách Tra Cứu Chư Thần không hợp lệ:
+诸神图鉴词条参数数量错误：=Số lượng tham số thuộc tính Sách Tra Cứu Chư Thần bị lỗi:
+诸神图鉴通用词条配置无效：=Cấu hình thuộc tính chung Sách Tra Cứu Chư Thần không hợp lệ:
+诸神币不足=Không đủ Xu Chư Thần
+诸神币不足，还需要 {0} 诸神币=Không đủ Xu Chư Thần, còn cần {0} Xu Chư Thần
+诸神币不足，需要 {0} 诸神币。=Không đủ Xu Chư Thần, cần {0} Xu Chư Thần.
+诸神币保存失败，将自动重试：=Lưu Xu Chư Thần thất bại, sẽ tự động thử lại:
+诸神币暂未保存，正在等待重试。=Xu Chư Thần chưa được lưu, đang chờ thử lại.
+诸神币：{0}=Xu Chư Thần: {0}
+读取属性倒计时和当前进度条最大值。=Đọc đếm ngược thuộc tính và giá trị tối đa của thanh tiến trình hiện tại.
+读取指定道具的总冷却、剩余时间与是否存在。=Đọc tổng hồi chiêu, thời gian còn lại và trạng thái tồn tại của đạo cụ chỉ định.
+读取植物属性倒计时=Đọc đếm ngược thuộc tính thực vật
+读取植物攻速=Đọc tốc đánh thực vật
+读取道具冷却=Đọc hồi chiêu đạo cụ
+豌豆伤害+30%=Sát thương đậu +30%
+豌豆射手有 {0} 个融合配方:=Đậu Bắn Súng có {0} công thức dung hợp:
+质变-万剑归宗：究极剑仙杨桃每有2发大剑，每次攻击额外发射1发旋转小剑=Biến Chất - Vạn Kiếm Quy Tông: cứ mỗi 2 đại kiếm, Khế Kiếm Tiên Tối Thượng mỗi lần tấn công bắn thêm 1 tiểu kiếm xoay
+质变-固甲摧锋：究极云杉发射的子弹额外附带当前护盾量0.6%的攻击力，最高不超过基础攻击力的300%=Biến Chất - Cố Giáp Tồi Phong: đạn do Vân Sam Tối Thượng bắn ra gây thêm sát thương bằng 0,6% lượng khiên hiện tại, tối đa không vượt quá 300% lực tấn công cơ bản
+质变-大运：究极冬笋路障会跟随鼠标移动，速度可提高移动速度，且遇到僵尸后强制执行撞击=Biến Chất - Đại Vận: Măng Đông Chướng Ngại Tối Thượng sẽ đi theo chuột, tốc độ di chuyển được tăng, và khi gặp zombie sẽ cưỡng chế đâm va
+质变-拿来吧你：普通攻击叠加解读的概率翻倍。敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸=Biến Chất - Nã Lai Ba Nhĩ: xác suất cộng dồn Diễn Giải của đòn đánh thường tăng gấp đôi. Khi mục tiêu phe địch vào trận, Đậu Băng Ma Thuật gây 3 tầng “Diễn Giải” lên nó. Mỗi đợt bắt đầu, gây 100 tầng “Diễn Giải” lên zombie có máu cao nhất toàn sân, mỗi tầng Diễn Giải khiến sát thương lần này tăng thêm 100%, sau khi zombie chết sẽ chuyển số tầng Diễn Giải còn lại cho zombie khác
+质变-流血：被任意地刺王命中的僵尸会在2秒内持续损失相当于本次伤害400%的生命值=Biến Chất - Lưu Huyết: zombie bị bất kỳ Vua Gai Đất nào đánh trúng sẽ mất dần lượng máu tương đương 400% sát thương lần này trong 2 giây
+质变-湮灭：究极忧郁菇死亡时释放100万的爆炸伤害=Biến Chất - Yên Diệt: khi Nấm U Sầu Tối Thượng chết sẽ gây vụ nổ 1 triệu sát thương
+质变-激光炮：究极激光炮台发射不间断的激光射线=Biến Chất - Pháo Laser: Ụ Laser Tối Thượng bắn tia laser không ngừng
+质变-神枪手：死神猎手每一发子弹都会造成爆头伤害=Biến Chất - Thần Xạ Thủ: mỗi viên đạn của Thợ Săn Tử Thần đều gây sát thương headshot
+质变-虚无黑曜：究极黑曜石高坚果及其分身的碰撞体积大幅增加，且免疫boss碾压\n回血间隔15→10秒=Biến Chất - Hư Vô Hắc Diệu: kích thước va chạm của Quả Óc Chó Khổng Lồ Hắc Diện Thạch Tối Thượng và phân thân tăng mạnh, đồng thời miễn nhiễm Nghiền Nát của boss\nKhoảng cách hồi máu 15→10 giây
+质变-迸发：炮台在释放大招过程中额外释放4次火爆辣椒效果，每次造成50段伤害，每次伤害对敌方随机单体造成等同于炮台10000%攻击力的伤害=Biến Chất - Bính Phát: ụ pháo trong lúc thi triển Tuyệt chiêu sẽ tung thêm 4 lần hiệu ứng Ớt Nổ, mỗi lần gây 50 đợt sát thương, mỗi đợt gây cho một mục tiêu ngẫu nhiên phe địch sát thương bằng 10000% lực tấn công của ụ pháo
+超级高手：将1+x株随机植物升至1级，x为你当前已拥有植物词条的数量=Siêu Cấp Cao Thủ: nâng 1+x thực vật ngẫu nhiên tăng 1 cấp, x là số thuộc tính thực vật bạn đang sở hữu
+超载：\n◆<nobr><color\=red>究极爆破加农炮</color></nobr>：炮弹击中樱桃炸弹或火爆辣椒时会释放威力巨大的核爆\n◆<nobr><color\=red>究极爆破迫击炮</color></nobr>：攻击时有10%概率爆发炮口焰，并无上限投射子弹=Quá Tải:\n◆<nobr><color=red>Đại Bác Phá Nổ Tối Thượng</color></nobr>: đạn pháo trúng Bom Cherry hoặc Ớt Nổ sẽ gây vụ nổ hạt nhân cực mạnh\n◆<nobr><color=red>Cối Phá Nổ Tối Thượng</color></nobr>: khi tấn công có 10% xác suất bùng lửa đầu nòng, và bắn đạn không giới hạn số lượng
+距离其他究极小松炉太近=Quá gần Lò Tùng Tối Thượng khác
+路灯花的阳光消耗降低10，冷却降低30%=Nắng tiêu hao của Hoa Đèn Đường giảm 10, hồi chiêu giảm 30%
+输入僵尸本体血量低于或等于比例后触发一次；默认0.5，不含护甲，换目标后重新检测=Nhập tỉ lệ: kích hoạt một lần khi máu bản thể zombie thấp hơn hoặc bằng tỉ lệ; mặc định 0,5, không tính giáp, đổi mục tiêu sẽ kiểm tra lại
+运斤如风：锤子冷却降低为6秒=Vận Cân Như Phong: hồi chiêu búa giảm còn 6 giây
+还需强化{0}发子弹=Còn cần cường hóa {0} viên đạn
+这个词条已经被其他路选择=Thuộc tính này đã được lộ trình khác chọn
+这关手套没有冷却，请放心使用=Màn này Găng Tay không có hồi chiêu, cứ yên tâm dùng
+进入困难难度需要消耗1000资产，通关后全额返还，此难度禁用究极=Vào Chế Độ Khó cần tốn 1000 tài sản, vượt ải sẽ hoàn trả toàn bộ, chế độ này cấm dùng Tối Thượng
+进入战斗时获得追忆，并强化所有投手植物的角色赋能效果，获得词条绝对力量=Khi vào trận nhận Hồi Ức, đồng thời cường hóa hiệu quả cường hóa vai trò của mọi thực vật Ném Thủ, nhận thuộc tính Sức Mạnh Tuyệt Đối
+进化究极=Tiến Hóa Tối Thượng
+进化：究极=Tiến Hóa: Tối Thượng
+进阶空降：蹦极僵尸获得90%减伤，且有概率在第四列或更右侧空投究极僵尸=Đổ Bộ Tiến Cấp: Zombie Nhảy Bungee nhận 90% giảm sát thương, và có xác suất thả zombie Tối Thượng ở cột 4 hoặc phía bên phải hơn
+连击时的伤害范围+20%=Phạm vi sát thương khi Combo +20%
+连环爆炸：被玩偶匣爆炸影响的小丑类僵尸会变成小丑跳跳王；小丑爆破王炸弹伤害+500=Nổ Liên Hoàn: zombie hề bị ảnh hưởng bởi vụ nổ Hộp Hề sẽ biến thành Vua Nhảy Hề; sát thương bom của Vua Hề Phá Nổ +500
+连锁反应：\n<nobr><color\=red>究极向日葵</color></nobr>：赤阳子弹命中僵尸后会根据自身攻击力引爆周围子弹=Phản Ứng Dây Chuyền:\n<nobr><color=red>Hoa Hướng Dương Tối Thượng</color></nobr>: đạn Xích Dương trúng zombie sẽ kích nổ đạn xung quanh dựa theo lực tấn công bản thân
+迷你小喷菇\n人多势众：场上每多1株植物，全体植物造成的伤害增加0.5%\n万众一心：当一个格子内的植物数量超过4个时，该格子的全部植物获得300%伤害加成=Nấm Phun Nhỏ Mini\nNhân Đa Thế Chúng: mỗi khi trên sân thêm 1 thực vật, sát thương toàn bộ thực vật gây ra tăng 0,5%\nVạn Chúng Nhất Tâm: khi số thực vật trong một ô vượt quá 4, toàn bộ thực vật trong ô đó nhận 300% tăng sát thương
+追击子弹伤害+20%/40%/70%=Sát thương đạn truy kích +20%/40%/70%
+适应之力：僵尸每次受伤，获得相当于伤害量1%的护甲，有上限=Thích Ứng Chi Lực: mỗi khi zombie chịu sát thương sẽ nhận giáp bằng 1% lượng sát thương, có giới hạn
+适应之力：僵尸每次受到高于100（减伤后）的伤害时，获得1点护甲,最多获得1000=Thích Ứng Chi Lực: mỗi khi zombie chịu sát thương trên 100 (sau khi giảm sát thương) sẽ nhận 1 giáp, tối đa 1000
+选择道具种类，供查询、冷却和比较节点使用。=Chọn loại đạo cụ để node tra cứu, hồi chiêu và so sánh sử dụng.
+递归拆分融合配方，输出基础组成植物类型列表。=Đệ quy tách công thức dung hợp, xuất danh sách loại thực vật cấu thành cơ bản.
+通关挑战模式解锁配方=Vượt ải Chế Độ Thử Thách để mở khóa công thức
+通常有更好用的节点，给玩家添加旅行模式词条（基础/强究/僵尸）=Thường có node dùng tốt hơn, thêm thuộc tính Chế Độ Lữ Hành cho người chơi (cơ bản/Cường Cửu/zombie)
+造成更高的伤害，我方小队造成的伤害提高=Gây sát thương cao hơn, sát thương tiểu đội của ta gây ra tăng
+配方已更新=Công thức đã cập nhật
+配方：=Công thức:
+释放的毁灭菇伤害+100%=Sát thương Nấm Hủy Diệt được thả ra +100%
+重力打击：使用窝瓜坚果对僵尸造成10000点伤害=Đả Kích Trọng Lực: dùng Óc Chó Bí Đè gây 10000 sát thương lên zombie
+量子同频·冷却=Đồng Tần Lượng Tử·Hồi Chiêu
+量子护盾：\n<nobr>·解锁<color\=red>寒晶仙萤伞</color></nobr>\n◆<color\=red>流光仙萤伞</color>：能量上限和回能速度大幅增加，治疗频率翻倍\n◆<color\=red>寒晶仙萤伞</color>：各阶段伤害会提升至最高4倍=Khiên Lượng Tử:\n<nobr>·Mở khóa <color=red>Dù Tiên Huỳnh Hàn Tinh</color></nobr>\n◆<color=red>Dù Tiên Huỳnh Lưu Quang</color>: giới hạn năng lượng và tốc độ hồi năng lượng tăng mạnh, tần suất hồi máu tăng gấp đôi\n◆<color=red>Dù Tiên Huỳnh Hàn Tinh</color>: sát thương các giai đoạn tăng tối đa 4 lần
+金光闪闪：\n◆<nobr><color\=red>究极太阳神卷心菜</color></nobr>：子弹发射时，消耗超过15000部分的阳光的1/200，伤害增加消耗阳光数的20倍\n◆<nobr><color\=red>究极月亮神卷心菜</color></nobr>：子弹受到的光照等级增伤×3=Kim Quang Lấp Lánh:\n◆<nobr><color=red>Bắp Cải Thần Mặt Trời Tối Thượng</color></nobr>: khi đạn bắn ra, tiêu hao 1/200 lượng nắng vượt quá 15000, sát thương tăng gấp 20 lần số nắng đã tiêu\n◆<nobr><color=red>Bắp Cải Nguyệt Thần Tối Thượng</color></nobr>: sát thương đạn nhận từ cấp độ chiếu sáng ×3
+钛合金守卫\n正当防卫：开局拥有2个超级机械坚果，但他们不能被模仿\n全员出动：卡牌冷却降低20%=Thủ Vệ Hợp Kim Titan\nPhòng Vệ Chính Đáng: đầu trận sở hữu 2 Óc Chó Cơ Khí Siêu Cấp, nhưng chúng không thể bị bắt chước\nToàn Viên Xuất Động: hồi chiêu thẻ giảm 20%
+钢叶草攻击群怪时伤害不再衰减=Cỏ Lá Thép tấn công đám quái không còn suy giảm sát thương
+钢叶草的近战伤害非常高=Sát thương cận chiến của Cỏ Lá Thép rất cao
+铁幕-硬化：全体植物受到的伤害降低20%=Thiết Mạc - Cứng Hóa: sát thương toàn bộ thực vật chịu giảm 20%
+铁幕-硬化：全体植物受到的伤害降低40%=Thiết Mạc - Cứng Hóa: sát thương toàn bộ thực vật chịu giảm 40%
+铁幕-硬化：全体植物受到的伤害降低60%=Thiết Mạc - Cứng Hóa: sát thương toàn bộ thực vật chịu giảm 60%
+铁瓜的伤害+20%，击退+50%=Sát thương Dưa Sắt +20%, đánh lui +50%
+铲除场上的全部植物，获得双倍阳光，在这一轮卡牌不再有冷却=Xúc bỏ toàn bộ thực vật trên sân, nhận gấp đôi nắng, trong vòng này thẻ không còn hồi chiêu
+链式反应：\n<nobr>·解锁<color\=red>核爆窝瓜</color></nobr>\n◆爆炸樱桃、毁灭菇子弹及其变种子弹击中僵尸时有小概率变成12倍伤害的核能爆破子弹=Phản Ứng Chuỗi:\n<nobr>·Mở khóa <color=red>Bí Đè Nổ Hạt Nhân</color></nobr>\n◆Cherry Nổ, đạn Nấm Hủy Diệt và đạn biến chủng khi trúng zombie có xác suất nhỏ biến thành đạn nổ hạt nhân gây 12 lần sát thương
+镭射激光：\n◆<nobr><color\=red>究极激光南瓜</color></nobr>：僚机伤害×3\n◆激光无人机伤害×3=Laser Lôi Xạ:\n◆<nobr><color=red>Bí Ngô Laser Tối Thượng</color></nobr>: sát thương drone yểm trợ ×3\n◆Sát thương drone laser ×3
+阻冲之：\n◆<nobr><color\=red>究极机枪炮台</color></nobr>：子弹和冷焰伤害x3\n◆<nobr><color\=red>究极激光炮台</color></nobr>：激光伤害x3=Trở Xung:\n◆<nobr><color=red>Ụ Súng Máy Tối Thượng</color></nobr>: sát thương đạn và Lãnh Diệm x3\n◆<nobr><color=red>Ụ Laser Tối Thượng</color></nobr>: sát thương laser x3
+陨星+1\n陨星锁定全场血量最高的僵尸，落地时造成相当于卷心菜攻击力100%的群体伤害\n然后造成30次伤害，每次伤害对范围内敌方随机单体造成100%的爆炸伤害=Vẫn Tinh +1\nVẫn Tinh khóa zombie có máu cao nhất toàn sân, khi rơi xuống gây sát thương diện rộng bằng 100% lực tấn công của Bắp Cải\nSau đó gây 30 lần sát thương, mỗi lần gây cho một mục tiêu ngẫu nhiên phe địch trong phạm vi 100% sát thương nổ
+随从强化：非领袖僵尸获得30%速度加成和30%血量加成=Cường Hóa Tùy Tùng: zombie không phải thủ lĩnh nhận 30% tăng tốc và 30% tăng máu
+随时间提供更多护盾，我方小队伤害提高=Theo thời gian cung cấp thêm khiên, sát thương tiểu đội của ta tăng
+随机到的僵尸词条：\n=Thuộc tính zombie ngẫu nhiên nhận được:\n
+随机品质=Phẩm chất ngẫu nhiên
+随机词条=Thuộc tính ngẫu nhiên
+集中轰炸：\n◆<nobr><color\=red>究极冰神西瓜</color></nobr>：召唤的星云命中效率大幅提高\n◆<nobr><color\=red>究极冰神毁灭菇</color></nobr>：创建的传送门收束至一列，生成的时空冰流总数翻倍=Tập Trung Oanh Tạc:\n◆<nobr><color=red>Dưa Hấu Băng Thần Tối Thượng</color></nobr>: hiệu suất trúng đích của tinh vân được triệu hồi tăng mạnh\n◆<nobr><color=red>Nấm Hủy Diệt Băng Thần Tối Thượng</color></nobr>: cổng dịch chuyển tạo ra thu hẹp về một cột, tổng số dòng băng thời không sinh ra tăng gấp đôi
+需要一次提交5个究极大喷菇=Cần nộp một lần 5 Nấm Phun To Tối Thượng
+需要一次提交5个究极忧郁菇=Cần nộp một lần 5 Nấm U Sầu Tối Thượng
+需要一次提交5个究极杨桃大帝=Cần nộp một lần 5 Khế Đại Đế Tối Thượng
+需要一次提交5个究极樱桃射手=Cần nộp một lần 5 Xạ Thủ Cherry Tối Thượng
+需要一次提交5个究极樱桃战神=Cần nộp một lần 5 Chiến Thần Cherry Tối Thượng
+需要先升级基础强化=Cần nâng cấp Cường Hóa Cơ Bản trước
+霸凌弱者：植物因血量归零死亡时爆炸，对附近植物自身最大生命值的伤害=Bá Lăng Nhược Giả: thực vật chết do máu về 0 sẽ phát nổ, gây sát thương cho thực vật ở gần bằng máu tối đa bản thân của chúng
+领袖强化：领袖僵尸获得30%速度加成和30%血量加成=Cường Hóa Thủ Lĩnh: zombie thủ lĩnh nhận 30% tăng tốc và 30% tăng máu
+额外获得6000初始积分，可在第五轮商店中用于购买词条=Nhận thêm 6000 điểm khởi đầu, có thể dùng để mua thuộc tính ở cửa hàng vòng 5
+风蚀空旅：\n<color\=red>风神三叶草</color>：施加的易伤效果翻倍，且会削减10点护甲=Phong Thực Không Lữ:\n<color=red>Cỏ Ba Lá Phong Thần</color>: hiệu ứng Dễ Tổn Thương gây ra tăng gấp đôi, đồng thời giảm 10 giáp
+飞行植物获得30%伤害加成=Thực vật bay nhận 30% tăng sát thương
+高能射线：\n◆<color\=red>流光仙萤伞</color>：激光伤害、爆炸伤害及频率大幅提升\n◆<color\=red>寒晶仙萤伞</color>：聚焦阶段的光束会施加1秒冻结=Tia Cao Năng:\n◆<color=red>Dù Tiên Huỳnh Lưu Quang</color>: sát thương laser, sát thương nổ và tần suất tăng mạnh\n◆<color=red>Dù Tiên Huỳnh Hàn Tinh</color>: chùm tia ở giai đoạn tập trung sẽ gây 1 giây đóng băng
+高贵审美：白银及以下的词条加成变为原来的70%，黄金，钻石词条加成变为原来的110%=Thẩm Mỹ Cao Quý: tăng ích thuộc tính từ Bạc trở xuống còn 70% ban đầu, thuộc tính Vàng, Kim Cương tăng thành 110% ban đầu
+高阶僵尸有更高的基础属性加成\n每提升一阶（从2阶起），血量与攻击力均增加<color\=red>100%</color>\n各难度下不同阶数僵尸的出现概率如下\n=Zombie cao giai có tăng thuộc tính cơ bản cao hơn\nMỗi khi tăng một giai (từ giai 2 trở đi), máu và lực tấn công đều tăng <color=red>100%</color>\nXác suất xuất hiện zombie các giai ở các độ khó như sau\n
+魂灵之主\n眼疾手快：开局拥有极速战备词条\n起死回生：植物消失后有概率以卡牌形式掉落=Chúa Tể Hồn Linh\nMắt Nhanh Tay Lẹ: đầu trận sở hữu thuộc tính Sẵn Sàng Chiến Đấu Cực Tốc\nKhởi Tử Hồi Sinh: sau khi thực vật biến mất có xác suất rơi dưới dạng thẻ
+魅惑僵尸死亡时，在本行发射一个200%基础伤害的超级魅惑子弹=Khi Zombie Mê Hoặc chết, bắn một đạn siêu Mê Hoặc gây 200% sát thương cơ bản tại hàng này
+魅惑西瓜生成的魅惑僵尸血量+20%、伤害+100%=Zombie Mê Hoặc do Dưa Hấu Thôi Miên tạo ra tăng 20% máu, +100% sát thương
+黑曜护体：\n◆<nobr><color\=red>究极黑曜石辣椒菇</color></nobr>：为植物回血时附带1秒无敌\n◆<nobr><color\=red>究极黑曜石小辣椒菇</color></nobr>：共享以上效果=Hắc Diệu Hộ Thể:\n◆<nobr><color=red>Nấm Ớt Hắc Diện Thạch Tối Thượng</color></nobr>: khi hồi máu cho thực vật kèm 1 giây vô địch\n◆<nobr><color=red>Nấm Ớt Nhỏ Hắc Diện Thạch Tối Thượng</color></nobr>: chia sẻ hiệu quả trên
+黑洞会对附近的僵尸造成伤害，每拥有一个该词条，伤害比例增加100%=Hố Đen gây sát thương cho zombie ở gần, mỗi khi sở hữu một thuộc tính này, tỉ lệ sát thương tăng 100%
+（无激活羁绊）\n=(Không có Liên Kết nào được kích hoạt)\n
+（普通品质基准，实际增幅随品质变化）。=(Mốc chuẩn phẩm chất thường, mức tăng thực tế thay đổi theo phẩm chất).
 \n<color\=red>请确认是否启动了最新版神笔马良识图AI，可前往融合wiki下载</color>=\n<color=red>Vui lòng xác nhận đã bật AI Thần Bút Mã Lương bản mới nhất, có thể tải tại wiki Dung Hợp</color>
   校验:   总权重应该 \= 100 + 150 × {0:F1} \= {1:F1}=  Kiểm tra:   Tổng trọng số phải = 100 + 150 × {0:F1} = {1:F1}
   金色概率 / 钻石概率 \= {0:F1}% / {1:F1}% \= {2:F1}=  Tỉ lệ vàng / Tỉ lệ kim cương = {0:F1}% / {1:F1}% = {2:F1}
@@ -2967,3 +3065,153 @@ yyyy年MM月dd日HH时mm分ss秒=yyyy năm MM tháng dd ngày HH giờ mm phút 
 填写输入值：不用添加常量节点；已经连线的输入由上游提供=Điền giá trị đầu vào: không cần thêm Node hằng số; đầu vào đã nối dây do tuyến trên cung cấp
 增幅效果+100%=Hiệu quả tăng ích +100%
 备战席已满=Ghế dự bị đã đầy
+复制列表内容=Sao chép nội dung danh sách
+复制节点=Sao chép Node
+复活=Hồi sinh
+复活时间降低99%\n当前标准复活时长：0秒=Thời gian hồi sinh giảm 99%\nThời gian hồi sinh chuẩn hiện tại: 0 giây
+复活时间降低{0:F0}%\n当前标准复活时长：{1:F1}秒=Thời gian hồi sinh giảm {0:F0}%\nThời gian hồi sinh chuẩn hiện tại: {1:F1} giây
+多多益善：\n金花盆的升级消耗最多为8000金钱=Càng nhiều càng tốt:\nChi phí nâng cấp Chậu Vàng tối đa 8000 tiền
+多选菜单需要选项列表，不能使用鼠标物品等普通GameObject=Menu đa chọn cần danh sách tùy chọn, không thể dùng vật phẩm chuột hay GameObject thông thường
+夜之半神=Bán Thần Đêm
+夜晚场景=Cảnh đêm
+大=Lớn
+大于=Lớn hơn
+大剑数量+11=Số lượng Kiếm Lớn +11
+大嘴一咬，福祸自招=Một cú đớp, phúc họa tự tìm đến
+大子弹所需射击数-4=Số phát bắn cần thiết cho Đạn Lớn -4
+大小=Kích thước
+大小倍率=Hệ số kích thước
+大帅=Đại Soái
+大帅的复仇=Sự Báo Thù Của Đại Soái
+大帅线=Tuyến Đại Soái
+大帝抽到了木头奖：全场光照等级+1=Đại Đế rút trúng giải gỗ: cấp độ chiếu sáng toàn sân +1
+大招充能速度+10%/20%/35%=Tốc độ nạp Tuyệt chiêu +10%/20%/35%
+大招所需杀敌数-20=Số địch cần hạ cho Tuyệt chiêu -20
+大招持续时间+5秒=Thời gian duy trì Tuyệt chiêu +5 giây
+大捷！大捷！=Đại thắng! Đại thắng!
+大标题=Tiêu đề lớn
+大正=Đại Chính
+大河奔流=Đại Hà Bôn Lưu
+大泳池=Hồ Bơi Lớn
+大荒星陨！=Đại Hoang Tinh Vẫn!
+大麦之战=Đại Mạch Chi Chiến
+大麦之战2：拆拆乐=Đại Mạch Chi Chiến 2: Đập Phá Vui Vẻ
+天动万象=Thiên Động Vạn Tượng
+天河本怒涛=Thiên Hà Bản Nộ Đào
+天罚=Thiên Phạt
+天罚-闪电风暴：闪电风暴将不间断的发动攻击=Thiên Phạt - Bão Sấm Sét: Bão Sấm Sét sẽ tấn công không ngừng
+太阳神=Thần Mặt Trời
+失败=Thất bại
+失败原因=Nguyên nhân thất bại
+失败奖励：{0} × {1}/{2} × 50%，向下取整。=Phần thưởng thất bại: {0} × {1}/{2} × 50%, làm tròn xuống.
+奖励1：<color\=black>=Phần thưởng 1: <color=black>
+奖励1：<color\=white>=Phần thưởng 1: <color=white>
+奖励2：<color\=black>=Phần thưởng 2: <color=black>
+奖励2：<color\=white>=Phần thưởng 2: <color=white>
+奖励选项列表=Danh sách tùy chọn phần thưởng
+如果打不过多注意一下主线第四关=Nếu đánh không lại, hãy chú ý màn chính 4
+子弹=Đạn
+子弹参数越界或类型未加载=Tham số đạn vượt giới hạn hoặc loại chưa được tải
+子弹发射数+1=Số đạn bắn ra +1
+子弹可弹射更多次数，并使目标陷入可叠加的感电=Đạn có thể nảy thêm nhiều lần, và khiến mục tiêu rơi vào trạng thái giật điện cộng dồn
+子弹对象=Đối tượng đạn
+子弹弹射数量+1\n=Số lần nảy của đạn +1\n
+子弹操作=Thao tác đạn
+子弹旋转半径提高12%，旋转速度提高80%=Bán kính xoay của đạn tăng 12%, tốc độ xoay tăng 80%
+子弹种类=Loại đạn
+子弹类型=Kiểu đạn
+字符串=Chuỗi
+字符串值常量=Hằng chuỗi
+字符串列表插入=Chèn vào danh sách chuỗi
+字符串列表替换=Thay thế trong danh sách chuỗi
+字符串列表查找=Tìm trong danh sách chuỗi
+字符串列表获取项=Lấy mục trong danh sách chuỗi
+字符串列表追加=Thêm vào danh sách chuỗi
+字符串变量=Biến chuỗi
+字符串拼接=Nối chuỗi
+字符串转对象=Chuyển chuỗi thành đối tượng
+字符串转小数=Chuyển chuỗi thành số thập phân
+字符串转整数=Chuyển chuỗi thành số nguyên
+字符串长度不能超过4096=Độ dài chuỗi không được vượt quá 4096
+字符转ASCII码=Chuyển ký tự thành mã ASCII
+存储子弹数量上限增加30=Giới hạn số đạn lưu trữ +30
+存在=Tồn tại
+存在同步触发环，请通过等待或周期安排下一次执行=Tồn tại vòng kích hoạt đồng bộ, hãy lên lịch lần thực thi tiếp theo bằng chờ hoặc chu kỳ
+存在数值依赖环=Tồn tại vòng phụ thuộc số
+存在空连线=Tồn tại kết nối trống
+存在重复连线；旧图保留原来的重复执行语义=Tồn tại kết nối trùng lặp; đồ thị cũ giữ nguyên ngữ nghĩa thực thi trùng lặp ban đầu
+孢子发射数量+1=Số lượng Bào tử bắn ra +1
+孢子团范围+25%=Phạm vi Đám bào tử +25%
+孢子团装填速度+30%=Tốc độ nạp Đám bào tử +30%
+孢子射速+30%=Tốc bắn Bào tử +30%
+孢子弹匣容量+1=Sức chứa băng đạn Bào tử +1
+孢子群宽度+30%=Chiều rộng Đàn bào tử +30%
+孢子群长度+60%=Chiều dài Đàn bào tử +60%
+孢子装填速度+30%=Tốc độ nạp Bào tử +30%
+守护目标=Bảo vệ mục tiêu
+完全傻了！=Ngốc hoàn toàn!
+完成=Hoàn thành
+完成75次配对以赢得游戏=Hoàn thành 75 lần ghép cặp để thắng game
+完成第{0}关即可扩大仓库容量=Hoàn thành màn {0} để mở rộng sức chứa Kho
+完整数值=Số đầy đủ
+完整数值 · =Số đầy đủ · 
+完整数值…=Số đầy đủ…
+完整数值编辑=Chỉnh sửa số đầy đủ
+宝石迷阵=Trận Đá Quý
+宝石迷阵2：开心消消乐=Trận Đá Quý 2: Xếp Hình Vui Vẻ
+宝藏=Kho báu
+宝藏沙滩=Bãi Biển Kho Báu
+实际数字：\n=Số thực tế:\n
+富贵险中求！全部相同将获得巨额奖励，但失败的代价也很惨重=Phú quý cầu trong hiểm! Tất cả giống nhau sẽ nhận thưởng cực lớn, nhưng cái giá của thất bại cũng rất thảm khốc
+寒冰领主=Lãnh Chúa Băng
+对局结束，第{0}路获胜！=Trận đấu kết thúc, hàng {0} thắng!
+对数运算=Phép toán logarit
+对有限小数计算幂或指定底数的对数。=Tính lũy thừa hoặc logarit theo cơ số chỉ định cho số thập phân hữu hạn.
+对象=Đối tượng
+对象A=Đối tượng A
+对象B=Đối tượng B
+对象列表插入=Chèn vào danh sách đối tượng
+对象列表替换=Thay thế trong danh sách đối tượng
+对象列表查找=Tìm trong danh sách đối tượng
+对象列表获取项=Lấy mục trong danh sách đối tượng
+对象列表追加=Thêm vào danh sách đối tượng
+对象操作=Thao tác đối tượng
+对象绑定=Ràng buộc đối tượng
+对象转字符串=Chuyển đối tượng thành chuỗi
+射击：无尽=Bắn: Vô tận
+射速=Tốc bắn
+射速+100%=Tốc bắn +100%
+射速+100%，子弹可以弹给自己=Tốc bắn +100%, đạn có thể nảy vào chính mình
+射速+200%=Tốc bắn +200%
+射速：{0:F2}(+{1:F0}%)\n=Tốc bắn: {0:F2}(+{1:F0}%)\n
+将0～127的ASCII码转换为一个字符。=Chuyển mã ASCII từ 0–127 thành một ký tự.
+将true变为false，false变为true（NOT操作）=Đổi true thành false, false thành true (phép NOT)
+将三个小数组合为世界坐标。=Gộp ba số nhỏ thành tọa độ thế giới.
+将两个字符串拼接在一起（A + B）=Nối hai chuỗi lại với nhau (A + B)
+将你的火瓜进化为更强大的火神瓜=Tiến hóa Dưa Lửa của bạn thành Dưa Hỏa Thần mạnh hơn
+将军线=Tuyến Tướng Quân
+将大局逆转吧=Hãy lật ngược thế cờ!
+将字符串值插入到共享列表中。=Chèn giá trị chuỗi vào danh sách dùng chung.
+将字符串值替换到共享列表中。=Thay thế giá trị chuỗi trong danh sách dùng chung.
+将字符串值追加到共享列表中。=Thêm giá trị chuỗi vào danh sách dùng chung.
+将对象值插入到共享列表中。=Chèn giá trị đối tượng vào danh sách dùng chung.
+将对象值替换到共享列表中。=Thay thế giá trị đối tượng trong danh sách dùng chung.
+将对象值追加到共享列表中。=Thêm giá trị đối tượng vào danh sách dùng chung.
+将小数值插入到共享列表中。=Chèn giá trị số thập phân vào danh sách dùng chung.
+将小数值替换到共享列表中。=Thay thế giá trị số thập phân trong danh sách dùng chung.
+将小数值追加到共享列表中。=Thêm giá trị số thập phân vào danh sách dùng chung.
+将布尔值插入到共享列表中。=Chèn giá trị boolean vào danh sách dùng chung.
+将布尔值替换到共享列表中。=Thay thế giá trị boolean trong danh sách dùng chung.
+将布尔值追加到共享列表中。=Thêm giá trị boolean vào danh sách dùng chung.
+将数值或枚举转换为可读文字。=Chuyển số hoặc enum thành văn bản đọc được.
+将整数值插入到共享列表中。=Chèn giá trị số nguyên vào danh sách dùng chung.
+将整数值替换到共享列表中。=Thay thế giá trị số nguyên trong danh sách dùng chung.
+将整数值追加到共享列表中。=Thêm giá trị số nguyên vào danh sách dùng chung.
+将整数转换为浮点数=Chuyển số nguyên thành số thực
+将浮点数转换为字符串，可指定小数位数（0-6位）=Chuyển số thực thành chuỗi, có thể chỉ định số chữ số thập phân (0-6)
+将浮点数转换为整数（截断小数部分）=Chuyển số thực thành số nguyên (cắt bỏ phần thập phân)
+小于=Nhỏ hơn
+小剑每转一圈将召唤一个大剑从天而降=Mỗi vòng xoay, Kiếm Nhỏ sẽ triệu hồi một Kiếm Lớn từ trên trời rơi xuống
+小复制：立即获得5张模仿者卡牌=Sao Chép Nhỏ: nhận ngay 5 thẻ Kẻ Bắt Chước
+小心=Cẩn thận
+小推车使用：{0}=Sử dụng xe cắt cỏ: {0}
