@@ -1,0 +1,52 @@
+# ========================================================
+# BẢN DỊCH VIỆT HÓA PLANTS VS. ZOMBIES FUSION (v4.0.5)
+# Dự án cộng tác mã nguồn mở giữa các AI Agents
+# Tổng số chuỗi đã dịch: 29
+# ========================================================
+
+
+<color\=green>价格：{0}</color>=<color=green>Giá: {0}</color>
+
+<color\=red>价格：{0}</color>=<color=red>Giá: {0}</color>
+
+\=\=\= 存档槽位 \=\=\=
+==== Khe Lưu Game ===
+ · 已购买=· Đã Mua
+ 作弊模式已开启=Chế độ gian lận đã bật
+(-{0}金币, 第{1}次刷新)=(-{0} Vàng, Lần làm mới thứ {1})
+(免费刷新)=(Làm mới miễn phí)
+0次刷新次数，2个备选项=0 lần làm mới, 2 lựa chọn
+1次刷新次数，3个备选项=1 lần làm mới, 3 lựa chọn
+2次刷新次数，5个备选项=2 lần làm mới, 5 lựa chọn
+>退出=>Thoát
+Tips：主菜单设置中可以一键解锁，新玩家不推荐=Mẹo: Trong cài đặt menu chính có thể mở khóa một chạm, người chơi mới không khuyến nghị
+Tips：按esc可以直接返回查看全部=Mẹo: Nhấn ESC để quay lại xem toàn bộ
+
+豌豆射手可以融合出机枪射手吗？ =Đậu Bắn Súng có thể dung hợp ra Đậu Súng Máy không?
+  豌豆射手 + {0} \= {1}=Đậu Bắn Súng + {0} = {1}
+ · 专家植物=· Thực vật Chuyên gia
+ · 先解锁基础植物=· Hãy mở khóa thực vật cơ bản trước
+ 清除植物（U）=Dọn dẹp thực vật (U)
+Tips：右键植物可以查看全部融合=Mẹo: Nhấp chuột phải vào thực vật để xem toàn bộ dung hợp
+Tips：左键植物可以查看经典融合=Mẹo: Nhấp chuột trái vào thực vật để xem dung hợp kinh điển
+Tips：试试在游戏中把鼠标放在植物上然后按下C键=Mẹo: Hãy thử di chuột lên thực vật và nhấn phím C trong khi chơi
+WASD控制植物移动，Q植物显血，R僵尸显血
+植物碰撞道具箱视为拾取道具=WASD điều khiển thực vật di chuyển, Q hiện máu thực vật, R hiện máu Zombie
+Thực vật chạm vào hòm đạo cụ tính là nhặt đạo cụ
+ 清除僵尸（Y）=Dọn dẹp Zombie (Y)
+<nobr>强敌-冰河覆疆：</nobr>
+冰封三叉戟僵尸将会出现=<nobr>Cường Địch - Băng Hà Phủ Lãnh:</nobr>
+Zombie Đinh Ba Băng Giá sẽ xuất hiện
+<nobr>强敌-末日裁决：</nobr>
+毁灭机枪读报僵尸将会出现=<nobr>Cường Địch - Phán Quyết Ngày Tận Thế:</nobr>
+Zombie Đọc Báo Súng Máy Hủy Diệt sẽ xuất hiện
+<nobr>强敌-横扫千军：</nobr>
+机枪黑橄榄骑兵团长将会出现=<nobr>Cường Địch - Quét Sạch Muôn Quân:</nobr>
+Đoàn Trưởng Kỵ Binh Súng Máy Ô Liu Đen sẽ xuất hiện
+<nobr>强敌-特战金铠：</nobr>
+特种黄金巨人将会出现=<nobr>Cường Địch - Giáp Vàng Tác Chiến:</nobr>
+Zombie Khổng Lồ Hoàng Kim Đặc Chủng sẽ xuất hiện
+不让僵尸越过红线=Không để Zombie vượt qua vạch đỏ
+<nobr>解锁<color\=red>究极向日葵</color>
+火炬向日葵+金向日葵</nobr>=<nobr>Mở khóa <color=red>Hoa Hướng Dương Tối Thượng</color>
+Hướng Dương Đuốc + Hướng Dương Vàng</nobr>
