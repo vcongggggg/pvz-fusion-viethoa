@@ -84,3 +84,58 @@
 | **存档** | Bản lưu (dữ liệu save game) |
 | **下载** | Tải xuống |
 | **扫雷** | Dò mìn |
+
+---
+
+## 5. Thuật Ngữ Bổ Sung Từ Các Batch Audit
+
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn | Ghi chú |
+| :--- | :--- | :--- |
+| **小松炉** | Lò Tùng | Cây chống đóng băng ô đặt |
+| **水芦荟** | Nha Đam Nước | Cây trong game |
+| **统一存档** | Bản lưu thống nhất | Loại bản lưu trong hệ thống save |
+| **诸神存档** | Bản lưu Chư Thần | Liên quan 诸神币 (Xu Chư Thần) |
+| **仓库** | Kho | Kho đồ/thẻ |
+| **塔防冒险** | Phiêu Lưu Thủ Tháp | Tên chế độ tower-defense |
+| **旅行模式** | Chế Độ Lữ Hành | Chế độ đi kèm "phước lành khởi đầu" |
+| **阳光** | nắng | Tài nguyên nắng, theo quy ước cộng đồng PvZ |
+| **大招** | Tuyệt chiêu | Kỹ năng ultimate |
+| **大富翁** | Cờ Tỷ Phú | Minigame |
+| **暂停** | Tạm dừng | Chuẩn hóa từ batch 1 |
+| **万年尸皇** | Vạn Niên Thi Hoàng | Boss zombie |
+| **下界合金** | Hợp Kim Địa Ngục | Vật liệu/cơ chế |
+| **黑橄榄武士** | Võ Sĩ Ô Liu Đen | Zombie |
+| **幻灭菇** | Nấm Huyễn Diệt | Cây nấm |
+| **红宝石伞** | Dù Hồng Ngọc | Trang bị zombie |
+| **绿宝石伞** | Dù Lục Bảo | Trang bị zombie |
+| **雪橇车僵尸** | Zombie Xe Trượt Tuyết | Zombie |
+| **红温** | Đỏ Nhiệt | Cơ chế game đặc thù |
+| **黑袍小丑王** | Vua Hề Áo Đen | Boss |
+| **寒冰豌豆** | Đậu Băng | Cây |
+| **诅咒铁豌豆** | Đậu Sắt Nguyền Rủa | Cây |
+| **堡垒巨人** | Khổng Lồ Pháo Đài | Zombie |
+| **僵王博士** | Tiến Sĩ Zomboss | Boss (giữ tên Zomboss) |
+| **舞王指挥官** | Chỉ Huy Vũ Vương | Zombie |
+| **基洛夫** | Kirov | Giữ tên riêng |
+| **僵尸等级** | Cấp Zombie | Khung chỉ số Almanac |
+| **韧性** | Độ cứng | Khung chỉ số Almanac |
+| **攻击力** | Lực tấn công | Khung chỉ số Almanac |
+| **特点** | Đặc điểm | Khung chỉ số Almanac |
+| **弱点** | Điểm yếu | Khung chỉ số Almanac |
+| **血量 / 生命值** | máu | Khung chỉ số Almanac |
+
+### Thuật ngữ batch Plants (đợt 1)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 三线射手 / 五线射手 | Đậu Ba Tuyến / Đậu Năm Tuyến |
+| 寒冰射手 / 寒冰机枪射手 / 魔法寒冰射手 | Đậu Băng / Đậu Súng Máy Băng / Đậu Băng Ma Thuật |
+| 寒冰菇 / 冷寂寒冰菇 / 寂灭寒冰菇 / 毁灭菇 / 贪欲菇 | Nấm Băng / Nấm Băng Tịch Lãnh / Nấm Băng Tịch Diệt / Nấm Hủy Diệt / Nấm Tham Lam |
+| 三叶草 | Cỏ Ba Lá |
+| 火爆辣椒 | Ớt Nổ (Jalapeño) |
+| 仙人掌 / 南瓜 / 路灯花 | Xương Rồng / Bí Ngô / Hoa Đèn Đường |
+| 吸金磁 / 地刺王 / 坚果墙 / 冬笋 | Nam Châm Hút Vàng / Vua Gai Đất / Tường Óc Chó / Măng Đông |
+| 黑橄榄高坚果 / 超级保龄球坚果 | Quả Óc Chó Khổng Lồ Ô Liu Đen / Óc Chó Bowling Siêu Cấp |
+| 三线火炬 / 金咖啡豆 / 铁桶坚果僵尸 | Đuốc Ba Tuyến / Hạt Cà Phê Vàng / Zombie Thùng Sắt Óc Chó |
+| 手套 / 铲子 / 卡槽 / 卡牌 | Găng Tay / Xẻng / khay thẻ / thẻ |
+| 亚种 / 墓碑 / 弹坑 | á chủng / Bia Mộ / hố đạn |
+| 旗展千军 / 好运礼盒 / 内讯不达 | Kỳ Triển Thiên Quân / Hộp Quà May Mắn / Bặt Vô Âm Tín |
