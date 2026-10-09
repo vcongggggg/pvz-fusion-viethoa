@@ -212,3 +212,50 @@
 | 原型领袖 / 手推车 / 小推车 | Thủ lĩnh nguyên mẫu / xe cắt cỏ | xe cắt cỏ = lawn mower |
 | 迷你黑橄榄将军 | Tướng Quân Ô Liu Đen Mini | |
 | 植物 (chuẩn toàn dự án) | thực vật | Đã migrate 146 chuỗi (plants 104 + buffs 40 + plants lẻ 2); ngoại lệ: 融合树→"cây dung hợp", 火炬树桩→"Gốc Cây Đuốc" (树, không phải 植物) |
+
+### Thuật ngữ batch Zombies (vòng 3, hoàn thành module)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 魅惑僵尸 / 魅惑罐子 | Zombie Mê Hoặc / Lọ Mê Hoặc |
+| 黑橄榄副将 / 黑橄榄机枪副将 / 黑橄榄队长 / 黑橄榄尸骑士 | Phó Tướng Ô Liu Đen / Phó Tướng Súng Máy Ô Liu Đen / Đội Trưởng Ô Liu Đen / Kỵ Sĩ Thi Hài Ô Liu Đen |
+| 黑曜石武装巨人 / 特种武装巨人 / 武装小鬼僵尸 | Khổng Lồ Vũ Trang Hắc Diện Thạch / Khổng Lồ Vũ Trang Đặc Chủng / Zombie Nhí Vũ Trang |
+| 机枪黑橄榄兵车 | Xe Súng Máy Ô Liu Đen |
+| 雷鸣冲锋舰艇僵尸 / 雷鸣机械潜艇僵尸 | Zombie Tàu Xung Phong Lôi Minh / Zombie Tàu Ngầm Cơ Giới Lôi Minh |
+| 舞王冰车 / 蹦极僵尸 / 高阶僵尸 | Xe Băng Vũ Vương / Zombie Nhảy Bungee / zombie cao giai |
+| 黄油大师 / 黄油定身 / 刷新机会 | Bậc Thầy Bơ / bơ làm choáng / lượt làm mới |
+
+### Thuật ngữ batch Buffs (vòng 3)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 冬笋路障 | Măng Đông Chướng Ngại (cây barrier; khác 路障僵尸→Zombie Nón Giao Thông) |
+| 小丑跳跳王 / 小丑爆破王 | Vua Nhảy Hề / Vua Hề Phá Nổ |
+| 玄钢地刺坚果 / 玄钢地刺王 | Óc Chó Gai Đất Huyền Cương / Vua Gai Đất Huyền Cương |
+| 铁豆突击队 / 魔法兔耳葱 / 魔法猫尾草 | Đội Đột Kích Đậu Sắt / Hành Tai Thỏ Ma Thuật / Cỏ Đuôi Mèo Ma Thuật |
+| 摇钱三线火炬 / 摇钱三线路灯花 | Đuốc Ba Tuyến Lắc Tiền / Hoa Đèn Đường Ba Tuyến Lắc Tiền |
+| 太阳神 / 寒冰领主 / 凛冬将至 | Thần Mặt Trời / Lãnh Chúa Băng / Đông Khắc Nghiệt Đang Đến |
+| 极致之冰 / 极冰水域 / 晶矿 | Băng Cực Hạn / Vùng Nước Băng Cực / Mỏ Pha Lê |
+| 真实伤害 / 强化 / 耐久 | sát thương chuẩn / Cường Hóa / độ bền |
+| 命运 / 孤胆英雄 / 异星预言 | Vận Mệnh / Anh Hùng Đơn Độc / Tiên Tri Dị Tinh |
+| 梦珞 / 鱼丸 / 钢叶草 | Mộng Lạc / Cá Viên / Cỏ Lá Thép |
+| 樱桃射手 / 浮空樱桃射手 / 樱桃机枪 | Xạ Thủ Cherry / Xạ Thủ Cherry Bay / Súng Máy Cherry |
+| 阳光反应器 | Lò Phản Ứng Ánh Dương |
+
+### Thuật ngữ batch Misc (vòng 3)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 音符 / 轨道 / 谱面 | nốt nhạc / làn / chart (game nhịp điệu) |
+| 拍 / 小拍 | phách / phách nhỏ (phân biệt 拍子→"Nhịp") |
+| 中国象棋 / 令和 | Cờ Tướng / Lệnh Hòa (niên hiệu Nhật) |
+| 仓库 / 秘境 / 肥料 / 地雷 / 孢子 / 机甲 | Kho / Bí Cảnh / phân bón / mìn / Bào tử / Mech |
+
+### Thuật ngữ batch Plants (vòng 3)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 机枪射手 / 机枪小喷菇 / 樱桃机枪射手 | Xạ Thủ Súng Máy / Nấm Phun Nhỏ Súng Máy / Xạ Thủ Súng Máy Cherry |
+| 毁灭坚果 / 毁灭大喷菇 / 毁灭樱桃 / 毁灭辣椒 | Óc Chó Hủy Diệt / Nấm Phun To Hủy Diệt / Cherry Hủy Diệt / Ớt Hủy Diệt |
+| 毁灭大嘴花 / 死神大嘴花 / 大嘴坚果 | Hoa Nuốt Chửng Hủy Diệt / Hoa Nuốt Chửng Tử Thần / Óc Chó Miệng To |
+| 核爆樱桃 / 核爆窝瓜 / 樱桃指挥官 | Cherry Nổ Hạt Nhân / Bí Đè Nổ Hạt Nhân / Chỉ Huy Cherry |
+| 魅惑坚果 / 金盏花 / 橄榄帽 / 爆竹 | Óc Chó Thôi Miên / Cúc Vạn Thọ / Mũ Ô Liu / Pháo |
+| 磁力菇 / 磁力菇后 | Nấm Từ Lực / Hoàng Hậu Nấm Từ Lực |
+| 流光仙人掌 / 流光保护伞 / 流光磁力菇 / 樱桃磁力菇 | Xương Rồng Lưu Quang / Dù Bảo Vệ Lưu Quang / Nấm Từ Lực Lưu Quang / Nấm Từ Lực Cherry |
+| 电磁涡轮 / 炸土豆 / 双发射手 | Tua-bin Điện Từ / Khoai Tây Chiên / Xạ Thủ Nòng Đôi |
