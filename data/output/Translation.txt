@@ -1,22 +1,82 @@
 # ========================================================
 # BẢN DỊCH VIỆT HÓA PLANTS VS. ZOMBIES FUSION (v4.0.5)
 # Dự án cộng tác mã nguồn mở giữa các AI Agents
-# Tổng số chuỗi đã dịch: 29
+# Tổng số chuỗi đã dịch: 89
 # ========================================================
 
+\n\n点击上方“节点说明”查看端口与连接例子。=\n\nNhấp vào "Mô tả nút" ở trên để xem cổng và ví dụ kết nối.
 \n<color\=green>价格：{0}</color>=\n<color=green>Giá: {0}</color>
 \n<color\=red>价格：{0}</color>=\n<color=red>Giá: {0}</color>
 \n\=\=\= 存档槽位 \=\=\=\n=\n=== Khe Lưu Game ===\n
+\n从(1,1)开始测试求解...=\nBắt đầu thử nghiệm giải từ (1,1)...
+\n从(1,2)开始测试求解...=\nBắt đầu thử nghiệm giải từ (1,2)...
+\n从(2,2)开始测试求解...=\nBắt đầu thử nghiệm giải từ (2,2)...
+ | 开始: {0:F3}s ({1}.{2}拍)= | Bắt đầu: {0:F3}s ({1}.{2} nhịp)
  · 已购买= · Đã Mua
  作弊模式已开启= Chế độ gian lận đã bật
+ 未实现 GetPortValue，返回默认值= Chưa triển khai GetPortValue, trả về giá trị mặc định
+' 不存在，使用默认存档=' không tồn tại, dùng bản lưu mặc định
 (-{0}金币, 第{1}次刷新)=(-{0} Vàng, Lần làm mới thứ {1})
 (免费刷新)=(Làm mới miễn phí)
 0次刷新次数，2个备选项=0 lần làm mới, 2 lựa chọn
+100%积分获取加成，5次免费刷新=Tăng 100% nhận điểm, 5 lần làm mới miễn phí
 1次刷新次数，3个备选项=1 lần làm mới, 3 lựa chọn
+20%积分获取加成，2次免费刷新=Tăng 20% nhận điểm, 2 lần làm mới miễn phí
+200%积分获取加成，8次免费刷新=Tăng 200% nhận điểm, 8 lần làm mới miễn phí
 2次刷新次数，5个备选项=2 lần làm mới, 5 lựa chọn
+40%积分获取加成，3次免费刷新=Tăng 40% nhận điểm, 3 lần làm mới miễn phí
+60%积分获取加成，4次免费刷新=Tăng 60% nhận điểm, 4 lần làm mới miễn phí
+\=\=\= 存档系统信息 \=\=\=\n==== Thông tin hệ thống lưu trữ ===\n
+\=\=\= 扫雷求解器测试开始 \=\=\=\n==== Bắt đầu thử nghiệm giải quét mìn ===\n
 >退出=>Thoát
+API密钥无效，无法删除关卡=Khóa API không hợp lệ, không thể xóa màn chơi
+Hold音符开始: 轨道{0}, 判定{1}=Bắt đầu nốt giữ (Hold): Đường chạy {0}, Phán đoán {1}
 Tips：主菜单设置中可以一键解锁，新玩家不推荐=Mẹo: Trong cài đặt menu chính có thể mở khóa một chạm, người chơi mới không khuyến nghị
 Tips：按esc可以直接返回查看全部=Mẹo: Nhấn ESC để quay lại xem toàn bộ
+[AttributePanel] 变量项预制体或容器未设置=[AttributePanel] Chưa thiết lập prefab hoặc vùng chứa biến số
+[AutoChessSaveSystem] 自动存档已删除=[AutoChessSaveSystem] Đã xóa lưu trữ tự động
+[DivideNode] 除数为零！返回0，节点ID: =[DivideNode] Số chia bằng 0! Trả về 0, ID nút: 
+[EconomyManager] 购买升级: -{0}金币=[EconomyManager] Mua nâng cấp: -{0} Vàng
+[NodeInfoPanel] 面板对象未设置=[NodeInfoPanel] Đối tượng bảng điều khiển chưa thiết lập
+[NodeInfoPanel] 面板或变量编辑面板未设置=[NodeInfoPanel] Chưa thiết lập bảng điều khiển hoặc bảng chỉnh sửa biến
+[ScratchCell] 开始刮擦=[ScratchCell] Bắt đầu cào vé
+[ShopManager] 商店刷新完成 =[ShopManager] Làm mới cửa hàng hoàn tất 
+[ShopManager] 商店已锁定，跳过刷新=[ShopManager] Cửa hàng đã khóa, bỏ qua làm mới
+[ShopManager] 商店系统初始化完成=[ShopManager] Khởi tạo hệ thống cửa hàng hoàn tất
+[ShopManager] 新回合开始，刷新次数已重置=[ShopManager] Hiệp mới bắt đầu, số lượt làm mới đã đặt lại
+[ShopManager] 金币不足! 需要: {0}=[ShopManager] Không đủ Vàng! Cần: {0}
+[在线关卡] 已加载 {0} 个关卡列表=[Màn chơi Online] Đã tải danh sách {0} màn chơi
+[在线关卡] 成功加载关卡: =[Màn chơi Online] Tải màn chơi thành công: 
+[在线关卡] 正在下载关卡: =[Màn chơi Online] Đang tải xuống màn chơi: 
+debug模式关闭=Chế độ Debug đã tắt
+debug模式开启=Chế độ Debug đã bật
+sampleName 未设置，无法设置默认存档按钮=sampleName chưa thiết lập, không thể gán nút lưu mặc định
+sampleName 预制体未设置，无法创建按钮=Prefab sampleName chưa thiết lập, không thể tạo nút
+up刷新倒计时：\n{0}=Đếm ngược làm mới UP:\n{0}
+{0}\n价格：{1}={0}\nGiá: {1}
+{0}混池模式（已选{1}个场景）=Chế độ Bể Hỗn Hợp {0} (Đã chọn {1} bối cảnh)
+⏸️ 已播放一小拍，自动暂停 | 当前: {0:F3}s=⏸️ Đã phát một phách ngắn, tự động tạm dừng | Hiện tại: {0:F3}s
+⏸️ 已暂停=⏸️ Đã tạm dừng
+⏸️ 立即暂停 | 设置: {0:F3}s=⏸️ Tạm dừng ngay | Thiết lập: {0:F3}s
+▶️ 播放一小拍: 从 {0}.{1} 开始=▶️ Phát một phách ngắn: Bắt đầu từ {0}.{1}
+⚠️ 超过目标时间，强制校正 | 设置: {0:F3}s=⚠️ Vượt quá thời gian mục tiêu, cưỡng chế hiệu chỉnh | Thiết lập: {0:F3}s
+上一页=Trang trước
+上传成功！关卡正在等待审核\n可以前往QQ群：=Tải lên thành công! Màn chơi đang chờ duyệt\nCó thể vào nhóm QQ:
+上传用户关卡时发生错误: =Lỗi khi tải lên màn chơi của người dùng: 
+上次使用的存档 '=Bản lưu dùng lần trước '
+下一页=Trang sau
+下载关卡 =Tải xuống màn chơi 
+下载关卡失败: =Tải màn chơi thất bại: 
+不可重命名默认存档=Không thể đổi tên bản lưu mặc định
+不能使用默认存档名称=Không thể dùng tên lưu mặc định
+专用选项列表类型，点击时保留本次事件上下文=Loại danh sách tùy chọn chuyên dụng, nhấp để giữ ngữ cảnh sự kiện này
+云杉弓手的价格降低50=Giá của Xạ Thủ Vân Sam giảm 50
+仅炼狱模式可出现。=Chỉ xuất hiện ở Luyện Ngục.
+从文件中读取到关卡：{0}，类型:{1}，编号:{2}=Đọc màn chơi từ tệp: {0}, Loại: {1}, Mã số: {2}
+价格=Giá
+价格：{0}\n=Giá: {0}\n
+余额不足，购买需要：10000=Số dư không đủ, cần để mua: 10000
+作弊模式已关闭=Chế độ gian lận đã tắt
 \n豌豆射手可以融合出机枪射手吗？ =\nĐậu Bắn Súng có thể dung hợp ra Đậu Súng Máy không? 
   豌豆射手 + {0} \= {1}=  Đậu Bắn Súng + {0} = {1}
  · 专家植物= · Thực vật Chuyên gia
