@@ -343,3 +343,12 @@ Tên affix/boss/cây mới. Nhóm chính:
 | 这个词条已经被其他路选择 | "lộ trình khác" | 路 ở đây = route, không phải lane |
 
 (Chi tiết đầy đủ trong `glossary.json` — tổng 589 mục.)
+
+### Thuật ngữ batch Misc (vòng 7) + dọn glossary
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 小数 / 布尔 / 循环 | Số thập phân / Boolean / Vòng lặp (node editor) |
+| 屋顶 / 背包 / 标题 / 奖池 | Mái Nhà / Túi đồ / Tiêu đề / Kho thưởng |
+| 巡海游侠 / 就绪 / 展开 | Hiệp Sĩ Tuần Hải / Sẵn sàng / Mở rộng |
+| 战备 / 强制 / 开关 / 应用 / 底数 / 草稿 | Sẵn Sàng Chiến Đấu / Bắt buộc / Công tắc / Áp dụng / Cơ số / bản nháp |
+| ~~增幅→"Tăng Ích"~~ | **ĐÃ XÓA** — 0 chuỗi dùng; thực tế 61 chuỗi đều dịch theo ngữ cảnh ("tăng"/"Mức tăng") |
