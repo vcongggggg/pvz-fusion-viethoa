@@ -139,3 +139,42 @@
 | 手套 / 铲子 / 卡槽 / 卡牌 | Găng Tay / Xẻng / khay thẻ / thẻ |
 | 亚种 / 墓碑 / 弹坑 | á chủng / Bia Mộ / hố đạn |
 | 旗展千军 / 好运礼盒 / 内讯不达 | Kỳ Triển Thiên Quân / Hộp Quà May Mắn / Bặt Vô Âm Tín |
+
+### Thuật ngữ batch Dialogues
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 雪爪 / 火神 / 冰火连携反应 | Vuốt Tuyết / Hỏa Thần / Phản Ứng Liên Kết Băng Hỏa |
+| 寒冰机枪小喷菇 / 阳光机枪小喷菇 | Nấm Phun Nhỏ Súng Máy Băng Giá / Nấm Phun Nhỏ Súng Máy Ánh Dương |
+| 阳光帝果 / 火焰帝果 | Đế Quả Ánh Dương / Đế Quả Hỏa Diễm |
+| 魅后菇 / 魅帝菇 | Nấm Mị Hậu / Nấm Mị Đế |
+| 烈焰盘龙盆 / 烈焰竹龙 | Bồn Liệt Diệm Bàn Long / Trúc Long Liệt Diệm |
+| 铁豆小队 / 火菜炮 / 超级黄金罐子 | Tiểu Đội Đậu Sắt / Pháo Hỏa Thái / Hũ Vàng Siêu Cấp |
+| 质变 / 自走棋 / 出怪 | Biến Chất / cờ tự động / quái xuất hiện |
+| 进阶形态 / 索敌 | dạng tiến cấp / tìm địch |
+| 增伤 / 减伤 / 治疗加成 / 替伤 / 防压 | tăng sát thương / giảm sát thương / tăng hồi máu / chịu đòn thay / chống đè |
+| 究喷 | Nấm Phun Tối Thượng (viết tắt của 究极喷菇) |
+| 窝油 (trong 窝油帝盆/窝油帝刺) | giữ phiên âm "Oa Du" (tên meme/pun chưa rõ nghĩa, cần tra wiki game để chốt) |
+
+### Thuật ngữ batch UI (hoàn thành module)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 生存模式 / 炼狱随机模式 / 超级随机模式 / 随机融合模式 | Chế Độ Sinh Tồn / Chế Độ Luyện Ngục Ngẫu Nhiên / Chế Độ Siêu Cấp Ngẫu Nhiên / Chế Độ Dung Hợp Ngẫu Nhiên |
+| 自定义关卡 / 用户关卡 / 主线关卡 / 支线关卡 | Màn chơi tùy chỉnh / màn chơi người dùng / màn chính / màn chơi nhánh |
+| 领袖 / 旗帜波 / 音游 | Thủ Lĩnh / đợt cờ / game nhịp điệu |
+| 编辑模式 / 键盘控制模式 / 鼠标控制模式 / 道具箱 | Chế độ chỉnh sửa / Chế độ điều khiển bàn phím / Chế độ điều khiển chuột / rương đạo cụ |
+
+### Thuật ngữ batch Buffs (vòng 1)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 冻结值 / 轮回 / 僵王 | Điểm Đóng Băng / Vòng Luân Hồi / Vua Zombie |
+| 危机 / 通关 / 求解器 / 黑洞 | Khủng Hoảng / Vượt Ải / Bộ Giải / Hố Đen |
+| 独立伤害增幅 / 幸运一击 | Tăng Sát Thương Độc Lập / Đòn May Mắn |
+| 杨桃大帝 / 万年不化骨 / 融合洋芋 | Khế Đại Đế / Bất Hóa Cốt Vạn Năm / Khoai Tây Dung Hợp |
+
+### Thuật ngữ batch Misc (vòng 2)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 连击 / 拍子 | Combo / Nhịp (game nhịp điệu; phân biệt 拍→"phách") |
+| 棋盘 / 礼盒 / 罐子 | Bàn cờ / Hộp quà / Lọ |
+| 行动机会 / 速度增幅 | Lượt hành động / Tăng tốc |
+| 幸运 (chỉ số) / 预制体 / 槽位 | Lucky / Prefab / Khe |
