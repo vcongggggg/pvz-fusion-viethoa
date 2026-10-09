@@ -330,3 +330,16 @@ Tên affix/boss/cây mới. Nhóm chính:
 | 无视减伤 / 啃咬伤害 / 散射 | bỏ qua giảm sát thương / sát thương gặm nhấm / tán xạ |
 
 (Chi tiết đầy đủ trong `glossary.json` — tổng 529 mục.)
+
+### Thuật ngữ batch Buffs (vòng 6, hoàn thành module)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn | Ghi chú |
+| :--- | :--- | :--- |
+| 诸神图鉴 / 剑仙杨桃 / 死神猎手 | Sách Tra Cứu Chư Thần / Khế Kiếm Tiên / Thợ Săn Tử Thần | |
+| 太阳神卷心菜 / 月亮神卷心菜 | Bắp Cải Thần Mặt Trời / Bắp Cải Nguyệt Thần | |
+| 钛合金守卫 / 魂灵之主 / 黑曜石高坚果 / 窝瓜坚果 | Thủ Vệ Hợp Kim Titan / Chúa Tể Hồn Linh / Quả Óc Chó Khổng Lồ Hắc Diện Thạch / Óc Chó Bí Đè | |
+| 量子同频 / 量子护盾 / 超载 | Đồng Tần Lượng Tử / Khiên Lượng Tử / Quá Tải | |
+| 万剑归宗 / 起死回生 / 眼疾手快 | Vạn Kiếm Quy Tông / Khởi Tử Hồi Sinh / Mắt Nhanh Tay Lẹ | |
+| 超级高手 (typo gốc 升至1级) | Siêu Cấp Cao Thủ: "tăng 1 cấp" | Dịch theo ý đúng, gốc thiếu 1 nét |
+| 这个词条已经被其他路选择 | "lộ trình khác" | 路 ở đây = route, không phải lane |
+
+(Chi tiết đầy đủ trong `glossary.json` — tổng 589 mục.)
