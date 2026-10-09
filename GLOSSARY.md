@@ -77,3 +77,10 @@
 | **价格：{0}** | Giá: {0} |
 | **冷却：{0}秒** | Hồi chiêu: {0} giây |
 | **伤害：{0}** | Sát thương: {0} |
+| **混池模式** | Chế độ Bể Hỗn Hợp |
+| **炼狱模式** | Chế độ Luyện Ngục |
+| **云杉弓手** | Xạ Thủ Vân Sam |
+| **节点** | Node (trong editor node-graph, KHÔNG phải nút bấm) |
+| **存档** | Bản lưu (dữ liệu save game) |
+| **下载** | Tải xuống |
+| **扫雷** | Dò mìn |
