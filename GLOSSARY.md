@@ -178,3 +178,37 @@
 | 棋盘 / 礼盒 / 罐子 | Bàn cờ / Hộp quà / Lọ |
 | 行动机会 / 速度增幅 | Lượt hành động / Tăng tốc |
 | 幸运 (chỉ số) / 预制体 / 槽位 | Lucky / Prefab / Khe |
+
+### Thuật ngữ batch Plants (vòng 2)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn |
+| :--- | :--- |
+| 植物 | thực vật (danh từ chung cho cây trong game) |
+| 双子向日葵 / 睡莲 / 土豆雷 | Hoa Hướng Dương Đôi / Hoa Súng / Khoai Tây Mìn |
+| 超时空豌豆射手 / 金盆 / 金玉米投手 | Đậu Bắn Súng Siêu Thời Không / Chậu Vàng / Ngô Ném Bơ Vàng |
+| 极寒冰豆 / 樱桃三叶草 / 樱桃坚果 | Đậu Băng Cực Hàn / Cỏ Ba Lá Cherry / Óc Chó Cherry |
+| 胆小菇 / 魅惑菇 / 忧郁菇 | Nấm Nhát Gan / Nấm Thôi Miên / Nấm U Sầu |
+| 寒冰加农炮 / 寒冰毁灭菇 / 窝瓜南瓜 | Đại Bác Băng / Nấm Hủy Diệt Băng / Bí Đao Bí Ngô |
+| 紫卡 / 彩卡 / 玉米卷投手 | thẻ tím / thẻ màu / Ngô Ném Bánh Cuộn |
+| 火红莲币 / 星辉 | Xu Sen Lửa / Huy Sao |
+| 惊魂玩偶匣跳跳王 / 磁力菇王 | Vua Nhảy Hộp Kinh Hồn / Vua Nấm Từ Lực |
+| 月光反应器 / 气球僵尸 / 墓碑吞噬者 | Lò Phản Ứng Ánh Trăng / Zombie Bóng Bay / Kẻ Nuốt Chửng Bia Mộ |
+
+### Thuật ngữ batch Zombies (vòng 2) + chuẩn hóa xung đột
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn | Ghi chú |
+| :--- | :--- | :--- |
+| 星辉 / 星辉支线 | Tinh Huy / Nhánh Phụ Tinh Huy | Sửa từ "Huy Sao" (sai thứ tự Hán-Việt); chuẩn cho cả 13 chuỗi plants+zombies |
+| 猫瓜 / 火红莲 / 窝瓜 | Dưa Mèo / Hỏa Hồng Liên / Bí Đè | 窝瓜 (squash) theo quy ước cộng đồng PvZ |
+| 小丑王 / 舞装战车 | Vua Hề / Chiến Xa Vũ Trang | Nhất quán 黑袍小丑王→Vua Hề Áo Đen |
+| 免控 / 套娃 / 群攻 | Miễn khống chế / búp bê Nga / Quần Công | |
+| 诸神模式 / 光棱 / 秽土转生 / 迷你巨人 | Chế Độ Chư Thần / Lăng Kính / Uế Thổ Chuyển Sinh / Khổng Lồ Mini | |
+| 概率 / 比例 | xác suất / tỉ lệ | Giữ phân biệt: 概率→xác suất, 比例→tỉ lệ |
+| 一百万 (ngoại lệ của 万→vạn) | một triệu | "một triệu máu" tự nhiên hơn "100 vạn máu" |
+
+### Thuật ngữ batch Buffs (vòng 2)
+| Tiếng Trung (Gốc) | Tiếng Việt quy chuẩn | Ghi chú |
+| :--- | :--- | :--- |
+| 强究 | Cường Cửu | Tier thuộc tính (cùng nhóm 基础/僵尸); ÂM HÁN-VIỆT TẠM — cần tác giả mod xác nhận nghĩa |
+| 玩偶匣 / 缩小射线 / 业火 / 亡语 | Hộp Hề / Tia Thu Nhỏ / Nghiệp Hỏa / Di Ngôn | |
+| 原型领袖 / 手推车 / 小推车 | Thủ lĩnh nguyên mẫu / xe cắt cỏ | xe cắt cỏ = lawn mower |
+| 迷你黑橄榄将军 | Tướng Quân Ô Liu Đen Mini | |
+| 植物 (chuẩn toàn dự án) | thực vật | Đã migrate 146 chuỗi (plants 104 + buffs 40 + plants lẻ 2); ngoại lệ: 融合树→"cây dung hợp", 火炬树桩→"Gốc Cây Đuốc" (树, không phải 植物) |
